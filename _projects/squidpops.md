@@ -2,7 +2,10 @@
 layout: project
 title: Squidpops
 thumbnail: /projects/popsicle.png
-githubrepo: https://github.com/MarineGEO/Squidpops
+release:
+  githubrelease: https://github.com/MarineGEO/Squidpops/releases
+  fieldsheet: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/SquidpopFieldsheet.pdf
+  template: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/squidpops.xlsx
 weight: 3
 ---
 
