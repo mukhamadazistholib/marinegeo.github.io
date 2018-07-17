@@ -2,16 +2,9 @@
 layout: base
 ---
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
 {% include header.html type="page" %}
-
-<!-- need to add in bootstrap from cdn since font's are not loaded for glyphicons -->
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
 
 
 <div class="container" role="main">
@@ -21,10 +14,10 @@ layout: base
 
       <div class="pagination-centered" style="outline: 2px solid black; padding: 20px">
 
-        <h3><a href="{{page.release.githubrelease}}">Github Repository</a></h3>
-        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
+        <h3><a href="{{page.release.githubrelease}}" style="color:inherit;">Github Repository</a></h3>
+        <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">save_alt</i>
         <a href="{{page.release.fieldsheet}}">Fieldsheet</a><br>
-        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
+        <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">save_alt</i>
         <a href="{{page.release.template}}">Data Template</a>
       </div>
 
