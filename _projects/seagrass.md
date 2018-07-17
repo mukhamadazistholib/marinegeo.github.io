@@ -3,6 +3,9 @@ layout: project
 title: Seagrass
 thumbnail: /projects/seagrass.png
 weight: 6
+habitats:
+  - type: seagrass
+    img: /projects/seagrass.png
 ---
 
 ## Personnel

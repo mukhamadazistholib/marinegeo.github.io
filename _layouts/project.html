@@ -10,6 +10,18 @@ layout: base
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <div class="row">
+        <h2>Habitats</h2>
+        <br>
+        {% for h in page.habitats %}
+        <div class="col-sm-4 center-block">
+          <img src={{h.img}} class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -36.5px;" />
+          <p style="text-align:center">{{h.type | capitalize}}</p>
+        </div>
+        {% endfor %}
+      </div>
+
       {% if page.release %}
 
       <div class="pagination-centered" style="outline: 2px solid black; padding: 20px">
@@ -24,7 +36,8 @@ layout: base
       {% else %}
       {% endif %}
 
-      {{ content }} {% if page.comments %}
+      {{ content }}
+      {% if page.comments %}
       <div class="disqus-comments">
         {% include disqus.html %}
       </div>

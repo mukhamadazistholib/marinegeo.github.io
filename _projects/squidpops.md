@@ -7,6 +7,11 @@ release:
   fieldsheet: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/SquidpopFieldsheet.pdf
   template: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/squidpops.xlsx
 weight: 3
+habitats:
+  - type: seagrass
+    img: /projects/seagrass.png
+  - type: sand
+    img: /projects/popsicle.png
 ---
 
 ## Purpose
