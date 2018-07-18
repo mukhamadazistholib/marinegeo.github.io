@@ -41,3 +41,11 @@ docker stop beautiful-jekyll
 ```
 
 Whenever you make any changes to `_config.yml`, you must stop and re-start the server for the new config settings to take effect.
+
+Or if ruby is already https://jekyllrb.com/docs/quickstart/
+```bash
+# Build the site on the preview server
+bundle exec jekyll serve
+
+# Now browse to http://localhost:4000
+```

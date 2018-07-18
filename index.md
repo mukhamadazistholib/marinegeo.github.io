@@ -9,9 +9,11 @@ use-site-title: true
 
 Collaborative website for people in the MarineGEO network to discover methods, learn data management techniques, and download methods and data entry templates.
 
-## Projects
+## Project Modules
 
-{% assign sorted = site.projects | sort: "weight" %}
+Project modules are packages that contain instructions for deploying experiments, data entry templates and field sheets.
+
+{% assign sorted = site.project-modules | sort: "weight" %}
 {% for cat in sorted %}
 
 <div class="col-md-12 col-md-offset-1" style="width: 200px; padding-top: 25px;">

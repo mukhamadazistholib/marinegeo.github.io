@@ -3,6 +3,8 @@ layout: project
 title: Mangroves
 thumbnail: /img/Logomark_RGB.png
 weight: 2
+habitats:
+  - type: mangrove
 ---
 
 # Rapid Mangrove Survey - Point-centered quarter transects (PCQT)

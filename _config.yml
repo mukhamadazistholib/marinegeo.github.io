@@ -24,7 +24,12 @@ description: Tools and resources for MarineGEO datasets
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Projects: "projects"
+  Modules:
+    - All: "modules"
+    - Reefs: "modules/reef-habitat"
+    - Seagrass Beds: "modules/seagrass-habitat"
+    - Mangroves: "modules/mangrove-habitat"
+    - Sand: "modules/sand-habitat"
   Blog: "blog"
   Standards: "standards"
   Resources:
@@ -176,9 +181,9 @@ defaults:
       show-avatar: true
 
 collections:
-  projects:
+  project-modules:
     output: true
-    permalink: /projects/:name
+    permalink: /modules/:name
 
 # Use tags index page and make tags on each post clickable
 link-tags: true

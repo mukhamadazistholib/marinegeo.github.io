@@ -1,8 +1,13 @@
 ---
 layout: project
 title: Water Quality
-thumbnail: /projects/sonde.png
+thumbnail: /img/sonde.png
 weight: 1
+habitats:
+  - type: reef
+  - type: seagrass
+  - type: sand
+  - type: mangrove
 ---
 
 # Chemical-Physical Observation Program (CPOP)

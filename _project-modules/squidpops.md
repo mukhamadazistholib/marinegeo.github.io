@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Squidpops
-thumbnail: /projects/popsicle.png
+thumbnail: /img/popsicle.png
 release:
   githubrelease: https://github.com/MarineGEO/Squidpops/releases
   fieldsheet: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/SquidpopFieldsheet.pdf
@@ -9,9 +9,7 @@ release:
 weight: 3
 habitats:
   - type: seagrass
-    img: /projects/seagrass.png
   - type: sand
-    img: /projects/popsicle.png
 ---
 
 ## Purpose
