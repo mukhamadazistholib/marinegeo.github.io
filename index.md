@@ -13,13 +13,15 @@ Collaborative website for people in the MarineGEO network to discover methods, l
 
 Project modules are packages that contain instructions for deploying experiments, data entry templates and field sheets.
 
-{% assign sorted = site.project-modules | sort: "weight" %}
-{% for cat in sorted %}
+{% assign sorted = site.project-modules | sort: "weight" | where_exp:"item", "item.submodule != true" %}
 
-<div class="col-md-12 col-md-offset-1" style="width: 200px; padding-top: 25px;">
- <a href="{{site.baseurl}}{{cat.url}}">
-   <img src="{{ cat.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-  <h4 style="text-align:center">{{cat.title}}</h4>
+{% for project-module in sorted %}
+<div class="col-md-3 col-sm-4 col-xs-10 col-xs-offset-1">
+  <div style="width: 200px; padding-top: 25px; ">
+ <a href="{{site.baseurl}}{{project-module.url}}">
+   <img src="{{ project-module.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+  <h4 style="text-align:center">{{project-module.title}}</h4>
 </a>
+</div>
 </div>
 {% endfor %}
