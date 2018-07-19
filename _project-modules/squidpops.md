@@ -13,26 +13,25 @@ habitats:
   - type: sand
 ---
 
+
+
 ## Purpose
-Fishes are not only important sources of food for people, they are also key “engineers” in marine ecosystems, potentially reducing establishment of invasive species and maintaining desirable habitats like reefs and seagrass beds in the face of overgrowth by algae. Although the ecological importance of such “top-down control” by predators is widely appreciated, it has not been measured systematically across a range of sites in marine waters. The Bitemap project aims to do so.
 
-The structure and function of ecosystems is largely dictated by the types and productivity of plants that populate them. These characteristics are in turn set by the supply of resources and the intensity of consumption by animals, commonly called bottom-up and top-down forcing, respectively. Bottom-up control is relatively well understood, with primary production following straightforward theoretical and empirical relationships with temperature and the availability of light, water, and mineral nutrients. Vegetation can be mapped relatively easily, and as a result, remote sensing has yielded a picture of the distribution and biomass of primary producers at a level of detail unimaginable a few decades ago.
+Squidpops are a simple, standardized assay for measuring the relative feeding intensity of generalist predators in aquatic systems. The assay consists of a 1.3-cm diameter disk of dried squid mantle tethered to a rod, which is either inserted in the sediment in soft-bottom habitats or secured to existing structure. Each replicate squidpop is scored as present or absent after 1 and 24 hours, and the data for analysis are proportions of replicate units consumed at each time. Tests in several habitats confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients.
 
-The geography of top-down control is much less well understood. Characterizing this variation in consumer pressure is important because evidence indicates that top-down control by predators tends to have stronger impacts and penetrates farther through the food web than does bottom-up control by resources. Yet predators are declining around the world, with often profound but poorly documented implications for ecosystem structure and function.
-
+In non-turbid waters, deploying underwater video cameras such as GoPro cameras along side the squidpop stakes allows for additional metrics to be calculated. After scoring the video by identifying and counting fish species present, you can calculate the feeding rate and diversity.
 
   <img src="squidpop-screenshot.png" >
 
 
-## About
-
-Squidpops are a simple, standardized assayfor measuring the relative feeding intensity of generalist predators in aquatic systems. The assay consists of a 1.3-cm diameter disk of dried squid mantle tethered to a rod, which is either inserted in the sediment in soft-bottom habitats or secured to existing structure. Each replicate squidpop is scored as present or absent after 1 and 24 hours, and the data for analysis are proportions of replicate units consumed at each time. Tests in several habitats confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients. Quantitative visual surveys confirmed that assayed feeding intensity increased with abundance and species richness of fishes across sites,. Predation intensity varied seasonally, being highest during summer and declining in late autumn. Deployments in marsh habitats generally revealed a decline in mean predation intensity from fully marine to tidal freshwater sites..
-
 ## Goals
 
-(1) Obtain quantitative, standardized estimates of predator feeding intensity;
+ - Obtain quantitative, standardized estimates of predator feeding intensity;
+ - Obtain quantitative, standardized estimates of fish abundance, size and species composition
 
-(2) Obtain quantitative, standardized estimates of fish abundance, size and species composition
+### Parameters measured
+  - Feeding intensity
+  - Diversity of predators (video)
 
 
 ## Materials:
@@ -45,7 +44,7 @@ Squidpops are a simple, standardized assayfor measuring the relative feeding int
  - Location dependent. Typically includes: a fleshy red alga, fleshy green alga, fleshy brown alga, calcareous red, seagrass blade. Pieces of algae should be about the size of a circle formed by your thumb and forefinger, blades of seagrass should be cut to ~7cm lengths.
  - Data Sheet
 
-## Method:
+## Methods:
 
 1.	Attach rock or rubble to one end of each rope. Usually this can be done by gently pulling apart the twisted rope and inserting the rubble so it holds. You will have to make sure the ropes are either burned or taped at each end to prevent fraying. Curved coral rubble works very well as weight.
 2.	Attach piece of neoprene to other end with zip tie.
@@ -59,3 +58,7 @@ a.	When you first start deploying these assays, or switch to a new species of ma
 9.	Return after 24 hours from initial deployment, score all the ropes as at one hour, and retrieve the ropes.
 10.	Enter your data in the computer as soon as possible! We will have a template soon for you to use for this, but for now use the guidance provided. Be sure to update the metadata tab where appropriate!
 11.	Submit data to the MarineGEO data manager: <marinegeo-data@si.edu>.
+
+## Data curation      
+
+Submit data to marinegeo-data@si.edu.
