@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagelink2edit
 title: About
 subtitle: Contact Us
 ---

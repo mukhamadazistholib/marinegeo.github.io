@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagelink2edit
 title: MarineGEO Data
 subtitle: Data Standards and Guidelines
 use-site-title: true

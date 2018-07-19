@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagelink2edit
 title: Standards
 subtitle: MarineGEO Data Standards and Guidelines
 ---
@@ -61,7 +61,7 @@ Units should never be stored with the data. Instead, include the unit in the fie
 
 ## Units
 
-Please use SI units. 
+Please use SI units.
 
 ## Metadata
 
