@@ -6,14 +6,18 @@ layout: base
 
 <div class="container" role="main">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-md-10 col-md-offset-1">
+    <!--<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">-->
+      <div style="outline: 2px dashed blue;"
       {{ content }}
+    </div>
 
+    <div class="row justify-content-center" style="margin: auto; outline: 2px dashed blue;">
       {% assign sorted = site.project-modules | sort: "weight" %}
 
       {% if page.all %}
       {% for project-module in sorted %}
-      <div class="col-md-12 col-md-offset-1" style="width: 200px; padding-top: 25px;">
+      <div class="col-sm-4 col-sm-offset-1 col-xs-6" style="width: 200px; padding-top: 25px; outline: 2px dashed blue;">
        <a href="{{site.baseurl}}{{project-module.url}}">
          <img src="{{ project-module.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
         <h4 style="text-align:center">{{project-module.title}}</h4>
@@ -27,7 +31,7 @@ layout: base
       {% for habitat in project-module.habitats %}
         {% if habitat.type == page.habitat %}
 
-    <div class="col-md-12 col-md-offset-1" style="width: 200px; padding-top: 25px;">
+    <div class="col-sm-4 col-sm-offset-1 col-xs-6" style="width: 200px; padding-top: 25px;">
      <a href="{{site.baseurl}}{{project-module.url}}">
        <img src="{{ project-module.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
       <h4 style="text-align:center">{{project-module.title}}</h4>
@@ -42,6 +46,7 @@ layout: base
 
 
 
+    </div>
     </div>
   </div>
 </div>
