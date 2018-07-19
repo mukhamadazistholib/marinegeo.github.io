@@ -3,6 +3,7 @@ layout: project
 title: Mangroves
 thumbnail: /img/Logomark_RGB.png
 weight: 2
+submodule: false
 habitats:
   - type: mangrove
 ---

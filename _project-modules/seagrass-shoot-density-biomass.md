@@ -5,6 +5,7 @@ thumbnail: /img/seagrass.png
 weight: 6
 habitats:
   - type: seagrass
+submodule: true
 ---
 
 # Collect samples: Shoot density and above-ground biomass

@@ -13,7 +13,7 @@ layout: base
     </div>
 
     <div class="row" style="">
-      {% assign sorted = site.project-modules | sort: "weight" %}
+      {% assign sorted = site.project-modules | sort: "weight" | where_exp:"item", "item.submodule != true" %}
 
       {% if page.all %}
       {% for project-module in sorted %}

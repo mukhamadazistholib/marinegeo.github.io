@@ -5,7 +5,7 @@ thumbnail: /img/Logomark_RGB.png
 weight: 4
 habitats:
   - type: reef
-  - type: seagrass 
+  - type: seagrass
 ---
 
 

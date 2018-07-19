@@ -5,6 +5,7 @@ thumbnail: /img/seagrass.png
 weight: 6
 habitats:
   - type: seagrass
+submodule: true
 ---
 
 ### Measure macrophyte percent cover

@@ -3,6 +3,7 @@ layout: project
 title: Seagrass
 thumbnail: /img/seagrass.png
 weight: 6
+submodule: false
 habitats:
   - type: seagrass
 ---
@@ -30,3 +31,40 @@ The seagrass community assessment has two main components: (1) non-destructive a
  - Seagrass above-ground biomass
  - Fouling mass on seagrass leaves
  - Mobile epifauna: species composition and abundance
+
+
+# Submodules
+ <div class="row" style="">
+   <div class="col-md-3 col-sm-4 col-xs-10 col-xs-offset-1">
+     <div style="width: 200px; padding-top: 25px; ">
+      <a href="seagrass-fouling-mass">
+        <img src="/img/seagrass.png" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+       <h4 style="text-align:center">Seagrass Fouling Mass</h4>
+       </a>
+     </div>
+  </div>
+   <div class="col-md-3 col-sm-4 col-xs-10 col-xs-offset-1">
+     <div style="width: 200px; padding-top: 25px; ">
+      <a href="seagrass-macrophyte-cover">
+        <img src="/img/seagrass.png" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+       <h4 style="text-align:center">Seagrass Macrophyte Cover</h4>
+       </a>
+     </div>
+  </div>
+   <div class="col-md-3 col-sm-4 col-xs-10 col-xs-offset-1">
+     <div style="width: 200px; padding-top: 25px; ">
+      <a href="seagrass-mobile-epifauna">
+        <img src="/img/seagrass.png" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+       <h4 style="text-align:center">Seagrass Mobile Epifauna</h4>
+       </a>
+     </div>
+  </div>
+   <div class="col-md-3 col-sm-4 col-xs-10 col-xs-offset-1">
+     <div style="width: 200px; padding-top: 25px; ">
+      <a href="seagrass-shoot-density-biomass">
+        <img src="/img/seagrass.png" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+       <h4 style="text-align:center">Seagrass Shoot Density & Biomass</h4>
+       </a>
+     </div>
+  </div>
+</div>

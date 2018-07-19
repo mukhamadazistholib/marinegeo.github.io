@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Quadcopter
+submodule: false
 thumbnail: /img/Logomark_RGB.png
 weight: 6
 ---
