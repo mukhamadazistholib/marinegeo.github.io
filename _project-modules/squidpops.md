@@ -17,6 +17,11 @@ habitats:
 
 ## Purpose
 
+<!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esSByfVlMt4"></iframe>
+</div>
+
 Squidpops are a simple, standardized assay for measuring the relative feeding intensity of generalist predators in aquatic systems. The assay consists of a 1.3-cm diameter disk of dried squid mantle tethered to a rod, which is either inserted in the sediment in soft-bottom habitats or secured to existing structure. Each replicate squidpop is scored as present or absent after 1 and 24 hours, and the data for analysis are proportions of replicate units consumed at each time. Tests in several habitats confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients.
 
 In non-turbid waters, deploying underwater video cameras such as GoPro cameras along side the squidpop stakes allows for additional metrics to be calculated. After scoring the video by identifying and counting fish species present, you can calculate the feeding rate and diversity.
@@ -33,8 +38,7 @@ In non-turbid waters, deploying underwater video cameras such as GoPro cameras a
   - Feeding intensity
   - Diversity of predators (video)
 
-
-## Materials:
+## Materials
 
  - ~1 meter lengths of ¼ inch polypropylene rope (20)
  - Small rock or rubble to attach to one end of rope as weight (20)
@@ -44,7 +48,14 @@ In non-turbid waters, deploying underwater video cameras such as GoPro cameras a
  - Location dependent. Typically includes: a fleshy red alga, fleshy green alga, fleshy brown alga, calcareous red, seagrass blade. Pieces of algae should be about the size of a circle formed by your thumb and forefinger, blades of seagrass should be cut to ~7cm lengths.
  - Data Sheet
 
-## Methods:
+## Methods
+
+<!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GP8c24aNykg"></iframe>
+</div>
+
+<br>
 
 1.	Attach rock or rubble to one end of each rope. Usually this can be done by gently pulling apart the twisted rope and inserting the rubble so it holds. You will have to make sure the ropes are either burned or taped at each end to prevent fraying. Curved coral rubble works very well as weight.
 2.	Attach piece of neoprene to other end with zip tie.

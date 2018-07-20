@@ -6,6 +6,8 @@ weight: 2
 submodule: false
 habitats:
   - type: mangrove
+submodules:
+  - /modules/seagrass
 ---
 
 # Rapid Mangrove Survey - Point-centered quarter transects (PCQT)

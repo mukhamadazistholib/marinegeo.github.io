@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Benthic Photoquadrants
-thumbnail: /img/Logomark_RGB.png
+title: Benthic Photoquadants
+thumbnail: /img/scuba_diver.png
 weight: 4
 habitats:
   - type: reef
