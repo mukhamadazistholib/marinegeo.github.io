@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Quadcopter
+title: Aerial Habitat Surveys
 submodule: false
-thumbnail: /img/Logomark_RGB.png
+thumbnail: /img/quadcopter.png
 weight: 6
 ---
 

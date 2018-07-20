@@ -36,6 +36,8 @@ Note: you may need to convert the image back to RBG mode in order to complete th
 
 ## 5. Delete the selection
 
+First make sure that the image has an Alpha channel. 
+
 Select Edit -> Clear
 
 Then, use the Eraser tool to clean up any remaining background areas
