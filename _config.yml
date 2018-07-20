@@ -31,6 +31,7 @@ navbar-links:
     - Seagrass: "modules/seagrass-habitat"
     - Mangroves: "modules/mangrove-habitat"
     - Sand: "modules/sand-habitat"
+    - Panamex: "modules/panamex"
   Resources:
     - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
     - OBIS: "http://www.iobis.org/"
