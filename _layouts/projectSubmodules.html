@@ -38,17 +38,15 @@ layout: base
 
       {% if page.submodules %}
       <h1>Submodules from YAML</h1>
-      {% assign pagesubmodules = page.submodules %}
 
-      {% for sub in pagesubmodules %}
-        {% capture subpath %}
-        /modules/{{sub}}
-        {% endcapture %}
-        {{subpath}}
-        {% assign submod = site.project-modules | where:"id", "{{subpath}}" | first %}
-        {{submod.title}}
-        {{submod.id}}
-        {{submod.thumbnail}}
+      {% for submod in page.submodules %}
+      {% for module in site.project-modules %}
+        {{module.id}}
+        {% if "/modules/seagrass-macrophyte-cover" == module.id %}
+          {{module.id}}
+          {{submod}}
+        {% endif %}
+      {% endfor %}
       {% endfor %}
 
 
