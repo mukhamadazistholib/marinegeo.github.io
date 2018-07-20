@@ -49,3 +49,7 @@ bundle exec jekyll serve
 
 # Now browse to http://localhost:4000
 ```
+
+# Jekyll Cheat Sheet
+
+https://learn.cloudcannon.com/jekyll-cheat-sheet/

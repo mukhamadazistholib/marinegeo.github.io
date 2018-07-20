@@ -1,11 +1,16 @@
 ---
-layout: project
+layout: projectSubmodules
 title: Seagrass
 thumbnail: /img/seagrass.png
 weight: 6
 submodule: false
 habitats:
   - type: seagrass
+submodules:
+  - seagrass-fouling-mass
+  - seagrass-macrophyte-cover
+  - seagrass-mobile-epifauna
+  - seagrass-shoot-density-biomass
 ---
 
 ## Personnel
