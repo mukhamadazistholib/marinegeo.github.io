@@ -7,10 +7,10 @@ submodule: false
 habitats:
   - type: seagrass
 submodules:
-  - seagrass-fouling-mass
-  - seagrass-macrophyte-cover
-  - seagrass-mobile-epifauna
-  - seagrass-shoot-density-biomass
+  - /modules/seagrass-fouling-mass
+  - /modules/seagrass-macrophyte-cover
+  - /modules/seagrass-mobile-epifauna
+  - /modules/seagrass-shoot-density-biomass
 ---
 
 ## Personnel

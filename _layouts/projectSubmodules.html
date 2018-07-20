@@ -39,14 +39,11 @@ layout: base
       {% if page.submodules %}
       <h1>Submodules from YAML</h1>
 
-      {% for submod in page.submodules %}
       {% for module in site.project-modules %}
-        {{module.id}}
-        {% if "/modules/seagrass-macrophyte-cover" == module.id %}
+        {% if page.submodules contains module.id%}
           {{module.id}}
-          {{submod}}
+          {{module.title}}
         {% endif %}
-      {% endfor %}
       {% endfor %}
 
 
