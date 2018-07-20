@@ -14,7 +14,7 @@ layout: base
       <div style="padding-bottom: 30px">
       <a target="_blank" href="{{site.github.repository_url}}/blob/master/{{page.path}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me <i class="fa fa-edit"></i></a>
       </div>
-      
+
       {% if page.release %}
 
       <div class="pagination-centered" style="outline: 2px solid black; padding: 20px">
@@ -42,7 +42,7 @@ layout: base
           {% if page.submodules contains module.id%}
             <div class="col-md-3 col-sm-4 col-xs-6">
               <div style="padding-top: 25px; ">
-                <a href="{{site.baseurl}}{{pmodule.url}}">
+                <a href="{{site.baseurl}}{{module.url}}">
                        <img src="{{module.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
                       <h4 style="text-align:center">{{module.title}}</h4>
                     </a>

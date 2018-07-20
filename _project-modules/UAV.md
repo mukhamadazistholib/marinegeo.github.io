@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Aerial Habitat Surveys
-submodule: false
 thumbnail: /img/quadcopter.png
 weight: 6
 ---

@@ -1,7 +1,7 @@
 ---
 layout: modules
 title: Reef Habitat
-habitat: reef
+group: reef
 ---
 
 # Reefs

@@ -15,7 +15,7 @@ layout: base
       </div>
 
     <div class="row">
-      {% assign sorted = site.project-modules | sort: "weight" | where_exp:"item", "item.submodule != true" %}
+      {% assign sorted = site.project-modules | sort: "weight" | where_exp:"item", "item.exclude != true" %}
 
       {% if page.all %}
       {% for project-module in sorted %}
@@ -32,8 +32,8 @@ layout: base
       {% else %}
       <h4>Modules</h4>
       {% for project-module in sorted %}
-      {% for habitat in project-module.habitats %}
-        {% if habitat.type == page.habitat %}
+      {% for group in project-module.groups %}
+        {% if group == page.group %}
 
         <!--<div class="col-md-3 col-sm-4 col-xs-10 col-xs-offset-1">-->
         <div class="col-md-3 col-sm-4 col-xs-6">

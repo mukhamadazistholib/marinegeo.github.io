@@ -7,10 +7,9 @@ release:
   fieldsheet: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/SquidpopFieldsheet.pdf
   template: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/squidpops.xlsx
 weight: 3
-submodule: false
-habitats:
-  - type: seagrass
-  - type: sand
+groups:
+  - seagrass
+  - sand
 ---
 
 

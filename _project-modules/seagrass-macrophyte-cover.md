@@ -3,9 +3,9 @@ layout: project
 title: Seagrass Macrophyte Cover
 thumbnail: /img/seagrass.png
 weight: 6
-habitats:
-  - type: seagrass
-submodule: true
+groups:
+  - seagrass
+exclude: true
 ---
 
 ### Measure macrophyte percent cover

@@ -3,9 +3,8 @@ layout: project
 title: Seagrass
 thumbnail: /img/seagrass.png
 weight: 6
-submodule: false
-habitats:
-  - type: seagrass
+groups:
+  - seagrass
 submodules:
   - /modules/seagrass-fouling-mass
   - /modules/seagrass-macrophyte-cover

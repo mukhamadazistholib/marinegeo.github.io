@@ -3,9 +3,9 @@ layout: project
 title: Benthic Photoquadants
 thumbnail: /img/scuba_diver.png
 weight: 4
-habitats:
-  - type: reef
-  - type: seagrass
+groups:
+  - reef
+  - seagrass
 ---
 
 

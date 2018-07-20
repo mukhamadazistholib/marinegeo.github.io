@@ -3,9 +3,9 @@ layout: project
 title: Seagrass Shoot Density & Biomass
 thumbnail: /img/seagrass.png
 weight: 6
-habitats:
-  - type: seagrass
-submodule: true
+groups:
+  - seagrass
+exclude: true
 ---
 
 # Collect samples: Shoot density and above-ground biomass

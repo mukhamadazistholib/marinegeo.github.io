@@ -1,7 +1,7 @@
 ---
 layout: modules
-title: Sand Modules
-habitat: sand
+title: Sand Habitat
+group: sand
 ---
 
 # Sand

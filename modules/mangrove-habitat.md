@@ -1,7 +1,7 @@
 ---
 layout: modules
-title: Mangrove Modules
-habitat: mangrove
+title: Mangrove Habitat
+group: mangrove
 ---
 
 # Mangroves
