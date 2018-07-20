@@ -23,15 +23,14 @@ description: Tools and resources for MarineGEO datasets
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  Blog: "blog"
+  Standards: "standards"
   Modules:
     - All: "modules"
     - Reefs: "modules/reef-habitat"
-    - Seagrass Beds: "modules/seagrass-habitat"
+    - Seagrass: "modules/seagrass-habitat"
     - Mangroves: "modules/mangrove-habitat"
     - Sand: "modules/sand-habitat"
-  Blog: "blog"
-  Standards: "standards"
   Resources:
     - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
     - OBIS: "http://www.iobis.org/"
