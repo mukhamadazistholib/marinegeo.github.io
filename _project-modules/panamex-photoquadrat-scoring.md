@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Settling plates - Photoquadrat Scoring
-thumbnail: /img/Logomark_RGB.png
+thumbnail: /img/quadrat.png
 weight: 7
 groups:
   - panamex
