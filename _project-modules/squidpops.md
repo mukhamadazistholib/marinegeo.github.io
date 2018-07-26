@@ -3,9 +3,6 @@ layout: project
 title: Squidpops
 thumbnail: /img/icons/popsicle.png
 editbutton: true
-groups:
-  - seagrass
-  - sand
 ---
 
 
