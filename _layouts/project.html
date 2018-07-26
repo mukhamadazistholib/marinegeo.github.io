@@ -42,7 +42,7 @@ layout: base
       {% if page.submodules %}
       <h1>Submodules</h1>
         {% for module in site.project-modules %}
-          {% if page.submodules contains module.id%}
+          {% if page.submodules == module.id%}
             <div class="col-md-3 col-sm-4 col-xs-6">
               <div style="padding-top: 25px; ">
                 <a href="{{site.baseurl}}{{module.url}}">
