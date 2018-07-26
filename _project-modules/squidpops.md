@@ -3,6 +3,10 @@ layout: project
 title: Squidpops
 thumbnail: /img/icons/popsicle.png
 editbutton: true
+release:
+  -  githubrelease: https://github.com/MarineGEO/Squidpops/releases
+  -  fieldsheet: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/SquidpopFieldsheet.pdf
+  -  template: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/squidpops.xlsx
 ---
 
 
