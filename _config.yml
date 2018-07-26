@@ -6,6 +6,7 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://marinegeo.github.io"
 baseurl: ""
+branch: "master"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -26,12 +27,12 @@ navbar-links:
   Blog: "blog"
   Standards: "standards"
   Modules:
-    - All: "modules"
-    - Reefs: "modules/reef-habitat"
-    - Seagrass: "modules/seagrass-habitat"
-    - Mangroves: "modules/mangrove-habitat"
-    - Sand: "modules/sand-habitat"
-    - Panamex: "modules/panamex"
+    - All: "modules.html"
+    - Reefs: "reef-habitat"
+    - Seagrass: "seagrass-habitat"
+    - Mangroves: "mangrove-habitat"
+    - Sand: "sand-habitat"
+    - Panamex: "panamex"
   Resources:
     - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
     - OBIS: "http://www.iobis.org/"
@@ -39,11 +40,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Logomark_RGB.png"
+avatar: "/img/icons/MarineGEO_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/Logomark_MarineGEO_RGB.png"
 
 # --- Background colour/image options --- #
 
@@ -89,11 +90,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "marinegeo-data@si.edu"
 #  facebook: daattali
   github: marinegeo
-#  twitter: daattali
+  twitter: SImarineGEO
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -101,7 +102,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+#  youtube: user/
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -185,6 +186,10 @@ collections:
     output: true
     permalink: /modules/:name
 
+  module-groups:
+    output: true
+    permalink: /:name
+
 # Use tags index page and make tags on each post clickable
 link-tags: true
 
@@ -254,6 +259,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 
 

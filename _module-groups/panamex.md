@@ -1,7 +1,12 @@
 ---
 layout: modules
-title: Pan-American Experiment
-group: panamex
+title: PanAmEx
+redirect_from:
+  - /modules/panamex/
+modules:
+  - /modules/panamex-field-deployment
+  - /modules/panamex-metagenomics
+  - /modules/panamex-photoquadrat-scoring
 ---
 
 # Purpose
@@ -50,7 +55,7 @@ We expect to build upon this initial PanAmEx project, conducting additional expe
 # Instructional Video
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Vg8T-3pAVDU"></iframe>
+ <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Vg8T-3pAVDU"></iframe>
 </div>
 
-# Protocol
+# Protocol  

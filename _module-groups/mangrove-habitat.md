@@ -1,7 +1,9 @@
 ---
 layout: modules
 title: Mangrove Habitat
-group: mangrove
+modules:
+  - /modules/mangroves
+  - /modules/waterquality
 ---
 
 # Mangroves

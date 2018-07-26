@@ -1,10 +1,8 @@
 ---
 layout: project
 title: Mangroves
-thumbnail: /img/Logomark_RGB.png
-weight: 2
-groups:
-  - mangrove
+thumbnail: /img/icons/MarineGEO_logo.png
+editbutton: true
 submodules:
   - /modules/seagrass
 ---
@@ -16,7 +14,7 @@ For this method at least 20 data points have to be included. These data points c
 
 Four distances are measured from each point to the nearest trees in each of the quarters (see image below).
 
-![Mangrove Point Quarter Transects](mangrovePQT.png)
+![Mangrove Point Quarter Transects]({{"img/modules/mangrovePQT.png" | absolute_url }})
 
  The area around the point is divided into four quarters by a line running perpendicular to the bearing line. The points are separated by the distance long enough so that the same trees are not enumerated twice. The dbh and ht is measured for each tree. Dbh is measured right on top of the last anchoring prop root or at 1.3 m above the soil. These values can be used to calculate the above ground biomass: `biomass = (dbh)^2 x ht`
 

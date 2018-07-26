@@ -1,11 +1,8 @@
 ---
 layout: project
 title: Seagrass Fouling Mass
-thumbnail: /img/seagrass.png
-weight: 6
-groups:
-  - seagrass
-exclude: true
+thumbnail: /img/icons/seagrass.png
+editbutton: true
 ---
 
 # Collect samples: Fouling mass

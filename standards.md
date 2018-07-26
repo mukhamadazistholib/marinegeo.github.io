@@ -1,7 +1,8 @@
 ---
-layout: pagelink2edit
+layout: page
 title: Standards
 subtitle: MarineGEO Data Standards and Guidelines
+editbutton: true
 ---
 
 Suggestions and guidelines for standardizing MarineGEO data into tidy datasets. These guidelines serve as a reference for best practices across the MarineGEO program.

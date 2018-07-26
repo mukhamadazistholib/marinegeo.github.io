@@ -1,11 +1,8 @@
 ---
 layout: project
 title: Seagrass Shoot Density & Biomass
-thumbnail: /img/seagrass.png
-weight: 6
-groups:
-  - seagrass
-exclude: true
+thumbnail: /img/icons/seagrass.png
+editbutton: true
 ---
 
 # Collect samples: Shoot density and above-ground biomass

@@ -1,10 +1,8 @@
 ---
 layout: project
 title:  Settling plates - Photoquadrat Scoring
-thumbnail: /img/quadrat.png
-weight: 7
-groups:
-  - panamex
+thumbnail: /img/icons/MarineGEO_logo.png
+editbutton: true
 ---
 
 # This is some dummy content

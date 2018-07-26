@@ -1,7 +1,9 @@
 ---
 layout: modules
 title: Reef Habitat
-group: reef
+modules:
+  - /modules/waterquality
+  - /modules/benthicphotos
 ---
 
 # Reefs

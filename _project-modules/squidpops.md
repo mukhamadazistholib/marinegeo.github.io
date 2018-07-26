@@ -1,12 +1,8 @@
 ---
 layout: project
 title: Squidpops
-thumbnail: /img/popsicle.png
-release:
-  githubrelease: https://github.com/MarineGEO/Squidpops/releases
-  fieldsheet: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/SquidpopFieldsheet.pdf
-  template: https://github.com/MarineGEO/Squidpops/releases/download/v0.0.1/squidpops.xlsx
-weight: 3
+thumbnail: /img/icons/popsicle.png
+editbutton: true
 groups:
   - seagrass
   - sand
@@ -25,7 +21,7 @@ Squidpops are a simple, standardized assay for measuring the relative feeding in
 
 In non-turbid waters, deploying underwater video cameras such as GoPro cameras along side the squidpop stakes allows for additional metrics to be calculated. After scoring the video by identifying and counting fish species present, you can calculate the feeding rate and diversity.
 
-  <img src="squidpop-screenshot.png" >
+![Squidpop deployment]({{"img/modules/squidpop-screenshot.png" | absolute_url }})
 
 
 ## Goals

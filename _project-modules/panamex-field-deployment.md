@@ -1,10 +1,8 @@
 ---
 layout: project
 title:  Settling plates - Panamex field deployment
-thumbnail: /img/Logomark_RGB.png
-weight: 6
-groups:
-  - panamex
+thumbnail: /img/icons/MarineGEO_logo.png
+editbutton: true
 ---
 
 # This is some dummy content

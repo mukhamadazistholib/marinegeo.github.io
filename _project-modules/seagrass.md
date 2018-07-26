@@ -1,10 +1,8 @@
 ---
 layout: project
 title: Seagrass
-thumbnail: /img/seagrass.png
-weight: 6
-groups:
-  - seagrass
+thumbnail: /img/icons/seagrass.png
+editbutton: true
 submodules:
   - /modules/seagrass-fouling-mass
   - /modules/seagrass-macrophyte-cover

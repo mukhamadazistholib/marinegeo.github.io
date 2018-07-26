@@ -1,7 +1,9 @@
 ---
 layout: modules
 title: Sand Habitat
-group: sand
+modules:
+  - /modules/mangroves
+  - /modules/waterquality
 ---
 
 # Sand

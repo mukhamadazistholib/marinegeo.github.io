@@ -1,13 +1,8 @@
 ---
 layout: project
 title: Water Quality
-thumbnail: /img/sonde.png
-weight: 1
-groups:
-  - reef
-  - seagrass
-  - sand
-  - mangrove
+thumbnail: /img/icons/sonde.png
+editbutton: true
 ---
 
 # Chemical-Physical Observation Program (CPOP)
