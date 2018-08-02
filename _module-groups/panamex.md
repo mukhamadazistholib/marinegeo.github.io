@@ -64,4 +64,4 @@ We expect to build upon this initial PanAmEx project, conducting additional expe
 
 # Protocol  
 
-See PDF linked at the top of the page
+See PDF linked at the top of the page and the instructional video above.
