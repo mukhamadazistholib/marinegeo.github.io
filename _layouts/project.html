@@ -18,15 +18,17 @@ layout: base
       </div>
       {% endif %}
 
-      {% if page.release %}
+      {% if page.downloads %}
 
-      <div class="pagination-centered" style="outline: 2px solid black; padding: 20px">
+      <div class="pagination-centered" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
 
-        <h3><a href="{{page.release.githubrelease}}" style="color:inherit;">Github Repository</a></h3>
-        <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">save_alt</i>
-        <a href="{{page.release.fieldsheet}}">Fieldsheet</a><br>
-        <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">save_alt</i>
-        <a href="{{page.release.template}}">Data Template</a>
+        <h3>Quick Start</h3>
+
+        {% for down in page.downloads %}
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">save_alt</i>
+            <a href="{{down.path}}">{{down.name}}</a><br>
+        {% endfor %}
+
       </div>
 
       {% else %}

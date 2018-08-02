@@ -3,6 +3,7 @@ layout: modules
 title: PanAmEx
 redirect_from:
   - /modules/panamex/
+editbutton: true
 modules:
   - /modules/panamex-field-deployment
   - /modules/panamex-metagenomics
