@@ -113,12 +113,12 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 | Site | Code |
 | ---- | ---- |
-| Bocas del Toro | BT |
-| Carrie Bow | CB |
-| Corpus Christi | CC |
-| Edgewater (SERC) | EW |
-| Friday Harbor | FH |
-| Fort Pierce | FP |
-| Hakai | HK |
-| Kane'ohe Bay | KB |
-| Romberg Tiburon | RT |
+| Bocas del Toro | PBT |
+| Carrie Bow | BEL |
+| Corpus Christi | TXS |
+| Edgewater (SERC) | CBN |
+| Friday Harbor | WFH |
+| Fort Pierce | FIR |
+| Hakai | BCH |
+| Kane'ohe Bay | HKB |
+| Romberg Tiburon | SFB |
