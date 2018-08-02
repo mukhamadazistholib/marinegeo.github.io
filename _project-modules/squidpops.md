@@ -16,8 +16,6 @@ Fish predation is an important process structuring communities and a conduit of 
 
 The assay measures the rate of fish predation as loss of standard bait deployed for 24 hours in the field. Each bait is a 1.3-cm diameter disk of dried squid mantle tethered to a stake, which is either inserted in the sediment or secured to existing structure. Each squid bait is scored as present or absent after 1 and 24 hours, and predation rate is estimated as the proportion of replicate baits consumed at each time. Tests in several habitats have confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients (see e.g., <a href="https://doi.org/10.1371/journal.pone.0142994">Duffy et al. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. PLoS One</a>).
 
-See the instructional video for details:
-
 <!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esSByfVlMt4"></iframe>
@@ -39,6 +37,8 @@ See the instructional video for details:
 **Materials:** Dried squid mantle, auger hole punch, green fiberglass garden stakes, fishing line
 
 ## Methods
+
+See the instructional video for details:
 
 <!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
 <div class="embed-responsive embed-responsive-16by9">
