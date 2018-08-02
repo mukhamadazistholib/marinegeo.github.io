@@ -6,9 +6,7 @@ modules:
   - /modules/benthicphotos
   - /modules/squidpops
   - /modules/waterquality
-  - /modules/seagrass
-  - /modules/squidpops
-  - /modules/waterquality
+editbutton: true
 ---
 
 
