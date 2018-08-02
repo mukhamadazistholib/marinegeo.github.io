@@ -18,15 +18,15 @@ layout: base
       </div>
       {% endif %}
 
-      {% if page.downloads %}
+      {% if page.links %}
 
       <div class="pagination-centered" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
 
         <h3>Quick Start</h3>
 
-        {% for down in page.downloads %}
-            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">save_alt</i>
-            <a href="{{down.path}}">{{down.name}}</a><br>
+        {% for link in page.links %}
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
+            <a href="{{link.path}}">{{link.name}}</a><br>
         {% endfor %}
 
       </div>
