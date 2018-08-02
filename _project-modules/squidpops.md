@@ -10,15 +10,13 @@ downloads:
     path: /assets/squidpops/MarineGEO_Squidpop_Protocol_V20180802.pdf
 ---
 
-
-
 ## Purpose
 
-Fish predation is an important process structuring communities and a conduit of production up the food web in nearly all marine ecosystems. This protocol provides a simple, quick, standardized assay of fish predation intensity. The goal is to quantify the relative intensity of feeding by generalist predators using a standard bait and method that is simple and comparable across a wide range of sites and conditions. When coupled with camera deployments, it can also be part of a Baited Remote Underwater Video (BRUV) sampling of the fish community. We use dried squid as bait because most marine predators are generalists who readily eat it, it is widely available (e.g., in Asian grocery stores), and the dried bait can be shipped and stored without refrigeration. 
+Fish predation is an important process structuring communities and a conduit of production up the food web in nearly all marine ecosystems. This protocol provides a simple, quick, standardized assay of fish predation intensity. The goal is to quantify the relative intensity of feeding by generalist predators using a standard bait and method that is simple and comparable across a wide range of sites and conditions. When coupled with camera deployments, it can also be part of a Baited Remote Underwater Video (BRUV) sampling of the fish community. We use dried squid as bait because most marine predators are generalists who readily eat it, it is widely available (e.g., in Asian grocery stores), and the dried bait can be shipped and stored without refrigeration.
 
-The assay measures the rate of fish predation as loss of standard bait deployed for 24 hours in the field. Each bait is a 1.3-cm diameter disk of dried squid mantle tethered to a stake, which is either inserted in the sediment or secured to existing structure. Each squid bait is scored as present or absent after 1 and 24 hours, and predation rate is estimated as the proportion of replicate baits consumed at each time. Tests in several habitats have confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients (see e.g., Duffy et al. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. PLoS One https://doi.org/10.1371/journal.pone.0142994).
+The assay measures the rate of fish predation as loss of standard bait deployed for 24 hours in the field. Each bait is a 1.3-cm diameter disk of dried squid mantle tethered to a stake, which is either inserted in the sediment or secured to existing structure. Each squid bait is scored as present or absent after 1 and 24 hours, and predation rate is estimated as the proportion of replicate baits consumed at each time. Tests in several habitats have confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients (see e.g., <a href="https://doi.org/10.1371/journal.pone.0142994">Duffy et al. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. PLoS One</a>).
 
-See the instructional video for details: 
+See the instructional video for details:
 
 <!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
 <div class="embed-responsive embed-responsive-16by9">
@@ -26,14 +24,10 @@ See the instructional video for details:
 </div>
 
 
-
-![Squidpop deployment]({{"assets/squidpops/squidpop-screenshot.png" | absolute_url }})
-
-
 ## Goal
 
   - Obtain quantitative, standardized estimates of predator feeding intensity
- 
+
 ## Requirements
 
 **Personnel:** 2
@@ -42,6 +36,7 @@ See the instructional video for details:
 
 **Frequency:** Variable (at least annually)
 
+**Materials:** Dried squid mantle, auger hole punch, green fiberglass garden stakes, fishing line
 
 ## Methods
 
