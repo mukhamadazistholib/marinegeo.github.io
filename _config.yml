@@ -28,11 +28,11 @@ navbar-links:
   Standards: "standards"
   Modules:
     - All: "modules.html"
-    - Reefs: "coral-reefs"
-    - Seagrass: "seagrass-habitat"
+    - Coral Reefs: "coral-reefs"
     - Mangroves: "mangrove-habitat"
     - Oyster Reefs: "oyster-reefs"
     - Panamex: "panamex"
+    - Seagrass: "seagrass-habitat"
   Resources:
     - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
     - OBIS: "http://www.iobis.org/"
