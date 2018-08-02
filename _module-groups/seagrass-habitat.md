@@ -1,5 +1,5 @@
 ---
-layout: modules
+layout: project
 title: Seagrass Habitat
 modules:
   - /modules/seagrass

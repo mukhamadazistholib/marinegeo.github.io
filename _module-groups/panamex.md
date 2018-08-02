@@ -1,9 +1,15 @@
 ---
-layout: modules
+layout: project
 title: PanAmEx
-redirect_from:
-  - /modules/panamex/
+thumbnail: /img/icons/MarineGEO_logo.png
 editbutton: true
+links:
+  - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
+    path: /assets/panamex/Panamex Caging Protocol May2018.pdf
+    icon: save_alt
+  - name: Youtube - Panamex Caging Experiment- How To Set Up Your Kit?
+    path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
+    icon: videocam
 modules:
   - /modules/panamex-field-deployment
   - /modules/panamex-metagenomics
@@ -14,7 +20,7 @@ modules:
 
 The Pan-American Experimental Initiative in Marine Macroecology (PanAmEx) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative relies on collaboration among a widely distributed network of partner researchers to implement simple (low effort), standardized, and replicated experiments.  
 
-This first PanAmEx project, initiated in 2018 and 2019, is an experiment to assess gradients in interaction strength among nearshore marine organisms, focusing on how predation affects development of communities of fouling organisms. The experment's novelty is its unprecedented scale -- across latitudes nearly from plole to pole along the Americas, in both Atlantic and Pacific Oceans.  
+This first PanAmEx project, initiated in 2018 and 2019, is an experiment to assess gradients in interaction strength among nearshore marine organisms, focusing on how predation affects development of communities of fouling organisms. The experiment's novelty is its unprecedented scale -- across latitudes nearly from pole to pole along the Americas, in both Atlantic and Pacific Oceans.  
 
 
 
@@ -36,10 +42,10 @@ At each location, partners will deploy 8 replicate units each of 4 treatments (3
 4.	Exposed caged panel (caged during experiment, then exposed at the end to observe predator feeding)
 
 ## Materials and Supplies
-We will provide essentially all materials needed for the experimental units. Partmners will need to provide 20 cored bricks (as weight), a hammer, camera, salinity probe/YSI, weighing scale and basic field stationery.
+We will provide essentially all materials needed for the experimental units. Partners will need to provide 20 cored bricks (as weight), a hammer, camera, salinity probe/YSI, weighing scale and basic field stationery.
 
 ## Site selection
-The experimental units are designed to be deployed by line into the water from a marina or other area with floating pontoons/docks, which are ideally wooden-sided (to attach the cages with nails) and not too high (a few meters or less) above the water. Sites should be at least 2m deep at low tide and marine, with minimal fresh-water influence (>25ppt).  A cumulative dock length of about 80m, from one or multiple sections (or sides), is ideal. While we seek to use floating docks, we realize that these may not be available at all sites.  If you do not have access to such a site, we are ahppy to discuss alternatives.
+The experimental units are designed to be deployed by line into the water from a marina or other area with floating pontoons/docks, which are ideally wooden-sided (to attach the cages with nails) and not too high (a few meters or less) above the water. Sites should be at least 2m deep at low tide and marine, with minimal fresh-water influence (>25ppt).  A cumulative dock length of about 80m, from one or multiple sections (or sides), is ideal. While we seek to use floating docks, we realize that these may not be available at all sites.  If you do not have access to such a site, we are happy to discuss alternatives.
 
 ## Time requirements
 We shipped materials for the northern hemisphere deployments in May 2018 for deployment in June, northern summer. The units take one person approximately half a day to assemble, and half a day to deploy. Every 2 weeks, each plate needs to be  photographed and the cage assembly cleaned, which takes about half a day. The units will be in the water for 12 weeks, providing 6 data points at 2-week intervals, after which the experiment can be retrieved and broken down (one full day).

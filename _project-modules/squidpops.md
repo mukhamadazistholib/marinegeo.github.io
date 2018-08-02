@@ -10,7 +10,7 @@ links:
   - name: Squidpop Protocol
     path: /assets/squidpops/MarineGEO_Squidpop_Protocol_V20180802.pdf
     icon: save_alt
-  - name: Duffy et al. 2015 - Squidpops paper in PLoS One
+  - name: Duffy et al. 2015 - Squidpops&#58; A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity
     path: https://doi.org/10.1371/journal.pone.0142994
     icon: link
   - name: Youtube - What is a Squidpops?

@@ -1,5 +1,5 @@
 ---
-layout: modules
+layout: project
 title: Reef Habitat
 modules:
   - /modules/waterquality

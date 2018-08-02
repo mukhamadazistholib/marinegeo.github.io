@@ -3,7 +3,7 @@ layout: project
 title: Mangroves
 thumbnail: /img/icons/MarineGEO_logo.png
 editbutton: true
-submodules:
+modules:
   - /modules/seagrass
 ---
 

@@ -23,12 +23,17 @@ layout: base
       <div class="pagination-centered" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
 
         <h3>Quick Start</h3>
-
+        <div>
+        <ul>
         {% for link in page.links %}
+        <li style="display: inline; list-style-position: outside; margin-left: -2em;">
             <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
-            <a href="{{link.path}}">{{link.name}}</a><br>
+            <span><a href="{{link.path}}">{{link.name}}</a></span>
+            <br/>
+        </li>
         {% endfor %}
-
+      </ul>
+        </div>
       </div>
 
       {% else %}
@@ -41,10 +46,10 @@ layout: base
       </div>
       {% endif %}
 
-      {% if page.submodules %}
+      {% if page.modules %}
       {% assign sorted = site.project-modules | sort: 'title' %}
-      <h1>Submodules</h1>
-      {% for m in page.submodules %}
+      <h1>Modules</h1>
+      {% for m in page.modules %}
       {% for module in sorted %}
         {% if m == module.id %}
         <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;">

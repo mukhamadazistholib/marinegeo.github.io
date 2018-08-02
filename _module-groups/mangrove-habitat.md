@@ -1,5 +1,5 @@
 ---
-layout: modules
+layout: project
 title: Mangrove Habitat
 modules:
   - /modules/mangroves

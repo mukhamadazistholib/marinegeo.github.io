@@ -1,5 +1,5 @@
 ---
-layout: modules
+layout: project
 title: Sand Habitat
 modules:
   - /modules/mangroves

@@ -3,7 +3,7 @@ layout: project
 title: Seagrass
 thumbnail: /img/icons/seagrass.png
 editbutton: true
-submodules:
+modules:
   - /modules/seagrass-fouling-mass
   - /modules/seagrass-macrophyte-cover
   - /modules/seagrass-mobile-epifauna
