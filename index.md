@@ -15,7 +15,7 @@ modules:
 
 ## Purpose
 
-Collaborative website for people in the MarineGEO network to discover methods, learn data management techniques, and download methods and data entry templates.
+Collaborative website for people in the MarineGEO network to discover methods, learn data management techniques, and download methods, field sheets and data entry templates.
 
 ## Project Modules
 
