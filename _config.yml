@@ -123,7 +123,7 @@ url-pretty: "MarineGEO.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-123255009-2"
 
 # Google Tag Manager ID
 #gtm: ""
