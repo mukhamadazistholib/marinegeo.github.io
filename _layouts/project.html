@@ -42,19 +42,24 @@ layout: base
       {% endif %}
 
       {% if page.submodules %}
+      {% assign sorted = site.project-modules | sort: 'title' %}
       <h1>Submodules</h1>
-        {% for module in site.project-modules %}
-          {% if page.submodules == module.id%}
-            <div class="col-md-3 col-sm-4 col-xs-6">
-              <div style="padding-top: 25px; ">
-                <a href="{{site.baseurl}}{{module.url}}">
-                       <img src="{{module.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-                      <h4 style="text-align:center">{{module.title}}</h4>
-                    </a>
-              </div>
+      {% for m in page.submodules %}
+      {% for module in sorted %}
+        {% if m == module.id %}
+        <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;">
+          <a href="{{site.baseurl}}{{module.url}}">
+            <div>
+              <img src="{{module.thumbnail }}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
             </div>
-          {% endif %}
-        {% endfor %}
+            <div>
+              <h4 style="text-align:center; vertical-align: bottom;">{{module.title}}</h4>
+            </div>
+          </a>
+        </div>
+        {% endif %}
+      {% endfor %}
+      {% endfor %}
       {% endif %}
 
     </div>
