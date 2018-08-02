@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Settling plates - Metagenomics
-thumbnail: /img/icons/MarineGEO_logo.png
+thumbnail: /img/icons/Americas_map.png
 editbutton: true
 ---
 
