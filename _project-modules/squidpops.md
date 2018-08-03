@@ -67,13 +67,13 @@ Use the Squidpop Data Entry Template and submit data to <a href="mailto:marinege
 
 Duffy, J. E., S. L. Ziegler, J. E. Campbell, P. M. Bippus, and J. S. Lefcheck. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. PLoS ONE 10:e0142994. (<a href="https://doi.org/10.1371/journal.pone.0142994">Source</a>)
 
-Gauff, R. P. M., S. Bejarano, H. H. Madduppa, B. Subhan, E. M. A. Dugény, Y. A. Perdana, and S. C. A. Ferse. 2018. Influence of predation risk on the sheltering behaviour of the coral-dwelling damselfish, Pomacentrus moluccensis. Environmental Biology of Fishes 101:639–651. (<a href="https://link.springer.com/content/pdf/10.1007%2Fs10641-018-0725-3.pdf">Source</a>) 
+Gauff, R. P. M., S. Bejarano, H. H. Madduppa, B. Subhan, E. M. A. Dugény, Y. A. Perdana, and S. C. A. Ferse. 2018. Influence of predation risk on the sheltering behaviour of the coral-dwelling damselfish, *Pomacentrus moluccensis*. Environmental Biology of Fishes 101:639–651. (<a href="https://link.springer.com/content/pdf/10.1007%2Fs10641-018-0725-3.pdf">Source</a>) 
 
-Gross, C., C. Donoghue, C. Pruitt, A. C. Trimble, and J. L. Ruesink. 2017. Taxonomic and functional assessment of mesopredator diversity across an estuarine habitat mosaic. Ecosphere 8:e01792. <a href="http://doi.wiley.com/10.1002/ecs2.1792">Source</a>) 
+Gross, C., C. Donoghue, C. Pruitt, A. C. Trimble, and J. L. Ruesink. 2017. Taxonomic and functional assessment of mesopredator diversity across an estuarine habitat mosaic. Ecosphere 8:e01792. (<a href="http://doi.wiley.com/10.1002/ecs2.1792">Source</a>) 
 
-Gusmao, J. B., M. R. Lee, I. MacDonald, N. C. Ory, J. Sellanes, Les Watling, and M. Thiel. 2018. No reef-associated gradient in the infaunal communities of Rapa Nui (Easter Island) – Are oceanic waves more important than reef predators? Estuarine Coastal and Shelf Science 210:123–131. <a href="https://doi.org/10.1016/j.ecss.2018.06.019">Source</a>)  
+Gusmao, J. B., M. R. Lee, I. MacDonald, N. C. Ory, J. Sellanes, Les Watling, and M. Thiel. 2018. No reef-associated gradient in the infaunal communities of Rapa Nui (Easter Island) – Are oceanic waves more important than reef predators? Estuarine Coastal and Shelf Science 210:123–131. (<a href="https://doi.org/10.1016/j.ecss.2018.06.019">Source</a>)  
 
-Lefcheck, J. S., S. J. Brandl, P. L. Reynolds, A. R. Smyth, and S. T. Meyer. 2016. Extending Rapid Ecosystem Function Assessments to Marine Ecosystems: A Reply to Meyer. Trends in ecology & evolution 31:251–253. <a href="http://dx.doi.org/10.1016/j.tree.2016.02.002">Source</a>)  
+Lefcheck, J. S., S. J. Brandl, P. L. Reynolds, A. R. Smyth, and S. T. Meyer. 2016. Extending Rapid Ecosystem Function Assessments to Marine Ecosystems: A Reply to Meyer. Trends in ecology & evolution 31:251–253. (<a href="http://dx.doi.org/10.1016/j.tree.2016.02.002">Source</a>)  
 
-Rodemann, J. R., and S. J. Brandl. 2017. Consumption pressure in coastal marine environments decreases with latitude and in artificial vs. natural habitats. Marine ecology progress series. Oldendorf 574:167–179. <a href="http://www.int-res.com/articles/meps2017/574/m574p167.pdf">Source</a>)  
+Rodemann, J. R., and S. J. Brandl. 2017. Consumption pressure in coastal marine environments decreases with latitude and in artificial vs. natural habitats. Marine ecology progress series. Oldendorf 574:167–179. (<a href="http://www.int-res.com/articles/meps2017/574/m574p167.pdf">Source</a>)  
 
