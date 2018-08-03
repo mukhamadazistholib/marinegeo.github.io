@@ -65,7 +65,7 @@ Use the Squidpop Data Entry Template and submit data to <a href="mailto:marinege
 
 ## Selected literature
 
-Duffy, J. E., S. L. Ziegler, J. E. Campbell, P. M. Bippus, and J. S. Lefcheck. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. PLoS ONE 10:e0142994.</a> http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142994 (<a href="https://doi.org/10.1371/journal.pone.0142994">Source)</a>)
+Duffy, J. E., S. L. Ziegler, J. E. Campbell, P. M. Bippus, and J. S. Lefcheck. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. PLoS ONE 10:e0142994.(<a href="https://doi.org/10.1371/journal.pone.0142994">Source</a>)
 
 Gauff, R. P. M., S. Bejarano, H. H. Madduppa, B. Subhan, E. M. A. Dugény, Y. A. Perdana, and S. C. A. Ferse. 2018. Influence of predation risk on the sheltering behaviour of the coral-dwelling damselfish, Pomacentrus moluccensis. Environmental Biology of Fishes 101:639–651. https://link.springer.com/content/pdf/10.1007%2Fs10641-018-0725-3.pdf 
 
