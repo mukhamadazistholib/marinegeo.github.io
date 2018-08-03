@@ -34,7 +34,10 @@ navbar-links:
     - Panamex: "panamex"
     - Seagrass: "seagrass-habitat"
   Resources:
+    - Barcode of Life Data Systems: "http://www.boldsystems.org/"
+    - Biodiversity Heritage Library: "https://www.biodiversitylibrary.org/"
     - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
+    - Fishbase: "https://www.fishbase.de/home.html"
     - OBIS: "http://www.iobis.org/"
     - WoRMS: "http://www.marinespecies.org/"
 
