@@ -18,7 +18,7 @@ modules:
 
 # Purpose
 
-The Pan-American Experimental Initiative in Marine Macroecology (PanAmEx) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative relies on collaboration among a widely distributed network of partner researchers to implement simple (low effort), standardized, and replicated experiments.  
+The *Pan-American Experimental Initiative in Marine Macroecology* (**PanAmEx**) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative relies on collaboration among a widely distributed network of partner researchers to implement simple (low effort), standardized, and replicated experiments.  
 
 This first PanAmEx project, initiated in 2018 and 2019, is an experiment to assess gradients in interaction strength among nearshore marine organisms, focusing on how predation affects development of communities of fouling organisms. The experiment's novelty is its unprecedented scale -- across latitudes nearly from pole to pole along the Americas, in both Atlantic and Pacific Oceans.  
 
