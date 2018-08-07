@@ -11,7 +11,7 @@ links:
     path: /assets/squidpops/MarineGEO_Squidpop_Protocol_V20180803.pdf
     icon: save_alt
   - name: Squidpop Data Entry Template
-    path: /assets/squidpops/MarineGEO_Squidpop_DataEntryTemplate_v0.0.1.xlsx
+    path: /assets/squidpops/MarineGEO_Squidpop_DataEntryTemplate_v0.0.2.xlsx
     icon: save_alt
   - name: Duffy et al. 2015 - Squidpops&#58; A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity
     path: https://doi.org/10.1371/journal.pone.0142994
