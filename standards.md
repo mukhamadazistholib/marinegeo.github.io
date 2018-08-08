@@ -33,7 +33,7 @@ Photos and videos that are part of a sequence (ie photos taken along a transect)
 
 ## Field names
 
-Field names should be simple short and descriptive. Avoid spaces, special characters, or symbols in the field name. Use under_scores or CamelCase instead of having spaces in the field name.
+Field names should be simple short and descriptive. Avoid spaces, special characters, or symbols in the field name. Use under_scores or <a href="https://en.wikipedia.org/wiki/Camel_case">Camel Case</a> instead of having spaces in the field name.
 
 
 Good:
