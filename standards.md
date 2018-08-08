@@ -111,7 +111,7 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 ## Site Abbreviations
 
-MarineGEO uses a unique 3-letter code for each site (or seascape that includes several nearby sites). Thisd code is assigned by MarineGEO in coinsultation with the lead of the partner site.
+MarineGEO uses a unique 3-letter code for each site (or seascape that includes several nearby sites). This code is assigned by MarineGEO in consultation with the lead of the partner site.
 
 
 | Site | Code |
