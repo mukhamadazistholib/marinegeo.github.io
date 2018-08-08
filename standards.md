@@ -113,12 +113,12 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 | Site | Code |
 | ---- | ---- |
-| Bocas del Toro | PBT |
-| Carrie Bow | BEL |
-| Corpus Christi | TXS |
-| Edgewater (SERC) | CBN |
-| Friday Harbor | WFH |
-| Fort Pierce | FIR |
-| Hakai | BCH |
-| Kane'ohe Bay | HKB |
-| Romberg Tiburon | SFB |
+| Panama: Bocas del Toro | PBT |
+| Belize: Carrie Bow | BEL |
+| Texas: Corpus Christi | TXS |
+| Chesapeake Bay: Edgewater (SERC) | CBN |
+| Washington: Friday Harbor | WFH |
+| Florida, Indian River: Fort Pierce | FIR |
+| British Columbia: Calvert Island (Hakai) | BCH |
+| Hawai'i: Kane'ohe Bay | HKB |
+| San Francisco Bay (SFSU) | SFB |
