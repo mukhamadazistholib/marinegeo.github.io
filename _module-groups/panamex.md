@@ -4,7 +4,7 @@ title: PanAmEx
 thumbnail: /img/icons/MarineGEO_logo.png
 editbutton: true
 links:
-  - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
+  - name: Protocol&#58; 2018-2019 Panamex Experiment
     path: /assets/panamex/Panamex Caging Protocol May2018.pdf
     icon: save_alt
   - name: Instructional video&#58; How to set up the 2018-2019 Panamex Experiment
