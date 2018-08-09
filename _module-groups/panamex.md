@@ -47,7 +47,7 @@ Quantify latitudinal patterns in key demographic processes and community interac
 
 The experiment compares development of fouling communities (sessile invertebrates) on PVC panels that are either exposed or protected from predators (mainly fishes) using cages. The PVC panels are deployed from (preferably floating) docks, providing a simple and standardized substratum for colonization of marine organisms. 
 
-The experiment is described in detail in the accompanying instructional video an downloadable protocols documents listed above.
+The experiment is described in detail in the accompanying instructional video and downloadable protocols documents listed above.
 
 ### Experimental design
 
