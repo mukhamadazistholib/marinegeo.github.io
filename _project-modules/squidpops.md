@@ -16,7 +16,7 @@ links:
   - name: Duffy et al. 2015 - Squidpops&#58; A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity
     path: https://doi.org/10.1371/journal.pone.0142994
     icon: link
-  - name: Youtube - What is a Squidpops?
+  - name: Youtube - What is a Squidpop?
     path: https://www.youtube.com/watch?v=esSByfVlMt4
     icon: videocam
   - name: Youtube - Squidpop Tutorial
