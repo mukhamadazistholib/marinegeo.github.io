@@ -43,6 +43,7 @@ The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measu
 
 **Materials**: See details below. 
 
+
 ## Methods
 
 See the instructional video for details:
@@ -74,16 +75,10 @@ Smithsonian will provide most materials needed for the experiment. Partners will
 
 ### Data collection
 
-Fouling community development will be scored by photographing the panels every 2 weeks. Panle photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian. 
+Fouling community development will be scored by photographing the panels every 2 weeks. Panel photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian. 
 
 See the detailed protocol document linked at the top of this page.
 
-
-## Instructional Video
-
-<div class="embed-responsive embed-responsive-16by9">
- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Vg8T-3pAVDU"></iframe>
-</div>
 
 ## Data curation      
 
@@ -93,7 +88,8 @@ Use the *Panamex Data Entry Template* (coming soon ...) and submit data to <a hr
 
 Freestone, A. L., G. M. Rutz, and M. E. Torchin. 2013. Stronger biotic resistance in tropics relative to temperate zone: effects of predation on marine invasion dynamics. Ecology 94:1370–1377. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1382.1">Source</a>)
 
-Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. Ecology 92:208–217.
+Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. Ecology 92:208–217. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-1841.1">Source</a>)
 
-Freestone, A. L., R. W. Osman, G. M. Ruiz, and M. E. Torchin. 2011. Stronger predation in the tropics shapes species richness patterns in marine communities. Ecology 92:983–993.
+Freestone, A. L., R. W. Osman, G. M. Ruiz, and M. E. Torchin. 2011. Stronger predation in the tropics shapes species richness patterns in marine communities. Ecology 92:983–993. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-2379.1">Source</a>)
+
 
