@@ -7,7 +7,7 @@ links:
   - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
     path: /assets/panamex/Panamex Caging Protocol May2018.pdf
     icon: save_alt
-  - name: Youtube - Panamex Caging Experiment- How To Set Up Your Kit?
+  - name: Youtube - Panamex Caging Experiment- How To Set Up Your Kit
     path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
     icon: videocam
 modules:
