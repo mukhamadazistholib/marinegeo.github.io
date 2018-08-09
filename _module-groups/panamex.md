@@ -18,9 +18,9 @@ modules:
 
 ## Purpose
 
-The *Pan-American Experimental Initiative in Marine Macroecology* (**PanAmEx**) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative relies on collaboration among a widely distributed network of partner researchers to implement simple (low effort), standardized, and replicated experiments.  
+The *Pan-American Experimental Initiative in Marine Macroecology* (**PanAmEx**) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative is a  collaboration among a network of partner researchers to implement simple, standardized, and replicated experiments that address how ecological processes vary geographically. 
 
-This first PanAmEx project, initiated in 2018 and 2019, is an experiment to assess gradients in interaction strength among nearshore marine organisms, focusing on how predation affects development of communities of fouling organisms. The experiment's novelty is its unprecedented scale -- across latitudes nearly from pole to pole along the Americas, in both Atlantic and Pacific Oceans.  
+The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measure gradients in interaction strength among marine benthic organisms, focusing on how predation affects assembly of communities of fouling organisms. The project's novelty is its unprecedented scale -- across latitudes nearly from pole to pole along the Americas, in both Atlantic and Pacific Oceans.  
 
 
 ## Goals
@@ -29,9 +29,9 @@ Quantify latitudinal patterns in key demographic processes and community interac
 
 ### Hypotheses
 
-1.	Recruitment, organism growth, and percent cover will increase at a faster rate toward the equator.
-2.	Assemblage diversity (richness & evenness) will be higher toward the equator.
-3.	Predation pressure will be more intense, reducing biomass to a greater extent, toward the equator.
+1.	Demographic processes, including recruitment and growth, are faster toward the equator.
+2.	Community diversity (species and function richness and evenness) are higher toward the equator.
+3.	Predation is more intense, and therefore a stronger influence on commmun ity organization, toward the equator.
 
 ## Requirements
 
@@ -45,22 +45,29 @@ Quantify latitudinal patterns in key demographic processes and community interac
 
 ## Methods
 
+The experiment compares development of fouling communities (sessile invertebrates) on PVC panels that are either exposed or protected from predators (mainly fishes) using cages. The PVC panels are deployed from (preferably floating) docks, providing a simple and standardized substratum for colonization of marine organisms. 
+
+The experiment is described in detail in the accompanying instructional video an downloadable protocols documents listed above.
+
 ### Experimental design
-At each location, partners will deploy 8 replicate units each of 4 treatments (32 panels total):
+
+At each location, partners will deploy 8 replicate panel units for each of 4 treatments (32 panels total):
 1.	Control (open-panel, exposed to predators)
 2.	Caged panel (protected from predators)
-3.	Cage-control (half cage over panel, exposed to predators but also any artifacts of caging)
+3.	Cage-control (half cage over panel, exposed to predators but experiences any artifacts of caging)
 4.	Exposed caged panel (caged during experiment, then exposed at the end to observe predator feeding)
 
-### Materials and Supplies
-We will provide essentially all materials needed for the experimental units. Partners will need to provide 20 cored bricks (as weight), a hammer, camera, salinity probe/YSI, weighing scale and basic field stationery. We use PVC settling plates as passive collectors for colonization of organisms, providing a simple, standardized assessment of key species and benthic community assembly. The experiment uses predator-exclusion cages to test how predation affects communities, and how these effects change across global gradients of temperature and other environmental drivers.
+The experimental units are designed to be deployed on a rope hanging in the water from a marina or other area with floating pontoons/docks. These should ideally have wooden sides to attach the cages with nails, and not be too high (<2 meters) above the water. Sites should be at least 2m deep at low tide and marine, with minimal fresh-water influence (>25ppt).  A cumulative dock length of about 80m, from one or multiple sections (or sides), is ideal. While we seek to use floating docks, we realize that these may not be available at all sites.  If you do not have access to such a site, we are happy to discuss alternatives.
 
-### Site selection
-The experimental units are designed to be deployed by line into the water from a marina or other area with floating pontoons/docks, which are ideally wooden-sided (to attach the cages with nails) and not too high (a few meters or less) above the water. Sites should be at least 2m deep at low tide and marine, with minimal fresh-water influence (>25ppt).  A cumulative dock length of about 80m, from one or multiple sections (or sides), is ideal. While we seek to use floating docks, we realize that these may not be available at all sites.  If you do not have access to such a site, we are happy to discuss alternatives.
+In addition, we ask that partners deploy a HOBO temperature logger (provided in the materials kit) for the duration of the experiment, and record environmental conditions (temperature, salinity, turbidity) every 2 weeks. 
+
+### Materials and Supplies
+
+Smithsonian will provide most materials needed for the experiment. Partners will provide cored bricks (weights for panels), a hammer, camera, salinity probe/YSI, and weighing scale. Optional components include (1) a short-term predation assay, (2) observations of predator activity, and (3) presevation of the final community for metabracoding. Requirements for these components are descrive=bed in the downloadable protocol documents. 
 
 ## Data collection
 
-Most data will be collected as photographs of the panels, which can be uploaded to a Smithsonian DropBox every 2 weeks; the panel photos will be analysed for community composition centrally at the Smithsonian. In addition, we ask that partners deploy a HOBO temperature logger (provided in the materials kit) for the duration of the experiment, and record environmental conditions (temperature, salinity, turbidity) every 2 weeks. At the end of the experiment, partners will conduct a short-term predation assay and collect observations on predators visiting the units.  We also expect to provide materials to preserve the panel communities at end of the experiment for DNA meta-barcoding.
+Fouling community development will be scored by photographing the panels every 2 weeks. Panle photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian. 
 
 See the detailed protocol document linked at the top of this page.
 
