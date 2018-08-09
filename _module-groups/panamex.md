@@ -23,9 +23,9 @@ The *Pan-American Experimental Initiative in Marine Macroecology* (**PanAmEx**) 
 The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measure gradients in interaction strength among marine benthic organisms, focusing on how predation affects assembly of communities of fouling organisms. The project's novelty is its unprecedented scale -- across latitudes nearly from pole to pole along the Americas, in both Atlantic and Pacific Oceans.  
 
 
-## Goals
+## Goal
 
-Quantify latitudinal patterns in key demographic processes and community interactions, including recruitment, assemblage composition, and the influence of predation on fouling community development.  
+  - Quantify latitudinal patterns in key demographic processes and community interactions, including recruitment, assemblage composition, and the influence of predation on fouling community development.  
 
 ### Hypotheses
 
@@ -45,9 +45,16 @@ Quantify latitudinal patterns in key demographic processes and community interac
 
 ## Methods
 
+See the instructional video for details:
+
+<div class="embed-responsive embed-responsive-16by9">
+ <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Vg8T-3pAVDU"></iframe>
+</div>
+
+
 The experiment compares development of fouling communities (sessile invertebrates) on PVC panels that are either exposed or protected from predators (mainly fishes) using cages. The PVC panels are deployed from (preferably floating) docks, providing a simple and standardized substratum for colonization of marine organisms. 
 
-The experiment is described in detail in the accompanying instructional video and downloadable protocols documents listed above.
+Please read the <a href="/assets/panamex/Panamex Caging Protocol May2018.pdf">Panamex experimental Protocol</a> for full methods and instructions.
 
 ### Experimental design
 
@@ -65,7 +72,7 @@ In addition, we ask that partners deploy a HOBO temperature logger (provided in 
 
 Smithsonian will provide most materials needed for the experiment. Partners will provide cored bricks (weights for panels), a hammer, camera, salinity probe/YSI, and weighing scale. Optional components include (1) a short-term predation assay, (2) observations of predator activity, and (3) presevation of the final community for metabracoding. Requirements for these components are descrive=bed in the downloadable protocol documents. 
 
-## Data collection
+### Data collection
 
 Fouling community development will be scored by photographing the panels every 2 weeks. Panle photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian. 
 
@@ -84,6 +91,15 @@ We expect to build upon this initial PanAmEx project, conducting additional expe
  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Vg8T-3pAVDU"></iframe>
 </div>
 
-# Protocol  
+## Data curation      
 
-See PDF linked at the top of the page and the instructional video above.
+Use the *Panamex Data Entry Template* (coming soon ...) and submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+
+## Selected literature
+
+Freestone, A. L., G. M. Rutz, and M. E. Torchin. 2013. Stronger biotic resistance in tropics relative to temperate zone: effects of predation on marine invasion dynamics. Ecology 94:1370–1377. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1382.1">Source</a>)
+
+Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. Ecology 92:208–217.
+
+Freestone, A. L., R. W. Osman, G. M. Ruiz, and M. E. Torchin. 2011. Stronger predation in the tropics shapes species richness patterns in marine communities. Ecology 92:983–993.
+
