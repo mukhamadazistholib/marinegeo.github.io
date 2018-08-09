@@ -33,6 +33,7 @@ The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measu
 2.	Community diversity (species and function richness and evenness) are higher toward the equator.
 3.	Predation is more intense, and therefore a stronger influence on commmun ity organization, toward the equator.
 
+
 ## Requirements
 
 **Personnel**: 1-2
@@ -83,6 +84,7 @@ See the detailed protocol document linked at the top of this page.
 ## Data curation      
 
 Use the *Panamex Data Entry Template* (coming soon ...) and submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+
 
 ## Selected literature
 
