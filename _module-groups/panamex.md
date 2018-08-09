@@ -89,11 +89,7 @@ Use the *Panamex Data Entry Template* (coming soon ...) and submit data to <a hr
 
 ## Selected literature
 
-<<<<<<< HEAD
-Freestone, A. L., G. M. Ruiz, and M. E. Torchin. 2013. Stronger biotic resistance in tropics relative to temperate zone: effects of predation on marine invasion dynamics. Ecology 94:1370–1377. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1382.1">Source</a>)
-=======
 Freestone, A. L., G. M. Rutz, and M. E. Torchin. 2013. Stronger biotic resistance in tropics relative to temperate zone: effects of predation on marine invasion dynamics. <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1382.1">Ecology 94:1370–1377</a>.
->>>>>>> fixes citations and adds panamex optional methods
 
 Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-1841.1">Ecology 92:208–217</a>.
 
