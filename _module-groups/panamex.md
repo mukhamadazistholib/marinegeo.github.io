@@ -78,14 +78,8 @@ Fouling community development will be scored by photographing the panels every 2
 
 See the detailed protocol document linked at the top of this page.
 
-## Outcomes
 
-The most immediate outcome from this initial project will be at least one peer-reviewed publication, which will include as co-author the lead researcher from each site.  
-
-We expect to build upon this initial PanAmEx project, conducting additional experiments in future years.  Importantly, participation in this inaugural experiment does not obligate you to participate in future projects.  While we hope you may be interested in further collaboration, each project will constitute an independent assembly of participants and “opt-in” decision.
-
-
-# Instructional Video
+## Instructional Video
 
 <div class="embed-responsive embed-responsive-16by9">
  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Vg8T-3pAVDU"></iframe>
