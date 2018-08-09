@@ -7,7 +7,7 @@ links:
   - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
     path: /assets/panamex/Panamex Caging Protocol May2018.pdf
     icon: save_alt
-  - name: Instructional video: How to set up the 2018-2019 Panamex Experiment
+  - name: Instructional video&#58; How to set up the 2018-2019 Panamex Experiment
     path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
     icon: videocam
 modules:
@@ -18,7 +18,7 @@ modules:
 
 ## Purpose
 
-The *Pan-American Experimental Initiative in Marine Macroecology* (**PanAmEx**) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative is a  collaboration among a network of partner researchers to implement simple, standardized, and replicated experiments that address how ecological processes vary geographically. 
+The *Pan-American Experimental Initiative in Marine Macroecology* (**PanAmEx**) is a new experimental network to examine broad-scale ecological patterns and processes across coastal marine ecosystems of North, Central, and South America. Panamex is coordinated and supported by the Smithsonian Institution (including the Smithsonian Environmental Research Center, Smithsonian Tropical Research Institute, and the Smithsonian-led MarineGEO program) and Temple University. The initiative is a  collaboration among a network of partner researchers to implement simple, standardized, and replicated experiments that address how ecological processes vary geographically.
 
 The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measure gradients in interaction strength among marine benthic organisms, focusing on how predation affects assembly of communities of fouling organisms. The project's novelty is its unprecedented scale -- across latitudes nearly from pole to pole along the Americas, in both Atlantic and Pacific Oceans.  
 
@@ -42,7 +42,7 @@ The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measu
 
 **Frequency**: One time
 
-**Materials**: See details below. 
+**Materials**: See details below.
 
 
 ## Methods
@@ -54,7 +54,7 @@ See the instructional video for details:
 </div>
 
 
-The experiment compares development of fouling communities (sessile invertebrates) on PVC panels that are either exposed or protected from predators (mainly fishes) using cages. The PVC panels are deployed from (preferably floating) docks, providing a simple and standardized substratum for colonization of marine organisms. 
+The experiment compares development of fouling communities (sessile invertebrates) on PVC panels that are either exposed or protected from predators (mainly fishes) using cages. The PVC panels are deployed from (preferably floating) docks, providing a simple and standardized substratum for colonization of marine organisms.
 
 Please read the <a href="/assets/panamex/Panamex Caging Protocol May2018.pdf">Panamex experimental Protocol</a> for full methods and instructions.
 
@@ -68,15 +68,15 @@ At each location, partners will deploy 8 replicate panel units for each of 4 tre
 
 The experimental units are designed to be deployed on a rope hanging in the water from a marina or other area with floating pontoons/docks. These should ideally have wooden sides to attach the cages with nails, and not be too high (<2 meters) above the water. Sites should be at least 2m deep at low tide and marine, with minimal fresh-water influence (>25ppt).  A cumulative dock length of about 80m, from one or multiple sections (or sides), is ideal. While we seek to use floating docks, we realize that these may not be available at all sites.  If you do not have access to such a site, we are happy to discuss alternatives.
 
-In addition, we ask that partners deploy a HOBO temperature logger (provided in the materials kit) for the duration of the experiment, and record environmental conditions (temperature, salinity, turbidity) every 2 weeks. 
+In addition, we ask that partners deploy a HOBO temperature logger (provided in the materials kit) for the duration of the experiment, and record environmental conditions (temperature, salinity, turbidity) every 2 weeks.
 
 ### Materials and Supplies
 
-Smithsonian will provide most materials needed for the experiment. Partners will provide cored bricks (weights for panels), a hammer, camera, salinity probe/YSI, and weighing scale. Optional components include (1) a short-term predation assay, (2) observations of predator activity, and (3) presevation of the final community for metabracoding. Requirements for these components are descrive=bed in the downloadable protocol documents. 
+Smithsonian will provide most materials needed for the experiment. Partners will provide cored bricks (weights for panels), a hammer, camera, salinity probe/YSI, and weighing scale. Optional components include (1) a short-term predation assay, (2) observations of predator activity, and (3) presevation of the final community for metabracoding. Requirements for these components are descrive=bed in the downloadable protocol documents.
 
 ### Data collection
 
-Fouling community development will be scored by photographing the panels every 2 weeks. Panel photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian. 
+Fouling community development will be scored by photographing the panels every 2 weeks. Panel photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian.
 
 See the detailed protocol document linked at the top of this page.
 
@@ -93,5 +93,3 @@ Freestone, A. L., G. M. Rutz, and M. E. Torchin. 2013. Stronger biotic resistanc
 Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. Ecology 92:208–217. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-1841.1">Source</a>)
 
 Freestone, A. L., R. W. Osman, G. M. Ruiz, and M. E. Torchin. 2011. Stronger predation in the tropics shapes species richness patterns in marine communities. Ecology 92:983–993. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-2379.1">Source</a>)
-
-
