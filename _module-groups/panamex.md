@@ -4,10 +4,10 @@ title: PanAmEx
 thumbnail: /img/icons/MarineGEO_logo.png
 editbutton: true
 links:
-  - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
+  - name: Protocol: 2018-2019 Panamex Experiment 
     path: /assets/panamex/Panamex Caging Protocol May2018.pdf
     icon: save_alt
-  - name: Youtube - Panamex Caging Experiment- How To Set Up Your Kit
+  - name: Instructional video: How to set up the 2018-2019 Panamex Experiment
     path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
     icon: videocam
 modules:
