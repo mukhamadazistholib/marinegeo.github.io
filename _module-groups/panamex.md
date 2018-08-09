@@ -4,8 +4,11 @@ title: PanAmEx
 thumbnail: /img/icons/MarineGEO_logo.png
 editbutton: true
 links:
-  - name: Protocol&#58; 2018-2019 Panamex Experiment
-    path: /assets/panamex/Panamex Caging Protocol May2018.pdf
+  - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
+    path: /assets/panamex/Panamex_CagingProtocol_May2018.pdf
+    icon: save_alt
+  - name: PANAMEX&#58; Additional Protocols Weeks 10 and 12
+    path: /assets/panamex/Panamex_OptionalProtocolsWeeks10and12_2018.pdf
     icon: save_alt
   - name: Instructional video&#58; How to set up the 2018-2019 Panamex Experiment
     path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
@@ -31,7 +34,7 @@ The first PanAmEx project, initiated in 2018 and 2019, is an experiment to measu
 
 1.	Demographic processes, including recruitment and growth, are faster toward the equator.
 2.	Community diversity (species and function richness and evenness) are higher toward the equator.
-3.	Predation is more intense, and therefore a stronger influence on commmun ity organization, toward the equator.
+3.	Predation is more intense, and therefore a stronger influence on community organization, toward the equator.
 
 
 ## Requirements
@@ -56,7 +59,7 @@ See the instructional video for details:
 
 The experiment compares development of fouling communities (sessile invertebrates) on PVC panels that are either exposed or protected from predators (mainly fishes) using cages. The PVC panels are deployed from (preferably floating) docks, providing a simple and standardized substratum for colonization of marine organisms.
 
-Please read the <a href="/assets/panamex/Panamex Caging Protocol May2018.pdf">Panamex experimental Protocol</a> for full methods and instructions.
+Please read the <a href="/assets/panamex/Panamex_CagingProtocol_May2018.pdf">Panamex experimental Protocol</a> for full methods and instructions.
 
 ### Experimental design
 
@@ -72,11 +75,11 @@ In addition, we ask that partners deploy a HOBO temperature logger (provided in 
 
 ### Materials and Supplies
 
-Smithsonian will provide most materials needed for the experiment. Partners will provide cored bricks (weights for panels), a hammer, camera, salinity probe/YSI, and weighing scale. Optional components include (1) a short-term predation assay, (2) observations of predator activity, and (3) presevation of the final community for metabracoding. Requirements for these components are descrive=bed in the downloadable protocol documents.
+Smithsonian will provide most materials needed for the experiment. Partners will provide cored bricks (weights for panels), a hammer, camera, salinity probe/YSI, and weighing scale. Optional components include (1) a short-term predation assay, (2) observations of predator activity, and (3) preservation of the final community for metabracoding. Requirements for these components are described in the downloadable protocol documents.
 
 ### Data collection
 
-Fouling community development will be scored by photographing the panels every 2 weeks. Panel photos will then be uploaded to a Smithsonian dropbox account and analysed for community composition centrally at the Smithsonian.
+Fouling community development will be scored by photographing the panels every 2 weeks. Panel photos will then be uploaded to a Smithsonian dropbox account and analyzed for community composition centrally at the Smithsonian.
 
 
 ## Data curation      
@@ -86,8 +89,12 @@ Use the *Panamex Data Entry Template* (coming soon ...) and submit data to <a hr
 
 ## Selected literature
 
+<<<<<<< HEAD
 Freestone, A. L., G. M. Ruiz, and M. E. Torchin. 2013. Stronger biotic resistance in tropics relative to temperate zone: effects of predation on marine invasion dynamics. Ecology 94:1370–1377. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1382.1">Source</a>)
+=======
+Freestone, A. L., G. M. Rutz, and M. E. Torchin. 2013. Stronger biotic resistance in tropics relative to temperate zone: effects of predation on marine invasion dynamics. <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1382.1">Ecology 94:1370–1377</a>.
+>>>>>>> fixes citations and adds panamex optional methods
 
-Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. Ecology 92:208–217. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-1841.1">Source</a>)
+Freestone, A. L., and R. W. Osman. 2011. Latitudinal variation in local interactions and regional enrichment shape patterns of marine community diversity. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-1841.1">Ecology 92:208–217</a>.
 
-Freestone, A. L., R. W. Osman, G. M. Ruiz, and M. E. Torchin. 2011. Stronger predation in the tropics shapes species richness patterns in marine communities. Ecology 92:983–993. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-2379.1">Source</a>)
+Freestone, A. L., R. W. Osman, G. M. Ruiz, and M. E. Torchin. 2011. Stronger predation in the tropics shapes species richness patterns in marine communities. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-2379.1">Ecology 92:983–993</a>.
