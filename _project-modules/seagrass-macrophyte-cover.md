@@ -7,8 +7,7 @@ editbutton: true
 
 ## Purpose
 
-Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. This protocol describes measurements to document the health of plant and animal components of seagrass ecosystems. MarineGEO sites complete the protocol at least annually during the peak season of biological activity, and preferably seasonally, to monitor seagrass community health and changes over time. 
-
+Seagrasses and other sessile macroorganisms provide key habitat for other anmals and algae in coastal regions throughout the world. This protocol quantifies, on a local scale (meters) the proportion of the sea bottom that is occupied by seagrasses, macroalgae and sessile invertebreates such as sponges. 
 
 ## Goal
 
