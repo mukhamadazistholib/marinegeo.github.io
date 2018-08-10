@@ -28,7 +28,7 @@ Fishes are major players in most marine ecosystems. In clear water (>4 m visibil
 
 **Frequency:** Variable (at least annually)
 
-**Materials:** scuba gear, standard RLS data sheet on waterproof paper, underwater camera, clipboard
+**Materials:** scuba gear, 50-m transect tape, standard RLS data sheets on waterproof paper, underwater camera, clipboards, pencils
 
 
 ## Methods
@@ -38,7 +38,7 @@ Divers record fish and invertebrate species seen along 50-m underwater transects
 
 ## Data curation      
 
-MarineGEO is currently adapting a data template based on the [Reef Life Survey standard data entry templates] (https://reeflifesurvey.com/reef-life-survey/about-rls/methods/). Submit completed data sheet to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+MarineGEO is currently adapting a data template based on the [Reef Life Survey standard data entry templates](https://reeflifesurvey.com/reef-life-survey/about-rls/methods/). Submit completed data sheet to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 
 ## Selected literature
