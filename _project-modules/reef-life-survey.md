@@ -13,6 +13,7 @@ links:
 
 Fishes are major players in most marine ecosystems. In clear water (>4 m visibility), MarineGEO uses the protocol of the [Reef Life Survey (RLS)](https://reeflifesurvey.com/) for quantifying the diversity, abundance, and size distributions of fishes, as well as large mobile macroinvertebrates. We also use use a variant of the RLS photoquadrat protocol for quantifying sessile benthic communities. Reef Life Survey applies globally standardized visual census methods developed over 30 years of shallow reef biodiversity research. These methods are applied by all RLS divers around the world -- on coral and rocky reefs -- and thus facilitate direct comparisons among sites surveyed using RLS protocols. Note that RLS currently requires that data collectors using these protocols be trained by approved RLS trainers in order to contribute data to the [RLS database](https://reeflifesurvey.com/reef-life-survey/survey-data/). 
 
+![Survey divers]({{"assets/rls/16846974360_c7640e4beb_o.jpg" | absolute_url }})
 
 ## Goal
 
