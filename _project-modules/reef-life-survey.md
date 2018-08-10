@@ -47,13 +47,15 @@ Duffy, J. E., J. S. Lefcheck, R. D. Stuart-Smith, S. A. Navarrete, and G. J. Edg
 
 Edgar, G., and R. Stuart-Smith. 2009. Ecological effects of marine protected areas on rocky reef communities- a continental-scale analysis. <a href="https://www.int-res.com/abstracts/meps/v388/p51-62/">Marine Ecology Progress Series 388:51–62</a>.
 
-Edgar, G. J., T. J. Alexander, J. S. Lefcheck, A. E. Bates, S. J. Kininmonth, R. J. Thomson, J. E. Duffy, M. J. Costello, and R. D. Stuart-Smith. 2017. Abundance and local-scale processes contribute to multi-phyla gradients in global marine diversity.<a href="http://advances.sciencemag.org/content/3/10/e1700419">Science Advances 3:e1700419</a>.
+Edgar, G. J., T. J. Alexander, J. S. Lefcheck, A. E. Bates, S. J. Kininmonth, R. J. Thomson, J. E. Duffy, M. J. Costello, and R. D. Stuart-Smith. 2017. Abundance and local-scale processes contribute to multi-phyla gradients in global marine diversity.  <a href="http://advances.sciencemag.org/content/3/10/e1700419">Science Advances 3:e1700419</a>.
 
-Edgar, G. J., and R. D. Stuart-Smith. 2014. Systematic global assessment of reef fish communities by the Reef Life Survey program. Scientific Data 1.
+Edgar, G. J., and R. D. Stuart-Smith. 2014. Systematic global assessment of reef fish communities by the Reef Life Survey program. <a href="https://www.nature.com/articles/sdata20147">Scientific Data 1:140007</a>.
 
-Edgar, G. J., R. D. Stuart-Smith, T. J. Willis, S. Kininmonth, S. C. Baker, S. Banks, N. S. Barrett, M. A. Becerro, A. T. F. Bernard, J. Berkhout, C. D. Buxton, S. J. Campbell, A. T. Cooper, M. Davey, S. C. Edgar, G. Försterra, D. E. Galván, A. J. Irigoyen, D. J. Kushner, R. Moura, P. E. Parnell, N. T. SHEARS, G. Soler, E. M. A. Strain, and R. J. Thomson. 2014. Global conservation outcomes depend on marine protected areas with five key features. Nature 506:216–220.
+Edgar, G. J., R. D. Stuart-Smith, T. J. Willis, S. Kininmonth, S. C. Baker, S. Banks, N. S. Barrett, M. A. Becerro, A. T. F. Bernard, J. Berkhout, C. D. Buxton, S. J. Campbell, A. T. Cooper, M. Davey, S. C. Edgar, G. Försterra, D. E. Galván, A. J. Irigoyen, D. J. Kushner, R. Moura, P. E. Parnell, N. T. SHEARS, G. Soler, E. M. A. Strain, and R. J. Thomson. 2014. Global conservation outcomes depend on marine protected areas with five key features. <a href="https://www.nature.com/articles/nature13022">Nature 506:216–220</a>.
 
-Stuart-Smith, R. D., A. E. Bates, J. S. Lefcheck, J. E. Duffy, S. C. Baker, R. J. Thomson, J. F. Stuart-Smith, N. A. Hill, S. J. Kininmonth, L. Airoldi, M. A. Becerro, S. J. Campbell, T. P. Dawson, S. A. Navarrete, G. A. Soler, E. M. A. Strain, T. J. Willis, and G. J. Edgar. 2013. Integrating abundance and functional traits reveals new global hotspots of fish diversity. Nature 501:539–542.
+Stuart-Smith, R. D., A. E. Bates, J. S. Lefcheck, J. E. Duffy, S. C. Baker, R. J. Thomson, J. F. Stuart-Smith, N. A. Hill, S. J. Kininmonth, L. Airoldi, M. A. Becerro, S. J. Campbell, T. P. Dawson, S. A. Navarrete, G. A. Soler, E. M. A. Strain, T. J. Willis, and G. J. Edgar. 2013. Integrating abundance and functional traits reveals new global hotspots of fish diversity. 
+<a href="https://www.nature.com/articles/nature12529">Nature 501:539–542</a>.
 
 Stuart-Smith, R. D., G. J. Edgar, and A. E. Bates. 2017. Thermal limits to the geographic distributions of shallow-water marine species. Nature Ecology & Evolution 1:1846–1852.
+<a href="https://www.nature.com/articles/nature12529">Nature 501:539–542</a>.
 
