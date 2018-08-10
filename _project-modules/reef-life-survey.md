@@ -38,7 +38,7 @@ Divers record fish and invertebrate species seen along 50-m underwater transects
 
 ## Data curation      
 
-MarineGEO is currently adapting a data template based on the [Reef Life Survey standard data entry templates] (https://reeflifesurvey.com/reef-life-survey/about-rls/methods/). Submit completed data sheet to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+MarineGEO is currently adapting a data template based on the [Reef Life Survey standard data entry templates](https://reeflifesurvey.com/reef-life-survey/about-rls/methods/). Submit completed data sheet to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 
 ## Selected literature
