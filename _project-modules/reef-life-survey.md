@@ -45,9 +45,9 @@ MarineGEO is currently adapting a data template based on the [Reef Life Survey s
 
 Duffy, J. E., J. S. Lefcheck, R. D. Stuart-Smith, S. A. Navarrete, and G. J. Edgar. 2016. Biodiversity enhances reef fish biomass and resistance to climate change. <a href="http://www.pnas.org/content/113/22/6230.short">Proceedings of the National Academy of Sciences 113:6230–6235</a>.
 
-Edgar, G., and R. Stuart-Smith. 2009. Ecological effects of marine protected areas on rocky reef communities- a continental-scale analysis. Marine Ecology Progress Series 388:51–62.
+Edgar, G., and R. Stuart-Smith. 2009. Ecological effects of marine protected areas on rocky reef communities- a continental-scale analysis. <a href="https://www.int-res.com/abstracts/meps/v388/p51-62/">Marine Ecology Progress Series 388:51–62</a>.
 
-Edgar, G. J., T. J. Alexander, J. S. Lefcheck, A. E. Bates, S. J. Kininmonth, R. J. Thomson, J. E. Duffy, M. J. Costello, and R. D. Stuart-Smith. 2017. Abundance and local-scale processes contribute to multi-phyla gradients in global marine diversity. Science Advances 3:e1700419.
+Edgar, G. J., T. J. Alexander, J. S. Lefcheck, A. E. Bates, S. J. Kininmonth, R. J. Thomson, J. E. Duffy, M. J. Costello, and R. D. Stuart-Smith. 2017. Abundance and local-scale processes contribute to multi-phyla gradients in global marine diversity.<a href="http://advances.sciencemag.org/content/3/10/e1700419">Science Advances 3:e1700419</a>.
 
 Edgar, G. J., and R. D. Stuart-Smith. 2014. Systematic global assessment of reef fish communities by the Reef Life Survey program. Scientific Data 1.
 
