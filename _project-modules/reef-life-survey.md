@@ -28,7 +28,7 @@ Fishes are major players in most marine ecosystems. In clear water (>4 m visibil
 
 **Frequency:** Variable (at least annually)
 
-**Materials:** scuba gear, standard RLS data sheet on waterproof paper, underwater camera, clipboard
+**Materials:** scuba gear, 50-m transect tape, standard RLS data sheets on waterproof paper, underwater camera, clipboards, pencils
 
 
 ## Methods
