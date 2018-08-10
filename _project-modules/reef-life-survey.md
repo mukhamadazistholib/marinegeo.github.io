@@ -18,7 +18,6 @@ Fishes are major players in most marine ecosystems. In clear water (>4 m visibil
 
   - Obtain standardized, quantitative estimates of fish species composition, abundance, and size distribution 
 
-![Survey diver]({{"https://www.flickr.com/photos/simarinegeo/16846974360/in/album-72157651727008362/" | absolute_url }})
 
 ## Requirements
 
