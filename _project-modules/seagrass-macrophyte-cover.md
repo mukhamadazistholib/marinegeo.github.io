@@ -5,17 +5,41 @@ thumbnail: /img/icons/seagrass.png
 editbutton: true
 ---
 
-### Measure macrophyte percent cover
+## Purpose
 
-*Goal: Record macrophyte species composition and areal cover (N = 15)*
+Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. This protocol describes measurements to document the health of plant and animal components of seagrass ecosystems. MarineGEO sites complete the protocol at least annually during the peak season of biological activity, and preferably seasonally, to monitor seagrass community health and changes over time. 
 
-  1.	Assemble necessary gear (see field checklist below) and a blank MarineGEO standard datasheet for percent cover. Upon arrival at field site fill in all requested metadata clearly and legibly. Write your full name on the sheet as data recorder. Explain any abbreviations used.
-  2.	Deploy three 25-m transects, separated by ~10 m, at as uniform a depth as possible within the seagrass meadow.
-  3.	Drive a 1.5 m PVC pole into the sediment at the beginning and end of each transect to mark the sampling area. Record depth (relative to mean lower low water) and state of tide on the MarineGEO standard datasheet for percent cover. Poles or other more permanent markers may be left in the field if it is feasible to sample the same transects repeatedly over the long term and if this does not pose a safety hazard.
-  4.	Along each transect, randomly select five points for quadrat surveys.
-  5.	At each random point, place a PVC quadrat (1 m<sup>2</sup>) adjacent to the transect line. Identify the macrophyte species directly underneath each point (i.e., intersection of monofilament cross-lines), tally these up, and record on the MarineGEO standard datasheet for percent cover. It is often helpful to count one taxon at a time, sequentially (e.g., Zostera marina first, then Gracilaria sp., etc.). Count any point that covers vegetation, whether blade or shoot. Be sure to count the number of points over bare substratum also.
-  6.	Before leaving the field review the MarineGEO standard datasheet for percent cover. Check to ensure that all requested fields are filled in, that numbers have appropriate units specified, that all entries are clear and legible, and that the data recorder’s name is entered in case questions arise.
-  7.	If any changes or omissions to the protocol were necessary, be sure to note these clearly in the notes field on the data sheet.
-  8.	Upon returning to the lab, scan the MarineGEO standard datasheet for percent cover and store both the paper copy and the scanned electronic copy in a secure place designated for this purpose. Use the MarineGEO label convention for the electronic file name:  
-  - Convention: Sitecode date (yyyy-mm-dd) “cover”  
-  - Example:  SB 2016-05-04 cover (where SB = South Bay, Virginia)
+
+## Goal
+
+  - Quantify species composition and areal cover of seagrasses and other sessile macroscopic organisms (macroalgae, sponges, etc.) 
+
+
+## Requirements
+
+**Personnel:** 2
+
+**Time:** Field: 2 people x 2-3 hours. Data curation: 1 person x 1 hour.  
+
+**Frequency:** At least annually
+
+**Materials:** quadrat (1 m2) with monofilament lines forming at least 50 points, clipboards, pencils, field data sheet on underwater paper 	
+
+
+## Methods
+
+Seagrass community assessment in the MarineGEO program has two main components: (1) non-destructive assessments of plant species composition (seagrass and macroalgae) and percent cover, described in this protocol; and (2) collection and processing of samples for seagrass biomass, fouling load, and epifaunal communities, described elsewhere. The assessment is structured around three replicate 25 m transects, permanently marked where possible, at each site. Macrophyte percent cover and species composition are recorded within each of five 1 m2 quadrats located randomly along each transect (N = 15 quadrats total at the site). 
+
+Please read the MarineGEO Seagrass Cover Protocol (comng soon ...) for full methods and instructions.
+ 
+## Data curation      
+
+Use the Seagrass Cover Data Entry Template (comng soon ...) and submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+
+
+## Selected literature
+
+Duffy, J. E., P. L. Reynolds, C. Boström, J. A. Coyer, M. Cusson, S. Donadi, J. G. Douglass, J. S. Eklöf, A. H. Engelen, B. K. ERIKSSON, S. Fredriksen, L. Gamfeldt, C. Gustafsson, G. Hoarau, M. Hori, K. Hovel, K. Iken, J. S. Lefcheck, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, J. P. Richardson, J. L. Ruesink, E. E. Sotka, J. Thormar, M. A. Whalen, and J. J. Stachowicz. 2015. Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach.  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448">Ecology Letters 18:696–705</a>.
+
+Reynolds, P. L., J. Paul Richardson, and J. Emmett Duffy. 2014. Field experimental evidence that grazers mediate transition between microalgal and seagrass dominance. <a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2014.59.3.1053">Limnology and Oceanography 59:1053–1064</a>.
+
