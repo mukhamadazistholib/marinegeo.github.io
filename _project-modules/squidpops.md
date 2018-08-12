@@ -8,7 +8,7 @@ links:
     name: Squidpop Field Data Sheet
     icon: save_alt
   - name: Squidpop Protocol
-    path: /assets/squidpops/MarineGEO_Squidpop_Protocol_V20180803.pdf
+    path: /assets/squidpops/MarineGEO_Squidpop_Protocol_V20180811.pdf
     icon: save_alt
   - name: Squidpop Data Entry Template
     path: /assets/squidpops/MarineGEO_squidpop_data_entry_template_V20180811.xlsx
