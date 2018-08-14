@@ -111,20 +111,20 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 ## Site Abbreviations
 
-MarineGEO uses a unique 3-letter code for each site (or seascape that includes several nearby sites). This code is assigned by MarineGEO in consultation with the lead of the partner site.
+MarineGEO uses a short unique code for each site (or seascape that includes several nearby sites). This code is assigned by MarineGEO in consultation with the lead of the partner site.
 
 
 | Site | Code |
 | ---- | ---- |
-| Belize: Carrie Bow | BEL |
-| British Columbia: Calvert Island (Hakai) | BCH |
-| Chesapeake Bay: Edgewater (SERC) | CBN |
-| Florida, Indian River: Fort Pierce | FIR |
-| Hawai'i: Kane'ohe Bay | HKB |
-| Hong Kong | HKU |
+| Belize: Carrie Bow | CB |
+| British Columbia: Calvert Island (Hakai) | HAK |
+| Chesapeake Bay: Edgewater (SERC) | EW |
+| Florida, Indian River: Fort Pierce | FP |
+| Hawai'i: Kane'ohe Bay | KB |
+| Hong Kong | HKG |
 | Madeira | MAD |
-| Panama: Bocas del Toro | PBT |
+| Panama: Bocas del Toro | BT |
 | San Francisco Bay (SFSU) | SFB |
 | Tasmania | TAS |
-| Texas: Corpus Christi | TXS |
-| Washington: Friday Harbor | WFH |
+| Texas: Corpus Christi | TGC |
+| Washington: Friday Harbor | FHL |
