@@ -36,9 +36,9 @@ The assay measures the rate of fish predation as loss of standard bait deployed 
 </div>
 
 
-## Goal
+## Measured parameters
 
-  - Obtain quantitative, standardized estimates of predator feeding intensity
+  - feeding intensity by generalist predators
 
 ## Requirements
 
