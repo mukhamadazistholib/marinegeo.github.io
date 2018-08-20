@@ -11,7 +11,7 @@ modules:
 ---
 ## Purpose
 
-Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. This protocol describes measurements to document the health of plant and animal components of seagrass ecosystems. MarineGEO sites complete the protocol at least annually during the peak season of biological activity, and preferably seasonally, to monitor seagrass community health and changes over time.     
+Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. For this reason seagrass extent and composition are considered Essential Ocean Variables. This protocol provides a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal communities that use seagrasses as habitat and are important conduits of productivity to fishes.     
 
 ## Measured Parameters:
  - Areal cover: Seagrasses, macroalgae, sessile macroinvertebrates
@@ -33,7 +33,7 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 ## Methods
 
-The seagrass community assessment has two main components: (1) non-destructive assessments of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass shoot characteristics, fouling load, and epifaunal communities. The assessment is structured around three replicate 50 m transects, permanently marked where possible, at each site. Macrophyte percent cover and species composition are recorded within each of five 1 m<sup>2</sup> quadrats located randomly along each transect (N = 15 quadrats total at the site). Three types of samples are then collected at each quadrat (N = 15 each) and returned to the lab for processing: (1) a seagrass sample for measurement of seagrass leaf length, leaf width, sheath length, and foiuling load; and (2) a bag sample of seagrass shoots to characterize the associated mobile epifauna community. 
+Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Macrophyte percent cover, species composition, and seagrass shoot density (in a portion of the quadrat if shoots are very dense) are recorded within each of five 1 m2 quadrats located randomly along each transect (N = 15 quadrats total at the site). Three types of samples are then collected (N = 15 each) and returned to the lab for processing: (1) a bag sample of seagrass shoots to measure seagrass leaf length and width, sheath length, and mass of fouling material; and (2) a bag sample of seagrass shoots to characterize the associated mobile epifauna community. 
 
 Please read the MarineGEO Seagrass Protocol for full methods and instructions.
 
@@ -45,5 +45,8 @@ Use the Seagrass Data Entry Template to transfer data from the field and lab dat
 
 Duffy, J. E., P. L. Reynolds, C. Boström, J. A. Coyer, M. Cusson, S. Donadi, J. G. Douglass, J. S. Eklöf, A. H. Engelen, B. K. ERIKSSON, S. Fredriksen, L. Gamfeldt, C. Gustafsson, G. Hoarau, M. Hori, K. Hovel, K. Iken, J. S. Lefcheck, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, J. P. Richardson, J. L. Ruesink, E. E. Sotka, J. Thormar, M. A. Whalen, and J. J. Stachowicz. 2015. Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448">Ecology Letters 18:696–705</a>.
 
+McKenzie, L. J., L. Long, R. C. B. marina, 2000. 2000. Seagrass-Watch: Community based monitoring of seagrass resources. <a href="http://www.seagrasswatch.org/Info_centre/Publications/McKenzie_etal_2002_BiolMarMedit.pdf">Biol. Mar. Medit. 7:393–396</a>.
+
 Ruesink, J. L., J. J. Stachowicz, P. L. Reynolds, C. Boström, M. Cusson, J. Douglass, J. Eklöf, A. H. Engelen, M. Hori, K. Hovel, K. Iken, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, E. E. Sotka, M. A. Whalen, and J. E. Duffy. 2017. Form-function relationships in a marine foundation species depend on scale: a shoot to global perspective from a distributed ecological experiment. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.04270">Oikos 127:364–374</a>.
 
+Short, F. T., L. J. McKenzie, R. G. Coles, and V. KP. 2002. SeagrassNet Manual for Scientific Monitoring of Seagrass Habitat. <a href="http://irmaservices.nps.gov/datastore/v4/rest/DownloadFile/459355?accessType=DOWNLOAD">Pages 1–65</a>.
