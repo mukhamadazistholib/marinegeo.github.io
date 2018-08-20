@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Seagrass
+title: Seagrass sampling
 thumbnail: /img/icons/seagrass.png
 editbutton: true
 links:
