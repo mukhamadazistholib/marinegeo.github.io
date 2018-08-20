@@ -43,7 +43,9 @@ Use the Seagrass Data Entry Template to transfer data from the field and lab dat
 
 ## Selected literature
 
-Duffy, J. E., P. L. Reynolds, C. Boström, J. A. Coyer, M. Cusson, S. Donadi, J. G. Douglass, J. S. Eklöf, A. H. Engelen, B. K. ERIKSSON, S. Fredriksen, L. Gamfeldt, C. Gustafsson, G. Hoarau, M. Hori, K. Hovel, K. Iken, J. S. Lefcheck, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, J. P. Richardson, J. L. Ruesink, E. E. Sotka, J. Thormar, M. A. Whalen, and J. J. Stachowicz. 2015. Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448">Ecology Letters 18:696–705</a>.
+Douglass, J. G., K. E. France, J. Paul Richardson, and J. E. Duffy. 2010. Seasonal and interannual change in a Chesapeake Bay eelgrass community: Insights into biotic and abiotic control of community structure. <a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2010.55.4.1499">Limnology and Oceanography 55:1499–1520</a>.
+
+Duffy, J. E., P. L. Reynolds, C. Boström, J. A. Coyer, M. Cusson, S. Donadi, J. G. Douglass, J. S. Eklöf, A. H. Engelen, B. K. Eriksson, S. Fredriksen, L. Gamfeldt, C. Gustafsson, G. Hoarau, M. Hori, K. Hovel, K. Iken, J. S. Lefcheck, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, J. P. Richardson, J. L. Ruesink, E. E. Sotka, J. Thormar, M. A. Whalen, and J. J. Stachowicz. 2015. Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448">Ecology Letters 18:696–705</a>.
 
 McKenzie, L. J., L. Long, R. C. B. marina, 2000. 2000. Seagrass-Watch: Community based monitoring of seagrass resources. <a href="http://www.seagrasswatch.org/Info_centre/Publications/McKenzie_etal_2002_BiolMarMedit.pdf">Biol. Mar. Medit. 7:393–396</a>.
 
