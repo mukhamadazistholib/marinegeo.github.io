@@ -4,7 +4,6 @@ title: Standards
 subtitle: MarineGEO Data Standards and Guidelines
 editbutton: true
 ---
-
 Suggestions and guidelines for standardizing MarineGEO data into tidy datasets. These guidelines serve as a reference for best practices across the MarineGEO program.
 
 Because of the wide variety of data types collected by MarineGEO partners, these guidelines might not necessarily fit all specific use cases. Please use these guidelines when possible to contribute to achieving standardization across the network.
@@ -19,7 +18,7 @@ Flat long files are ideal. Each observation should be an independent row.
 
 Files should be saved as simple flat files such as comma separated values (.csv) or tab separated values (.tsv).
 
-## Files names
+## File names
 
 Files should have a common naming convention. Please avoid using spaces, special characters, or symbols in the file name. A good name should be descriptive and should include relevant information about the contents of the file.
 
