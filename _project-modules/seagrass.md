@@ -7,6 +7,9 @@ links:
   - name: Seagrass sampling protocol
     path: /assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf
     icon: save_alt
+  - name: Seagrass Data Entry Template
+    path: /assets/seagrass-monitoring/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx
+    icon: save_alt
 modules:
   - /modules/seagrass-fouling-mass
   - /modules/seagrass-macrophyte-cover
