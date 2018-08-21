@@ -43,7 +43,7 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Macrophyte percent cover, species composition, and seagrass shoot density (in a portion of the quadrat if shoots are very dense) are recorded within each of five 1 m2 quadrats located randomly along each transect (N = 15 quadrats total at the site). Three types of samples are then collected (N = 15 each) and returned to the lab for processing: (1) a bag sample of seagrass shoots to measure seagrass leaf length and width, sheath length, and mass of fouling material; and (2) a bag sample of seagrass shoots to characterize the associated mobile epifauna community.
 
-Please read the MarineGEO Seagrass Protocol for full methods and instructions.
+Please read the <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a> for full methods and instructions.
 
 ## Data curation
 
