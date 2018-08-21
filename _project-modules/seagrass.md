@@ -4,8 +4,8 @@ title: Seagrass sampling
 thumbnail: /img/icons/seagrass.png
 editbutton: true
 links:
-  - path: /assets/seagrass-monitoring/temp.md
-    name: Temp File
+  - name: Seagrass sampling protocol
+    path: /assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf
     icon: save_alt
 modules:
   - /modules/seagrass-fouling-mass
