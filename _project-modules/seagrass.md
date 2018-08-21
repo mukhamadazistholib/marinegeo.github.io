@@ -47,7 +47,7 @@ Please read the <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol
 
 ## Data curation
 
-Use the Seagrass Data Entry Template to transfer data from the field and lab data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+Use the <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx">Seagrass Data Entry Template</a> to transfer data from the field and lab data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 ## Selected literature
 
