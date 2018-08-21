@@ -20,8 +20,7 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 ## Measured Parameters:
  - Areal cover: Seagrasses, macroalgae, sessile macroinvertebrates
  - Seagrass shoot density
- - Seagrass leaf length and width
- - Seagrass above-ground biomass
+ - Seagrass leaf length, leaf width, and sheath length
  - Fouling mass on seagrass leaves
  - Mobile epifauna: species composition and abundance
 
