@@ -22,7 +22,7 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 ![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama]({{"assets/seagrass-monitoring/Seagrass_Bocas_del_Toro_Panama.jpeg" | absolute_url }})
 
-## Measured Parameters:
+## Measured Parameters
  - Areal cover: Seagrasses, macroalgae, sessile macroinvertebrates
  - Seagrass shoot density
  - Seagrass leaf length, leaf width, and sheath length
@@ -37,7 +37,7 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 **Frequency:** Annual (minimally), preferably seasonally
 
-**Materials:** See detailed protocol
+**Materials:** See checklist in <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a>. 
 
 ## Methods
 
