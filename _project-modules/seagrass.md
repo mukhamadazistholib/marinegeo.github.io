@@ -10,11 +10,6 @@ links:
   - name: Seagrass Data Entry Template
     path: /assets/seagrass-monitoring/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx
     icon: save_alt
-modules:
-  - /modules/seagrass-fouling-mass
-  - /modules/seagrass-macrophyte-cover
-  - /modules/seagrass-mobile-epifauna
-  - /modules/seagrass-shoot-density-biomass
 ---
 ## Purpose
 
