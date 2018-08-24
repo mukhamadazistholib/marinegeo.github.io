@@ -24,14 +24,11 @@
           {%- endfor -%}
         </ul>
       <p class="copyright text-muted">
-      {{ site.author.name }}
-      &nbsp;&bull;&nbsp;
-      {{ site.time | date: '%Y' }}
 
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
-      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% if site.footer-logo %}
+        <a href="{{ site.url-actual }}"><img src="{{ site.footer-logo }}" style="width: 300px; display:block;margin:auto;"/></a>
       {% endif %}
+
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}

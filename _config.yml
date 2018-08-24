@@ -48,7 +48,10 @@ avatar: "/img/icons/MarineGEO_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/Logomark_MarineGEO_RGB.png"
+title-img: "/img/Logomark_MarineGEO_Tennenbaum_RGB.png"
+
+## logo for bottom corner
+footer-logo: "/img/si-institution_logo-horizontal-clr.png"
 
 # --- Background colour/image options --- #
 
@@ -123,6 +126,7 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "MarineGEO.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-actual: "https://marinegeo.si.edu"
 
 # --- Web Statistics Section --- #
 
