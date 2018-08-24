@@ -15,7 +15,7 @@ links:
 
 Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. For this reason seagrass extent and composition are considered Essential Ocean Variables. This protocol provides a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal communities that use seagrasses as habitat and are important conduits of productivity to fishes.     
 
-![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama]({{"assets/seagrass-monitoring/Seagrass_Bocas_del_Toro_Panama.jpeg" | absolute_url }})
+![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama](assets/seagrass-monitoring/Seagrass_Bocas_del_Toro_Panama.jpeg)
 
 ## Measured Parameters
  - Areal cover: Seagrasses, macroalgae, sessile macroinvertebrates
@@ -32,7 +32,7 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 **Frequency:** Annual (minimally), preferably seasonally
 
-**Materials:** See checklist in <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a>. 
+**Materials:** See checklist in <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a>.
 
 ## Methods
 
