@@ -3,8 +3,6 @@ layout: project
 title: Mangroves
 thumbnail: /img/icons/MarineGEO_logo.png
 editbutton: true
-modules:
-  - /modules/seagrass
 ---
 
 # Rapid Mangrove Survey - Point-centered quarter transects (PCQT)
