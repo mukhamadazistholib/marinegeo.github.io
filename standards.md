@@ -110,20 +110,22 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 ## Site Abbreviations
 
-MarineGEO uses a short unique code for each site (or seascape that includes several nearby sites). This code is assigned by MarineGEO in consultation with the lead of the partner site.
+MarineGEO uses a short unique code for each site. This code is assigned by MarineGEO in consultation with the lead of the partner site. The naming pattern is the 3 letter country code (ISO 3166-1 alpha-3) followed by three letters describing the site's geographic region. For sites within the United States, it is recommended to use the state's two letter abbreviation in the code part describing the geographic region.
 
 
 | Site | Code |
 | ---- | ---- |
-| Belize: Carrie Bow | CB |
-| British Columbia: Calvert Island (Hakai) | HAK |
-| Chesapeake Bay: Edgewater (SERC) | EW |
-| Florida, Indian River: Fort Pierce | FP |
-| Hawai'i: Kane'ohe Bay | KB |
-| Hong Kong | HKG |
-| Madeira | MAD |
-| Panama: Bocas del Toro | BT |
-| San Francisco Bay (SFSU) | SFB |
-| Tasmania | TAS |
-| Texas: Corpus Christi | TGC |
-| Washington: Friday Harbor | FHL |
+| Carrie Bow Cay, Belize | BEL-CBC |
+| Calvert Island, British Columbia, Canada  | CAN-BCC |
+| Chesapeake Bay, Edgewater, Maryland, USA | USA-MDA |
+| Indian River Lagoon, Fort Pierce, Florida, USA | USA-IRL |
+| Kane'ohe Bay, Hawai'i, USA  | USA-HIK |
+| Hong Kong| HKG-HKG |
+| Madeira Island, Portugal | POR-MAD |
+| Bocas del Toro, Panama | PAN-BDT |
+| San Francisco Bay, California, USA | USA-SFB |
+| Tasmania, Australia | AUS-TAS |
+| Gulf Coast, Texas, USA | USA-TGC |
+| Salish Sea, Washington, USA | USA-WAS |
+| Cambridge Bay, Canada | CAN-NCB |
+| Central Coast, Peru   | PER-CCP |
