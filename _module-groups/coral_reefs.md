@@ -6,6 +6,7 @@ modules:
   - /modules/reef-life-survey
   - /modules/squidpops
   - /modules/benthicphotos
+editbutton: true
 ---
 
 # Coral Reefs

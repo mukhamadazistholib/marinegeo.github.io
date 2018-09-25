@@ -4,6 +4,7 @@ title: Sand Habitat
 modules:
   - /modules/mangroves
   - /modules/waterquality
+editbutton: true
 ---
 
 # Sand

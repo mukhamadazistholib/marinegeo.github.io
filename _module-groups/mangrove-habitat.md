@@ -4,6 +4,8 @@ title: Mangrove Habitat
 modules:
   - /modules/mangroves
   - /modules/waterquality
+  - /modules/squidpops
+editbutton: true
 ---
 
 # Mangroves

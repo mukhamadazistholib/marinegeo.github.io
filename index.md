@@ -9,7 +9,6 @@ modules:
   - /modules/benthicphotos
   - /modules/squidpops
   - /modules/waterquality
-  - /modules/panamex-photoquadrat-scoring
   - /modules/uav
 ---
 
