@@ -56,6 +56,10 @@ title-link: "https://marinegeo.si.edu"
 footer-logo: "/img/si-institution_logo-horizontal-clr.png"
 footer-link: "https://www.si.edu"
 
+
+## default thumbnail for Modules
+default-thumbnail: /img/icons/MarineGEO_logo.png 
+
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
