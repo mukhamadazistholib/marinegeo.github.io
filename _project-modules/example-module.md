@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Example Module
-thumbnail: /img/icons/squidpop-fish3.png
 editbutton: true
 links:
   - path: https://www.google.com
