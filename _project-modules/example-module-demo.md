@@ -3,7 +3,7 @@ layout: project
 title: Example Module
 editbutton: true
 links:
-  - url: www.google.com
+  - path: https://www.google.com
     name: google
     icon: link
 ---
