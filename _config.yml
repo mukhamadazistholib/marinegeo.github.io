@@ -38,7 +38,7 @@ navbar-links:
     - Barcode of Life Data Systems: "http://www.boldsystems.org/"
     - Biodiversity Heritage Library: "https://www.biodiversitylibrary.org/"
     - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
-    - Fishbase: "https://www.fishbase.de/home.html"
+    - Fishbase: "https://www.fishbase.de"
     - OBIS: "http://www.iobis.org/"
     - Reef Species of the World: "https://reeflifesurvey.com/species/search.php"
     - WoRMS: "http://www.marinespecies.org/"
@@ -58,7 +58,7 @@ footer-link: "https://www.si.edu"
 
 
 ## default thumbnail for Modules
-default-thumbnail: /img/MarineGEO_logo.png 
+default-thumbnail: /img/MarineGEO_logo.png
 
 # --- Background colour/image options --- #
 
