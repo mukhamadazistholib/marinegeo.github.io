@@ -1,19 +1,18 @@
 ---
 layout: project
 title: Water Quality
-thumbnail: /img/icons/sonde.png
+thumbnail: /img/sonde.png
 editbutton: true
 ---
 
-# Chemical-Physical Observation Program (CPOP)
-
 ## Purpose
 
+## Measured parameters
+
+## Requirements
 
 ## Methods
 
-### Calibration
+## Data curation     
 
-### Roving Sonde
-
-## More info
+## Selected literature

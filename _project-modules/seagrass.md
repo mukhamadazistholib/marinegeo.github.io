@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass sampling
-thumbnail: /img/icons/seagrass.png
+thumbnail: /img/seagrass.png
 editbutton: true
 links:
   - name: Seagrass sampling protocol

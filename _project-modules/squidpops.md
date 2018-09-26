@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Squidpops
-thumbnail: /img/icons/squidpop-fish3.png
+thumbnail: /img/squidpop-fish3.png
 editbutton: true
 links:
   - path: /assets/modules/squidpops/MarineGEO_squidpop_field_data_sheet_V20180802.pdf

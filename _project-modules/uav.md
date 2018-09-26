@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Aerial Habitat Surveys
-thumbnail: /img/icons/quadcopter.png
+thumbnail: /img/quadcopter.png
 editbutton: true
 ---
 

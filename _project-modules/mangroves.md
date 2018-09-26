@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Mangroves
-thumbnail: /img/icons/MarineGEO_logo.png
+thumbnail: /img/MarineGEO_logo.png
 editbutton: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: PanAmEx
-thumbnail: /img/icons/MarineGEO_logo.png
+thumbnail: /img/MarineGEO_logo.png
 editbutton: true
 links:
   - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
