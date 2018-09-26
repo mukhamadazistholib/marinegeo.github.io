@@ -13,10 +13,6 @@ links:
   - name: Instructional video&#58; How to set up the 2018-2019 Panamex Experiment
     path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
     icon: videocam
-modules:
-  - /modules/panamex-field-deployment
-  - /modules/panamex-metagenomics
-  - /modules/panamex-photoquadrat-scoring
 ---
 
 ## Purpose

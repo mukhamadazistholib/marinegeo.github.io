@@ -4,14 +4,14 @@ title: Squidpops
 thumbnail: /img/icons/squidpop-fish3.png
 editbutton: true
 links:
-  - path: /assets/squidpops/MarineGEO_squidpop_field_data_sheet_V20180802.pdf
+  - path: /assets/modules/squidpops/MarineGEO_squidpop_field_data_sheet_V20180802.pdf
     name: Squidpop Field Data Sheet
     icon: save_alt
   - name: Squidpop Protocol
-    path: /assets/squidpops/MarineGEO_Squidpop_Protocol_V20180817.pdf
+    path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V20180817.pdf
     icon: save_alt
   - name: Squidpop Data Entry Template
-    path: /assets/squidpops/MarineGEO_Squidpop_DataEntryTemplate_v0.0.3.xlsx
+    path: /assets/modules/squidpops/MarineGEO_Squidpop_DataEntryTemplate_v0.0.3.xlsx
     icon: save_alt
   - name: Duffy et al. 2015 - Squidpops&#58; A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity
     path: https://doi.org/10.1371/journal.pone.0142994
@@ -23,6 +23,11 @@ links:
     path: https://www.youtube.com/watch?v=GP8c24aNykg
     icon: videocam
 ---
+
+{% assign dataentry = page.links | where: "name", "Squidpop Data Entry Template" | first %}
+
+{% assign protocol = page.links | where: "name", "Squidpop Protocol" | first %}
+
 
 ## Purpose
 
@@ -59,12 +64,11 @@ See the instructional video for details:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GP8c24aNykg"></iframe>
 </div>
 
-Please read the <a href="/assets/squidpops/MarineGEO_Squidpop_Protocol_V20180802.pdf">MarineGEO Squidpop Protocol</a> for full methods and instructions.
+Please read the <a href="{{protocol.path}}">{{protocol.name}}</a> for full methods and instructions.
 
+## Data curation     
 
-## Data curation      
-
-Use the Squidpop Data Entry Template to transfer data from the field data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+Use the <a href="{{dataentry.path}}">{{dataentry.name}}</a> to transfer data from the field data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 ## Selected literature
 

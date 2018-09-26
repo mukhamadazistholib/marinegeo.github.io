@@ -5,17 +5,17 @@ thumbnail: /img/icons/seagrass.png
 editbutton: true
 links:
   - name: Seagrass sampling protocol
-    path: /assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf
+    path: /assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf
     icon: save_alt
   - name: Seagrass Data Entry Template
-    path: /assets/seagrass-monitoring/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx
+    path: /assets/modules/seagrass/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx
     icon: save_alt
 ---
 ## Purpose
 
 Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. For this reason seagrass extent and composition are considered Essential Ocean Variables. This protocol provides a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal communities that use seagrasses as habitat and are important conduits of productivity to fishes.     
 
-![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama](/assets/seagrass-monitoring/Seagrass_Bocas_del_Toro_Panama.jpeg)
+![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama](/assets/modules/seagrass/Seagrass_Bocas_del_Toro_Panama.jpeg)
 
 ## Measured Parameters
  - Areal cover: Seagrasses, macroalgae, sessile macroinvertebrates
@@ -32,17 +32,17 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 **Frequency:** Annual (minimally), preferably seasonally
 
-**Materials:** See checklist in <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a>.
+**Materials:** See checklist in <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a>.
 
 ## Methods
 
 Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Macrophyte percent cover, species composition, and seagrass shoot density (in a portion of the quadrat if shoots are very dense) are recorded within each of five 1 m<sup>2</sup> quadrats located randomly along each transect (N = 15 quadrats total at the site). Three types of samples are then collected (N = 15 each) and returned to the lab for processing: (1) a bag sample of seagrass shoots to measure seagrass leaf length and width, sheath length, and mass of fouling material; and (2) a bag sample of seagrass shoots to characterize the associated mobile epifauna community.
 
-Please read the <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a> for full methods and instructions.
+Please read the <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a> for full methods and instructions.
 
 ## Data curation
 
-Use the <a href="/assets/seagrass-monitoring/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx">Seagrass Data Entry Template</a> to transfer data from the field and lab data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+Use the <a href="/assets/modules/seagrass/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx">Seagrass Data Entry Template</a> to transfer data from the field and lab data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 ## Selected literature
 
