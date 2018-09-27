@@ -6,6 +6,10 @@ links:
   - path: https://www.google.com
     name: google
     icon: link
+modules:
+  - /modules/mangroves
+  - /modules/waterquality
+  - /modules/squidpops
 ---
 ## Heading 1
 
