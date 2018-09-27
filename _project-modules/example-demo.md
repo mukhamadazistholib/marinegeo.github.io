@@ -1,9 +1,12 @@
 ---
 layout: project
-title: example module 
+title: Example Module
+editbutton: true
 ---
+## Heading 1
 
-## Methods
+This is some text
 
-## Papers
-[Link](www.google.com)
+## Heading 2
+
+Some additional text
