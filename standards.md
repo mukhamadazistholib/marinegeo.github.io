@@ -125,7 +125,7 @@ MarineGEO uses a short unique code for each site. This code is assigned by Marin
 | Bocas del Toro, Panama | PAN-BDT |
 | San Francisco Bay, California, USA | USA-SFB |
 | Tasmania, Australia | AUS-TAS |
-| Gulf Coast, Texas, USA | USA-TGC |
+| Gulf Coast, Texas, USA | USA-TXS |
 | Salish Sea, Washington, USA | USA-WAS |
 | Cambridge Bay, Canada | CAN-NCB |
 | Central Coast, Peru   | PER-CCP |
