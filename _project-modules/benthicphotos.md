@@ -9,9 +9,6 @@ editbutton: true
 
 Benthic photograph quadrants are underwater photos typically taken along a transect at a regular interval.  Photos are taken a few meters above the sea floor and capture the benthic habitat at the site. Divers lay out a transect, and record 20 digital photoquadrats. In each photo a scale should be included, placed flush with the substrate, either in the form of the transect tape itself, or other portable scale (marked PVC, etc.). Photoquadrats are analyzed and scored for benthic community composition, coral disease, rugosity, etc.
 
-
-
-
 ## Measured parameters
 
 ## Methods
@@ -28,13 +25,13 @@ The photo subfolder names should contain the date of transect and the location c
 
 All analysis and summary files should be saved under the analysis directory folder. The preferred file format for all files is a flattened csv with an additional metadata file.
 
-<img src="/assets/modules/benthicphotos/Screen Shot 2018-05-31 at 9.51.32 AM.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto"/>
+<img src="/assets/modules/benthicphotos/Screen Shot 2018-05-31 at 9.51.32 AM.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
 
 ### Photo Names
 
 Each transect folder should contain the original photos and any photos cropped or modified for analysis. The original photos should be named using this pattern: date, MarineGEO site abbreviation, location name/code, “PQ” for photo quadrant, the photo number of in the transect. The photos should be numbered sequentially starting at 1 for the beginning of the transect. If multiple photos are taken at a single transect stop, select the best photo and append “alt” the other photo names to delineate the photos as alternates. If photos need to be modified for analysis, retain the original photo and save a copy in a modified subfolder and note what was changed.
 
-<img src="/assets/modules/benthicphotos/Screen Shot 2018-10-10 at 3.50.12 PM.png" alt="Benthic photos file names" style="width:50%; display: block; margin-left: auto; margin-right: auto"/>
+<img src="/assets/modules/benthicphotos/Screen Shot 2018-10-10 at 3.50.12 PM.png" alt="Benthic photos file names" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
 
 
 ### Photo Metadata
@@ -55,6 +52,11 @@ The photos folder should include a metadata file that includes the following inf
 | numberPhotos       | the number of photos in the sequence (don’t count duplicates)        |
 | transectDistance_m | the traveled distance for the photo sequence in meters               |
 | photographer       | full name of the person taking the photos                            |
+
+
+### Submit
+
+When you have finished renaming all the transect photos and packaging up the dataset with metadata, please remember to zip all the files together and submit the data package for archiving. The data manager will check the data package for completeness and stage it so it can be added to the MarineGEO data portal. Since the files sizes of the folder is likely larger than the typical limit for most email providers, please contact the data manager at <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a> and we’ll send you a link to upload it to our cloud account.
 
 
 ## Selected literature
