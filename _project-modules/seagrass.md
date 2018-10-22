@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Seagrass sampling
+title: Seagrass Habitats
 thumbnail: /img/seagrass.png
 editbutton: true
 links:
@@ -13,16 +13,36 @@ links:
 ---
 ## Purpose
 
-Seagrasses provide critical habitat and a range of ecosystem services in coastal regions around the world. For this reason seagrass extent and composition are considered Essential Ocean Variables. This protocol provides a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal communities that use seagrasses as habitat and are important conduits of productivity to fishes.     
+Seagrasses are among the most important coastal habitats but also the most threatened (Waycott et al. 2009), making them ideal species for tracking environmental change (Orth et al. 2006). They also provide numerous services, such as nursery grounds and carbon sequestration, making them a valuable component of the coastal seascape (Barbier et al. 2011).
 
 ![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama](/assets/modules/seagrass/Seagrass_Bocas_del_Toro_Panama.jpeg)
 
 ## Measured Parameters
- - Areal cover: Seagrasses, macroalgae, sessile macroinvertebrates
- - Seagrass shoot density
- - Seagrass leaf length, leaf width, and sheath length
- - Fouling mass on seagrass leaves
- - Mobile epifauna: species composition and abundance
+These protocols provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal and fish communities that use seagrasses as habitat. 
+
+The variables measured are grouped into three categories:
+
+ - Primary producers
+    - Shoot density
+    - Percent cover
+    - Species composition
+    - Seagrass canopy height and width
+    - Sheath length
+    - Fouling (epiphyte) load
+    - Macroalgal load
+ 
+ - Fauna
+    - Benthic macroinvertebrates
+    - Large sessile biota
+    - Mobile epifauna 
+    - Large mobile invertebrates and fishes
+    
+- Ecosystem processes
+    - Sediment carbon
+    - Direct grazing 
+    - Predation
+    
+The data collected are comparable to those of other major seagrass monitoring programs, Seagrass Watch (McKenzie et al. 2000) and SeagrassNet (Short et al. 2006).
 
 ## Requirements
 
@@ -32,13 +52,10 @@ Seagrasses provide critical habitat and a range of ecosystem services in coastal
 
 **Frequency:** Annual (minimally), preferably seasonally
 
-**Materials:** See checklist in <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a>.
-
 ## Methods
 
 Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Macrophyte percent cover, species composition, and seagrass shoot density (in a portion of the quadrat if shoots are very dense) are recorded within each of five 1 m<sup>2</sup> quadrats located randomly along each transect (N = 15 quadrats total at the site). Three types of samples are then collected (N = 15 each) and returned to the lab for processing: (1) a bag sample of seagrass shoots to measure seagrass leaf length and width, sheath length, and mass of fouling material; and (2) a bag sample of seagrass shoots to characterize the associated mobile epifauna community.
 
-Please read the <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">MarineGEO Seagrass Protocol</a> for full methods and instructions.
 
 ## Data curation
 
