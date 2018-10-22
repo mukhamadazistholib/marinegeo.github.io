@@ -25,23 +25,20 @@ description: Tools and resources for MarineGEO datasets
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Blog: "blog"
-  Standards: "standards"
-  Modules:
+  Habitats:
     - All: "modules.html"
-    - Coral Reefs: "coral-reefs"
-    - Mangroves: "mangrove-habitat"
-    - Oyster Reefs: "oyster-reefs"
+    - Seagrass: "seagrass"
+    - Reef - Coral: "coral-reefs"
+    - Reef - Rocky: "rocky-reefs"
+    - Reef - Oyster: "oyster-reefs"
+    - Mangroves: "mangroves"
+    - Sediment: "sediment"
+  Experiments:
     - Panamex: "panamex"
-    - Seagrass: "seagrass-habitat"
   Resources:
-    - Barcode of Life Data Systems: "http://www.boldsystems.org/"
-    - Biodiversity Heritage Library: "https://www.biodiversitylibrary.org/"
-    - EML: "https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html"
-    - Fishbase: "https://www.fishbase.de"
-    - OBIS: "http://www.iobis.org/"
-    - Reef Species of the World: "https://reeflifesurvey.com/species/search.php"
-    - WoRMS: "http://www.marinespecies.org/"
+    - Blog: "blog"
+    - Standards: "standards"
+    - Other Tools: "other-resources"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -280,3 +277,29 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+habitat-links:
+- path: /coral-reefs
+  name: Coral
+  color: 40E0D0
+- path: /seagrass
+  name: Seagrass
+  color: 90EE90
+- path: /Mangroves
+  name: Mangroves
+  color: DAA520
+- path: /marshes
+  name: Marshes
+  color: F5DEB3
+- path: /oyster-reefs
+  name: Oyster Reefs
+  color: 778899
+- path: /Unstructured
+  name: Unstructured
+  color: A52A2A
+- path: /environment
+  name: Environment
+  color: D3D3D3
+- path: /experiments
+  name: Experiments
+  color: FF4500

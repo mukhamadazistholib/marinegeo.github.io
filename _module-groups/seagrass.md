@@ -2,11 +2,11 @@
 layout: project
 title: Seagrass Habitat
 modules:
-  - /modules/seagrass_quadrats
-  - /modules/seagrass_shoots
-  - /modules/seagrass_meshbags
-  - /modules/seagrass_seine
-  - /modules/seagrass_sedimentcarbon
+  - /modules/seagrass-quadrats
+  - /modules/seagrass-shoots
+  - /modules/seagrass-meshbags
+  - /modules/seagrass-seine
+  - /modules/seagrass-sedimentcarbon
   - /modules/squidpops
   - /modules/waterquality
 editbutton: true

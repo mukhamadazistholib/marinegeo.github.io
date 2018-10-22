@@ -1,21 +1,23 @@
 ---
-layout: project
-title: MarineGEO Data
-subtitle: Data Standards and Guidelines
+layout: homeindex
+title: MarineGEO
+subtitle: Modular Protocols
 use-site-title: true
 editbutton: true
-modules:
-  - /modules/seagrass
-  - /modules/benthicphotos
-  - /modules/squidpops
-  - /modules/waterquality
-  - /modules/uav
+habitat-links: true
 ---
 
-# Purpose
+[MarineGEO](https://marinegeo.si.edu/) is a global network of partners focused on understanding how coastal marine ecosystems work—and how to keep them working.
 
-Collaborative website for people in the MarineGEO network to discover methods, learn data management techniques, and download methods, field sheets and data entry templates.
+We focus on biodiversity as the heart of healthy, productive ecosystems and coastal regions, where marine life and people are concentrated and interact most. MarineGEO marshals the Smithsonian’s leadership in discovery and convening power to advance frontiers in knowledge and provide it to policymakers to support innovative management and protection of our oceans.
 
 # Project Modules
 
-Project modules are packages that contain instructions for deploying experiments, data entry templates and field sheets.
+Project modules are packages that contain complete instructions for deploying experiments, data entry templates and field sheets.
+
+Each module contains:
+ - a PDF document that includes step-by-step methods
+ - a data entry sheet to print off and bring out into the field
+ - an excel workbook with built in data validation for data entry and submission
+
+Modules are organized by habitat types:
