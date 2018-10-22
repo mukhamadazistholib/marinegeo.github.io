@@ -1,16 +1,10 @@
 ---
-layout: home
+layout: homeindex
 title: MarineGEO
 subtitle: Modular Protocols
 use-site-title: true
 editbutton: true
-habitat-links:
-- path: /coral-reefs
-  name: Coral
-  color: 40E0D0
-- path: /seagrass
-  name: Seagrass
-  color: 90EE90
+habitat-links: true
 ---
 
 [MarineGEO](https://marinegeo.si.edu/) is a global network of partners focused on understanding how coastal marine ecosystems work—and how to keep them working.
