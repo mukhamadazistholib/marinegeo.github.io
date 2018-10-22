@@ -28,8 +28,6 @@ Data curation: X persons x X hours.
 See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">Seagrass Quadrat Protocol</a>.
 
 ## Data
-<<<<<<< HEAD:_project-modules/seagrass_quadrats.md
+
 
 ## Selected Literature
-=======
->>>>>>> 1571b559f8b39d5ac0c3f5e3c150bccbac5274fd:_project-modules/seagrass-quadrats.md
