@@ -277,3 +277,29 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+habitat-links:
+- path: /coral-reefs
+  name: Coral
+  color: 40E0D0
+- path: /seagrass
+  name: Seagrass
+  color: 90EE90
+- path: /Mangroves
+  name: Mangroves
+  color: DAA520
+- path: /marshes
+  name: Marshes
+  color: F5DEB3
+- path: /oyster-reefs
+  name: Oyster Reefs
+  color: 778899
+- path: /Unstructured
+  name: Unstructured
+  color: A52A2A
+- path: /environment
+  name: Environment
+  color: D3D3D3
+- path: /experiments
+  name: Experiments
+  color: FF4500

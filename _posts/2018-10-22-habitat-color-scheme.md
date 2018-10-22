@@ -13,3 +13,4 @@ tags: [help, website, color]
 | Oysters      | ![#778899](https://placehold.it/15/778899/000000?text=+) | LightSlateGray | `#778899` | 119 136 153 |
 | Unstructured | ![#A52A2A](https://placehold.it/15/A52A2A/000000?text=+) | Brown          | `#A52A2A` | 165  42  42 |
 | Environment  | ![#D3D3D3](https://placehold.it/15/D3D3D3/000000?text=+) | LightGray      | `#D3D3D3` | 211 211 211 |
+| Experiments  | ![#FF4500](https://placehold.it/15/FF4500/000000?text=+) | OrangeRed      | `#FF4500` | 255 69 0 |
