@@ -27,10 +27,12 @@ navbar-links:
   Home: ""
   Habitats:
     - All: "modules.html"
-    - Coral Reefs: "coral-reefs"
-    - Mangroves: "mangrove-habitat"
-    - Oyster Reefs: "oyster-reefs"
-    - Seagrass: "seagrass-habitat"
+    - Seagrass: "seagrass"
+    - Reef - Coral: "coral-reefs"
+    - Reef - Rocky: "rocky-reefs"
+    - Reef - Oyster: "oyster-reefs"
+    - Mangroves: "mangroves"
+    - Sediment: "sediment"
   Experiments:
     - Panamex: "panamex"
   Resources:
