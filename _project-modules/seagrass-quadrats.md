@@ -7,6 +7,8 @@ links:
   - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
     name: Seagrass quadrat protocol
     icon: save_alt
+modules:
+  - /modules/seagrass-shoots
 ---
 
 ## Overview
