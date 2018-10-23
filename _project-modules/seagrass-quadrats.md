@@ -21,11 +21,11 @@ Field: X persons x X hours.
 Post-processing: None.
 Data curation: X persons x X hours.
 
-**Materials:** See checklist in <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf.pdf">Seagrass Quadrat Protocol</a>.
+**Materials:** See checklist in <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf">Seagrass Quadrat Protocol</a>.
 
 ## Methods
 
-See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf.pdf">Seagrass Quadrat Protocol</a>.
+See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf">Seagrass Quadrat Protocol</a>.
 
 ## Data
 
