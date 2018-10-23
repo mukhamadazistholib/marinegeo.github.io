@@ -11,9 +11,9 @@ editbutton: false
     <a href="{{site.baseurl}}{{module.url}}">
       <div>
       {% if module.thumbnail %}
-      <img src="{{module.thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+      <img src="{{site.baseurl}}{{module.thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
       {% else %}
-      <img src="{{site.default-thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+      <img src="{{site.baseurl}}{{site.default-thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
       {% endif %}
       </div>
       <div>

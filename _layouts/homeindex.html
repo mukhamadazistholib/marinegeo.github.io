@@ -35,7 +35,7 @@ layout: base
       {% assign allmodules = site.project-modules | sort: 'title' %}
       {% for group in sorted %}
         <div class="row">
-        <h2><a href={{group.url}}>{{group.title}}</a></h2>
+        <h2><a href={{site.baseurl}}{{group.url}}>{{group.title}}</a></h2>
 
 
         {% for m in group.modules %}
@@ -46,9 +46,9 @@ layout: base
             <a href="{{site.baseurl}}{{module.url}}">
               <div>
                 {% if module.thumbnail %}
-                <img src="{{module.thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                <img src="{{site.baseurl}}{{module.thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
                 {% else %}
-                <img src="{{site.default-thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                <img src="{{site.baseurl}}{{site.default-thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
                 {% endif %}
               </div>
               <div>
