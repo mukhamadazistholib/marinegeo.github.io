@@ -26,7 +26,7 @@ modules:
 ## Overview
 Seagrass quadrats are a quick, non-destructive tool for quantifying the abundance and composition of underwater vegation on the benthos.
 
-[!Seagrass transects, Friday Harbor Labs, WA](/assets/img/seagrass_quadrats_header.png) 
+[!Seagrass transects, Friday Harbor Labs, WA](/img/seagrass_quadrats_header.png) 
 
 ## Measured Parameters
   - Benthic species composition
