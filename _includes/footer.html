@@ -1,7 +1,7 @@
 <footer>
   <div class="container beautiful-jekyll-footer">
     <div style="position: absolute; bottom: 0;right: 0; padding: 10px;">
-            <a href="/feedback">
+            <a href="{{site.baseurl}}/feedback">
                     <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">add_box</i>
                     <span></span>Feedback</a>
     </div>
@@ -38,7 +38,7 @@
       <p class="copyright text-muted">
 
       {% if site.footer-logo %}
-        <a href="{{ site.footer-link }}"><img src="{{ site.footer-logo }}" style="width: 300px; display:block;margin:auto;"/></a>
+        <a href="{{site.footer-link}}"><img src="{{site.baseurl}}{{site.footer-logo}}" style="width: 300px; display:block;margin:auto;"/></a>
       {% endif %}
 
 
