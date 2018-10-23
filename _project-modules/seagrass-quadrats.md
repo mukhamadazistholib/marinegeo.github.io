@@ -3,6 +3,10 @@ layout: project
 title: Seagrass Quadrats
 thumbnail: /img/seagrass_quadrat.png
 editbutton: true
+links:
+  - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
+    name: Seagrass quadrat protocol
+    icon: save_alt
 ---
 
 ## Overview
@@ -22,12 +26,6 @@ Post-processing: None.
 Data curation: X persons x X hours.
 
 **Materials:** See checklist in <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf">Seagrass Quadrat Protocol</a>.
-
-## Methods
-
-See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf">Seagrass Quadrat Protocol</a>.
-
-## Data
 
 
 ## Selected Literature
