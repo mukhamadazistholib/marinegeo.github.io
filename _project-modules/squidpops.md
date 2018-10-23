@@ -4,24 +4,15 @@ title: Squidpops
 thumbnail: /img/squidpop-fish3.png
 editbutton: true
 links:
-  - path: /assets/modules/squidpops/MarineGEO_squidpop_field_data_sheet_V20180802.pdf
-    name: Squidpop Field Data Sheet
-    icon: save_alt
   - name: Squidpop Protocol
-    path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V20180817.pdf
+    path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
+    icon: save_alt
+ -  path: marinegeo.github.io/assets/modules/squidpops/SquidpopFieldsheet _JRMedits.pdf
+    name: Squidpop Field Datasheet
     icon: save_alt
   - name: Squidpop Data Entry Template
-    path: /assets/modules/squidpops/MarineGEO_Squidpop_DataEntryTemplate_v0.0.3.xlsx
+    path: /assets/modules/squidpops/MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
     icon: save_alt
-  - name: Duffy et al. 2015 - Squidpops&#58; A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity
-    path: https://doi.org/10.1371/journal.pone.0142994
-    icon: link
-  - name: Youtube - What is a Squidpop?
-    path: https://www.youtube.com/watch?v=esSByfVlMt4
-    icon: videocam
-  - name: Youtube - Squidpop Tutorial
-    path: https://www.youtube.com/watch?v=GP8c24aNykg
-    icon: videocam
 ---
 
 {% assign dataentry = page.links | where: "name", "Squidpop Data Entry Template" | first %}
@@ -29,7 +20,7 @@ links:
 {% assign protocol = page.links | where: "name", "Squidpop Protocol" | first %}
 
 
-## Purpose
+## Introduction
 
 Fish predation is an important process structuring communities and a conduit of production up the food web in nearly all marine ecosystems. This protocol provides a simple, quick, standardized assay of fish predation intensity. The goal is to quantify the relative intensity of feeding by generalist predators using a standard bait and method that is simple and comparable across a wide range of sites and conditions. When coupled with camera deployments, it can also be part of a Baited Remote Underwater Video (BRUV) sampling of the fish community. We use dried squid as bait because most marine predators are generalists who readily eat it, it is widely available (e.g., in Asian grocery stores), and the dried bait can be shipped and stored without refrigeration.
 
