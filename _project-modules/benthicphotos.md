@@ -25,13 +25,13 @@ The photo subfolder names should contain the date of transect and the location c
 
 All analysis and summary files should be saved under the analysis directory folder. The preferred file format for all files is a flattened csv with an additional metadata file.
 
-<img src="/assets/modules/benthicphotos/Screen Shot 2018-05-31 at 9.51.32 AM.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
+<img src="{{site.baseurl}}/assets/modules/benthicphotos/Screen Shot 2018-05-31 at 9.51.32 AM.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
 
 ### Photo Names
 
 Each transect folder should contain the original photos and any photos cropped or modified for analysis. The original photos should be named using this pattern: date, MarineGEO site abbreviation, location name/code, “PQ” for photo quadrant, the photo number of in the transect. The photos should be numbered sequentially starting at 1 for the beginning of the transect. If multiple photos are taken at a single transect stop, select the best photo and append “alt” the other photo names to delineate the photos as alternates. If photos need to be modified for analysis, retain the original photo and save a copy in a modified subfolder and note what was changed.
 
-<img src="/assets/modules/benthicphotos/Screen Shot 2018-10-10 at 3.50.12 PM.png" alt="Benthic photos file names" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
+<img src="{{site.baseurl}}/assets/modules/benthicphotos/Screen Shot 2018-10-10 at 3.50.12 PM.png" alt="Benthic photos file names" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
 
 
 ### Photo Metadata

@@ -7,4 +7,4 @@ editbutton: true
 
 Habitat monitoring with quadcopters
 
-![Snorkels from above](/assets/modules/uav/Drone-fieldwork-snorkelers_20161029_CB_Ross-Whippo.JPG)
+![Snorkels from above]({{site.baseurl}}/assets/modules/uav/Drone-fieldwork-snorkelers_20161029_CB_Ross-Whippo.JPG)
