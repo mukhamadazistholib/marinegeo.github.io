@@ -14,7 +14,7 @@ links:
     name: Seagrass Quadrats Data Entry Template
     icon: save_alt
   - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
-    name: Seagrass Quadrats ZIP File
+    name: ZIP File
     icon: attach_file
 modules:
   - /modules/seagrass-shoots
