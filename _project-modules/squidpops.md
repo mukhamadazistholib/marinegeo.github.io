@@ -4,51 +4,37 @@ title: Squidpops
 thumbnail: /img/squidpop-fish3.png
 editbutton: true
 links:
-  - name: Squidpop Protocol
-    path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
+  - path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
+    name: Squidpop Protocol
     icon: save_alt
- -  path: marinegeo.github.io/assets/modules/squidpops/SquidpopFieldsheet _JRMedits.pdf
+ -  path: /assets/modules/squidpops/SquidpopFieldsheet _JRMedits.pdf
     name: Squidpop Field Datasheet
     icon: save_alt
   - name: Squidpop Data Entry Template
     path: /assets/modules/squidpops/MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
     icon: save_alt
+  - name: Squidpop file packet
+    path: /assets/modules/squidpops/Squidpop.zip
+    icon: folder
 ---
 
 {% assign dataentry = page.links | where: "name", "Squidpop Data Entry Template" | first %}
 
 {% assign protocol = page.links | where: "name", "Squidpop Protocol" | first %}
 
-
 ## Introduction
 
-Fish predation is an important process structuring communities and a conduit of production up the food web in nearly all marine ecosystems. This protocol provides a simple, quick, standardized assay of fish predation intensity. The goal is to quantify the relative intensity of feeding by generalist predators using a standard bait and method that is simple and comparable across a wide range of sites and conditions. When coupled with camera deployments, it can also be part of a Baited Remote Underwater Video (BRUV) sampling of the fish community. We use dried squid as bait because most marine predators are generalists who readily eat it, it is widely available (e.g., in Asian grocery stores), and the dried bait can be shipped and stored without refrigeration.
+This protocol provides a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions. 
 
-The assay measures the rate of fish predation as loss of standard bait deployed for 24 hours in the field. Each bait is a 1.3-cm diameter disk of dried squid mantle tethered to a stake, which is either inserted in the sediment or secured to existing structure. Each squid bait is scored as present or absent after 1 and 24 hours, and predation rate is estimated as the proportion of replicate baits consumed at each time. Tests in several habitats have confirmed the assay’s utility for measuring variation in predation intensity among habitats, among seasons, and along environmental gradients (see Selected Literature below).
+To get started, using the links above, download the necessary files (protocol, datasheet, and entry template) either seperatly or togther using "Squidpop.zip".
 
-<!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esSByfVlMt4"></iframe>
-</div>
+## Data submission
 
+Use the <a href="{{dataentry.path}}">{{dataentry.name}}</a> to transfer data from the field data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
-## Measured parameters
+## Additional Resources
 
-  - feeding intensity by generalist predators
-
-## Requirements
-
-**Personnel:** 2
-
-**Time:** Preparation: 1 person x 2 hours. Field: 2 people x 2 days (roughly two half days, depending on travel time and field conditions). Data curation: 1 person x 1-2 hours.
-
-**Frequency:** Variable (at least annually)
-
-**Materials:** Dried squid mantle, auger hole punch, green fiberglass garden stakes, fishing line
-
-## Methods
-
-See the instructional video for details:
+### Youtube Itroduction and Instructional Videos
 
 <!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
 <div class="embed-responsive embed-responsive-16by9">
@@ -57,11 +43,12 @@ See the instructional video for details:
 
 Please read the <a href="{{protocol.path}}">{{protocol.name}}</a> for full methods and instructions.
 
-## Data curation     
+<!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esSByfVlMt4"></iframe>
+</div>
 
-Use the <a href="{{dataentry.path}}">{{dataentry.name}}</a> to transfer data from the field data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
-
-## Selected literature
+### Selected literature
 
 Duffy, J. E., S. L. Ziegler, J. E. Campbell, P. M. Bippus, and J. S. Lefcheck. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. <a href="https://doi.org/10.1371/journal.pone.0142994">PLoS ONE 10:e0142994</a>.
 
