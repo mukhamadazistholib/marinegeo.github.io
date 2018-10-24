@@ -7,7 +7,7 @@ links:
   - path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
     name: Squidpop Protocol
     icon: save_alt
- -  path: /assets/modules/squidpops/SquidpopFieldsheet_JRMedits.pdf
+  - path: /assets/modules/squidpops/SquidpopFieldsheet_JRMedits.pdf
     name: Squidpop Field Datasheet
     icon: save_alt
   - name: Squidpop Data Entry Template
@@ -25,7 +25,7 @@ links:
 
 ## Overview
 
-Squidpops provide a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions. 
+Squidpops provide a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions.
 
 To get started, use the links above to download the necessary files (protocol, datasheet, and entry template) either seperatly or togther using "Squidpop.zip".
 
