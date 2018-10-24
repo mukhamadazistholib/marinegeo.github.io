@@ -29,16 +29,20 @@ Squidpops provide a simple, quick, standardized assay of fish predation intensit
 
 To get started, use the links above to download the necessary files (protocol, datasheet, and entry template) either seperatly or togther using "Squidpop.zip".
 
+
 ## Measured Parameters
-  - Feeding intensity by generalist predators, measured as:
-  -    Bait loss after 1 hour
-  -    Bait loss after 24 Hours
+  Feeding intensity by generalist predators, measured as:
+  1. Bait loss after 1 hour
+  2. Bait loss after 24 Hours
+
 
 ## Data submission
 
 Use the <a href="{{dataentry.path}}">{{dataentry.name}}</a> to transfer data from the field data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
+
 ## Additional Resources
+
 
 ### Youtube Introduction and Instructional Videos
 
@@ -53,6 +57,7 @@ Please read the <a href="{{protocol.path}}">{{protocol.name}}</a> for full metho
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esSByfVlMt4"></iframe>
 </div>
+
 
 ### Selected literature
 
