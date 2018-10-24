@@ -31,8 +31,8 @@ To get started, use the links above to download the necessary files (protocol, d
 
 ## Measured Parameters
   - Feeding intensity by generalist predators, measured as:
-  -   Bait loss after 1 hour
-  -   Bait loss after 24 Hours
+  -    Bait loss after 1 hour
+  -    Bait loss after 24 Hours
 
 ## Data submission
 
