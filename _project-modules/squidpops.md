@@ -38,7 +38,7 @@ Use the <a href="{{dataentry.path}}">{{dataentry.name}}</a> to transfer data fro
 
 ## Additional Resources
 
-### Youtube Itroduction and Instructional Videos
+### Youtube Introduction and Instructional Videos
 
 <!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
 <div class="embed-responsive embed-responsive-16by9">
