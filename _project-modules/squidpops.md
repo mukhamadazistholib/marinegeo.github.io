@@ -22,15 +22,17 @@ links:
 
 {% assign protocol = page.links | where: "name", "Squidpop Protocol" | first %}
 
+
 ## Overview
 
-This protocol provides a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions. 
+Squidpops provide a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions. 
 
-To get started, using the links above, download the necessary files (protocol, datasheet, and entry template) either seperatly or togther using "Squidpop.zip".
+To get started, use the links above to download the necessary files (protocol, datasheet, and entry template) either seperatly or togther using "Squidpop.zip".
 
 ## Measured Parameters
-  - Bait loss after 1 hour
-  - Bait loss after 24 Hours
+  - Feeding intensity by generalist predators, measured as:
+  -   Bait loss after 1 hour
+  -   Bait loss after 24 Hours
 
 ## Data submission
 
