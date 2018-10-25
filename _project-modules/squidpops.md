@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Squidpops
+subtitle: Predation Assay
 thumbnail: /img/squidpop-fish3.png
 editbutton: true
 links:
@@ -18,16 +19,11 @@ links:
     icon: folder
 ---
 
-{% assign dataentry = page.links | where: "name", "Squidpop Data Entry Template" | first %}
-
-{% assign protocol = page.links | where: "name", "Squidpop Protocol" | first %}
-
-
 ## Overview
 
 Squidpops provide a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions.
 
-To get started, use the links above to download the necessary files (protocol, datasheet, and entry template) either seperatly or togther using "Squidpop.zip".
+To get started, use the links above to download the protocol, datasheet, and data entry template files.
 
 
 ## Measured Parameters
@@ -38,26 +34,18 @@ To get started, use the links above to download the necessary files (protocol, d
 
 ## Data submission
 
-Use the <a href="{{dataentry.path}}">{{dataentry.name}}</a> to transfer data from the field data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+Use the data entry template to transfer data from the field datasheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 
 ## Additional Resources
 
 
-### Youtube Introduction and Instructional Videos
+### Tutorial Video
 
 <!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GP8c24aNykg"></iframe>
 </div>
-
-Please read the <a href="{{protocol.path}}">{{protocol.name}}</a> for full methods and instructions.
-
-<!-- 16:9 aspect ratio https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width -->
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esSByfVlMt4"></iframe>
-</div>
-
 
 ### Selected literature
 
