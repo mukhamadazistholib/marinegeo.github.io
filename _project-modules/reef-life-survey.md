@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fishes&#58; Diver Visual Survey
-thumbnail: /img/scuba_diver.png
+thumbnail: /img/scuba-diver.png
 editbutton: true
 links:
   - name: Reef Life Survey visual survey protocol

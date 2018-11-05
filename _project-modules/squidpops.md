@@ -2,7 +2,7 @@
 layout: project
 title: Squidpops
 subtitle: Predation Assay
-thumbnail: /img/squidpop-fish3.png
+thumbnail: /img/squidpop-fish.png
 editbutton: true
 links:
   - path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf

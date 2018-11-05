@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Mesh Bags
-thumbnail: /img/seagrass_meshbags.png
+thumbnail: /img/seagrass-meshbags.png
 editbutton: true
 ---
 
@@ -16,7 +16,7 @@ Seagrass mesh bags are a rapid way to destructively sample organisms associated 
 ## Requirements
 **Personnel:** # people
 
-**Time:** 
+**Time:**
 Field: X persons x X hours.
 Post-processing: X persons x X hours.
 Data curation: X persons x X hours.
@@ -30,4 +30,3 @@ See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf"
 ## Data
 
 ## Selected Literature
-

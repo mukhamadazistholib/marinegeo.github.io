@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Shoots
-thumbnail: /img/seagrass_shoots.png
+thumbnail: /img/seagrass-shoots.png
 editbutton: true
 ---
 
@@ -16,7 +16,7 @@ Individual shoots of seagrass provide data on canopy characteristics and estimat
 ## Requirements
 **Personnel:** # people
 
-**Time:** 
+**Time:**
 Field: X persons x X hours.
 Post-processing: X persons x X hours.
 Data curation:  X persons x X hours.
@@ -30,5 +30,3 @@ See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf"
 ## Data
 
 ## Selected Literature
-
-

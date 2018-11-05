@@ -6,7 +6,7 @@ layout: base
 
 {% include header.html type="page" %}
 
-<style>
+<!-- <style>
 .dot {
     height: 150px;
     width: 150px;
@@ -14,7 +14,7 @@ layout: base
     border-radius: 50%;
     display: inline-block;
 }
-</style>
+</style> -->
 
 <div class="container" role="main">
 
@@ -42,13 +42,17 @@ layout: base
         {% for module in allmodules %}
         {% if m == module.id %}
 
-          <div class="col-md-3 col-sm-4 col-xs-6" style="height: 130px;   text-align: center;">
+          <div class="col-md-3 col-sm-4 col-xs-6">
             <a href="{{site.baseurl}}{{module.url}}">
               <div>
                 {% if module.thumbnail %}
+                <div style="background-color: #97C8EB; width: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px; border-radius: 50%;">
                 <img src="{{site.baseurl}}{{module.thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                </div>
                 {% else %}
+                <div>
                 <img src="{{site.baseurl}}{{site.default-thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+              </div>
                 {% endif %}
               </div>
               <div>

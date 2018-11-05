@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Sediment Carbon
-thumbnail: /img/seagrass_sedimentcarbon.png
+thumbnail: /img/seagrass-sedimentcarbon.png
 editbutton: true
 ---
 
@@ -14,7 +14,7 @@ Sediment cores quantify the amount of organic carbon in seagrass sediments.
 ## Requirements
 **Personnel:** # people
 
-**Time:** 
+**Time:**
 Field: X persons x X hours.
 Post-processing: X persons x X hours.
 Data curation:  X persons x X hours.

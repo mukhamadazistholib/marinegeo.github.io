@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Beach Seine
-thumbnail: /img/seagrass_seine.png
+thumbnail: /img/seine.png
 editbutton: true
 ---
 
@@ -16,7 +16,7 @@ Beach seines quantify the larger mobile organisms associated with seagrass beds.
 ## Requirements
 **Personnel:** # people
 
-**Time:** 
+**Time:**
 Field: X persons x X hours.
 Post-processing: None.
 Data curation:  X persons x X hours.
