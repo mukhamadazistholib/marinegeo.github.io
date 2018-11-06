@@ -11,7 +11,6 @@ layout: base
 
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
       {% if page.editbutton %}
       <div style="padding-bottom: 30px">
       <a target="_blank" href="{{site.github.repository_url}}/blob/{{site.branch}}/{{page.path}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me <i class="fa fa-edit"></i></a>
@@ -28,7 +27,7 @@ layout: base
         {% for link in page.links %}
         <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
             <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
-            <span><a href="{{link.path}}">{{link.name}}</a></span>
+            <span><a href="/assets{{page.url}}/{{link.path}}">{{link.name}}</a></span>
             <br/>
         </li>
         {% endfor %}
@@ -46,7 +45,7 @@ layout: base
       </div>
       {% endif %}
 
-      {% if page.modules %}
+      <!-- {% if page.modules %}
       {% assign sorted = site.project-modules | sort: 'title' %}
       <h1>Modules</h1>
       {% for m in page.modules %}
@@ -56,7 +55,7 @@ layout: base
           <a href="{{site.baseurl}}{{module.url}}">
                {% if module.thumbnail %}
               <div style="background-color: #97C8EB; border-radius: 50%; width: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-                <img src="{{site.baseurl}}{{module.thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
               </div>
               {% else %}
               <div>
@@ -71,6 +70,9 @@ layout: base
         {% endif %}
       {% endfor %}
       {% endfor %}
+      {% endif %} -->
+      {% if page.modules %}
+        {% include moduleshortcuts.html %}
       {% endif %}
 
     </div>

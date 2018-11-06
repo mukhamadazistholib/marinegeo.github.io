@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Benthic Photos
-thumbnail: /img/underwater-camera.png
+thumbnail: underwater-camera.png
 editbutton: true
 ---
 

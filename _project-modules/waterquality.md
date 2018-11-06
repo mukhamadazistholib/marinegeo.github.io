@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Water Quality
-thumbnail: /img/sonde.png
+thumbnail: sonde.png
 editbutton: true
 ---
 

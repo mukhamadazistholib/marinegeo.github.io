@@ -29,11 +29,11 @@ navbar-links:
   Habitats:
     - All: "modules.html"
     - Seagrass: "seagrass"
-    - Reef - Coral: "coral-reefs"
-    - Reef - Rocky: "rocky-reefs"
-    - Reef - Oyster: "oyster-reefs"
-    - Mangroves: "mangroves"
-    - Sediment: "sediment"
+#    - Reef - Coral: "coral-reefs"
+#    - Reef - Rocky: "rocky-reefs"
+#    - Reef - Oyster: "oyster-reefs"
+#    - Mangroves: "mangroves"
+#    - Sediment: "sediment"
   Experiments:
     - Panamex: "panamex"
   Resources:
@@ -43,20 +43,20 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/MarineGEO_logo.png"
+avatar: "/assets/img/MarineGEO_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/Logomark_MarineGEO_Tennenbaum_RGB.png"
+title-img: "/assets/img/Logomark_MarineGEO_Tennenbaum_RGB.png"
 title-link: "https://marinegeo.si.edu"
 
 ## logo for logo in the footer
-footer-logo: "/img/si-institution_logo-horizontal-clr.png"
+footer-logo: "/assets/img/si-institution_logo-horizontal-clr.png"
 footer-link: "https://www.si.edu"
 
 
 ## default thumbnail for Modules
-default-thumbnail: /img/MarineGEO_logo.png
+default-thumbnail: /assets/img/MarineGEO_logo.png
 
 # --- Background colour/image options --- #
 
@@ -278,29 +278,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-habitat-links:
-- path: /coral-reefs
-  name: Coral
-  color: 40E0D0
-- path: /seagrass
-  name: Seagrass
-  color: 90EE90
-- path: /Mangroves
-  name: Mangroves
-  color: DAA520
-- path: /marshes
-  name: Marshes
-  color: F5DEB3
-- path: /oyster-reefs
-  name: Oyster Reefs
-  color: 778899
-- path: /Unstructured
-  name: Unstructured
-  color: A52A2A
-- path: /environment
-  name: Environment
-  color: D3D3D3
-- path: /experiments
-  name: Experiments
-  color: FF4500

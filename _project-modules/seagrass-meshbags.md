@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Mesh Bags
-thumbnail: /img/seagrass-meshbags.png
+thumbnail: seagrass-meshbags.png
 editbutton: true
 ---
 

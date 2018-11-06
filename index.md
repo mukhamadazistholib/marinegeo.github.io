@@ -1,5 +1,5 @@
 ---
-layout: homeindex
+layout: home
 title: MarineGEO
 subtitle: Modular Protocols
 use-site-title: true

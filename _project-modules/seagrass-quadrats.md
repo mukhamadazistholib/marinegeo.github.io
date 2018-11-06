@@ -1,10 +1,10 @@
 ---
 layout: project
 title: Seagrass Quadrats
-thumbnail: /img/seagrass-quadrat.png
+thumbnail: seagrass-quadrat.png
 editbutton: true
 links:
-  - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
+  - path: MarineGEO_Seagrass_Quadrats_Protocol.pdf
     name: Seagrass Quadrats Protocol
     icon: save_alt
   - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf

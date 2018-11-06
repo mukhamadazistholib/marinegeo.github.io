@@ -1,14 +1,14 @@
 ---
 layout: project
 title: Fishes&#58; Diver Visual Survey
-thumbnail: /img/scuba-diver.png
+thumbnail: scuba-diver.png
 editbutton: true
 links:
   - name: Reef Life Survey visual survey protocol
     path: https://reeflifesurvey.com/reef-life-survey/about-rls/methods/
     icon: link
   - name: images
-    path: /assets/modules/reef-life-survey/16846974360_c7640e4beb_o.jpg
+    path: 16846974360_c7640e4beb_o.jpg
     icon: link
 ---
 

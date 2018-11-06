@@ -2,20 +2,20 @@
 layout: project
 title: Squidpops
 subtitle: Predation Assay
-thumbnail: /img/squidpop-fish.png
+thumbnail: squidpop-fish.png
 editbutton: true
 links:
-  - path: /assets/modules/squidpops/MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
+  - path: MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
     name: Squidpop Protocol
     icon: save_alt
-  - path: /assets/modules/squidpops/SquidpopFieldsheet_JRMedits.pdf
+  - path: SquidpopFieldsheet_JRMedits.pdf
     name: Squidpop Field Datasheet
     icon: save_alt
   - name: Squidpop Data Entry Template
-    path: /assets/modules/squidpops/MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
+    path: MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
     icon: save_alt
   - name: Squidpop file packet
-    path: /assets/modules/squidpops/Squidpop.zip
+    path: Squidpop.zip
     icon: folder
 ---
 

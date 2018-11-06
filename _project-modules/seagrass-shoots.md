@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Shoots
-thumbnail: /img/seagrass-shoots.png
+thumbnail: seagrass-shoots.png
 editbutton: true
 ---
 

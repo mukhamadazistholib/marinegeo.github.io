@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Beach Seine
-thumbnail: /img/seine.png
+thumbnail: seine.png
 editbutton: true
 ---
 

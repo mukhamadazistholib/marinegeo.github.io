@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Sediment Carbon
-thumbnail: /img/seagrass-sedimentcarbon.png
+thumbnail: seagrass-sedimentcarbon.png
 editbutton: true
 ---
 

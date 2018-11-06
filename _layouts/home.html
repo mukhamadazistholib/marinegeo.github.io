@@ -6,7 +6,7 @@ layout: base
 
 {% include header.html type="page" %}
 
-<style>
+<!-- <style>
 .dot {
     height: 150px;
     width: 150px;
@@ -14,7 +14,7 @@ layout: base
     border-radius: 50%;
     display: inline-block;
 }
-</style>
+</style> -->
 
 <div class="container" role="main">
 
@@ -27,78 +27,43 @@ layout: base
       </div>
       {% endif %}
 
-      {% if page.links %}
-
-      <div class="pagination-centered" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
-
-        <h3>Quick Start</h3>
-        <div>
-        <ul>
-        {% for link in page.links %}
-        <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
-            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
-            <span><a href="{{link.path}}">{{link.name}}</a></span>
-            <br/>
-        </li>
-        {% endfor %}
-      </ul>
-        </div>
-      </div>
-
-      {% else %}
-      {% endif %}
-
       {{ content }}
-      {% if page.comments %}
-      <div class="disqus-comments">
-        {% include disqus.html %}
-      </div>
-      {% endif %}
-
-      {% if page.modules %}
-      {% assign sorted = site.project-modules | sort: 'title' %}
-      <h1>Modules</h1>
-      {% for m in page.modules %}
-      {% for module in sorted %}
-        {% if m == module.id %}
-        <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;">
-          <a href="{{site.baseurl}}{{module.url}}">
-            <div>
-              {% if module.thumbnail %}
-              <img src="{{module.thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-              {% else %}
-              <img src="{{site.default-thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-              {% endif %}
-            </div>
-            <div>
-              <h4 style="text-align:center; vertical-align: bottom;">{{module.title}}</h4>
-            </div>
-          </a>
-        </div>
-        {% endif %}
-      {% endfor %}
-      {% endfor %}
-      {% endif %}
 
 
       {% if page.habitat-links %}
-      {% for hab in site.habitat-links %}
+      {% assign sorted = site.module-groups | sort: 'title' %}
+      {% assign allmodules = site.project-modules | sort: 'title' %}
+      {% for group in sorted %}
+        <div class="row">
+        <h2><a href={{site.baseurl}}{{group.url}}>{{group.title}}</a></h2>
 
-        <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;">
-          <a href="{{site.baseurl}}{{hab.path}}" style="color: black;">
-            <div>
-              {% if hab.color %}
-              <div class="dot text-center" style="background-color: #{{hab.color}}; text-align:center;line-height: 150px;">
-                <span style="display: inline-block;vertical-align: middle;line-height: normal;"<h4>{{hab.name}}</h4></span>
+
+        {% for m in group.modules %}
+        {% for module in allmodules %}
+        {% if m == module.id %}
+
+          <div class="col-md-3 col-sm-4 col-xs-6">
+            <a href="{{site.baseurl}}{{module.url}}">
+              <div>
+                {% if module.thumbnail %}
+                <div style="background-color: #97C8EB; width: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px; border-radius: 50%;">
+                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                </div>
+                {% else %}
+                <div>
+                <img src="{{site.baseurl}}{{site.default-thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
               </div>
-              {% else %}
-              <img src="{{site.default-thumbnail}}" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-              <h4 style="text-align:center; vertical-align: bottom; ">{{hab.name}}</h4>
-
-              {% endif %}
-            </div>
-          </a>
-        </div>
+                {% endif %}
+              </div>
+              <div>
+                <h4 style="text-align:center; vertical-align: bottom;">{{module.title}}</h4>
+              </div>
+            </a>
+          </div>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </div>
       {% endfor %}
       {% endif %}
 
