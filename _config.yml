@@ -28,7 +28,7 @@ navbar-links:
   Home: ""
   Habitats:
     - All: "modules.html"
-    - Seagrass: "seagrass"
+    - Seagrass: "seagrass.html"
 #    - Reef - Coral: "coral-reefs"
 #    - Reef - Rocky: "rocky-reefs"
 #    - Reef - Oyster: "oyster-reefs"

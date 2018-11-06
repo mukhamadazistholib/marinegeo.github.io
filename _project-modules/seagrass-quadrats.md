@@ -7,20 +7,6 @@ links:
   - path: MarineGEO_Seagrass_Quadrats_Protocol.pdf
     name: Seagrass Quadrats Protocol
     icon: save_alt
-  - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
-    name: Seagrass Quadrats Field Data Sheet
-    icon: save_alt
-  - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
-    name: Seagrass Quadrats Data Entry Template
-    icon: save_alt
-  - path: /assets/modules/seagrass/MarineGEO_Seagrass_Quadrats_Protocol.pdf
-    name: ZIP File
-    icon: attach_file
-modules:
-  - /modules/seagrass-shoots
-  - /modules/seagrass-meshbags
-  - /modules/seagrass-sedimentcarbon
-  - /modules/seagrass-seine
 ---
 
 ## Overview

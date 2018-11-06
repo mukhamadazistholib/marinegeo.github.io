@@ -47,11 +47,11 @@ layout: base
               <div>
                 {% if module.thumbnail %}
                 <div style="background-color: #97C8EB; width: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px; border-radius: 50%;">
-                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
                 </div>
                 {% else %}
                 <div>
-                <img src="{{site.baseurl}}{{site.default-thumbnail}}" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                <img src="{{site.baseurl}}{{site.default-thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
               </div>
                 {% endif %}
               </div>
