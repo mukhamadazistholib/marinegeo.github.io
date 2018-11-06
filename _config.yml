@@ -273,7 +273,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-
+exclude: [vendor]
 
 
 # Beautiful Jekyll / Dean Attali
