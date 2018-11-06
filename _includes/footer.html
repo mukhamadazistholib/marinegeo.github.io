@@ -1,7 +1,7 @@
 <footer>
   <div class="container beautiful-jekyll-footer">
     <div style="position: absolute; bottom: 0;right: 0; padding: 10px;">
-            <a href="{{site.baseurl}}/feedback">
+      <a href="{{site.baseurl}}/feedback">
                     <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">add_box</i>
                     <span></span>Feedback</a>
     </div>
@@ -11,12 +11,10 @@
 
 
         <ul class="list-inline text-center footer-links">
-          {%- for link in site.social-network-links -%}
-            {%- assign curkey = link[0] -%}
-            {%- assign element = site.data.SocialNetworks[curkey] -%}
-            <li>
+          {%- for link in site.social-network-links -%} {%- assign curkey = link[0] -%} {%- assign element = site.data.SocialNetworks[curkey] -%}
+          <li>
             {%- if curkey == 'rss' -%}
-              <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
             {%- elsif curkey == 'yelp' -%}
               <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
             {%- else -%}
@@ -28,7 +26,7 @@
                 </span>
                 <span class="sr-only">{{ element.name }}</span>
               </a>
-            </li>
+          </li>
           {%- endfor -%}
         </ul>
       </div>
@@ -37,27 +35,18 @@
 
       <p class="copyright text-muted">
 
-      {% if site.footer-logo %}
-        <a href="{{site.footer-link}}"><img src="{{site.baseurl}}{{site.footer-logo}}" alt="Footer Logo Image" style="width: 300px; display:block;margin:auto;"/></a>
-      {% endif %}
-
-
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
+        {% if site.footer-logo %}
+        <a href="{{site.footer-link}}"><img src="{{site.baseurl}}{{site.footer-logo}}" alt="Footer Logo Image" style="width: 300px; display:block;margin:auto;"/></a> {% endif %} {% if site.matomo %} {% if site.matomo.opt-out %} &nbsp;&bull;&nbsp;
+        <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a> {% endif %} {% endif%}
       </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
-    <p class="theme-by text-muted">
-      Theme by
-      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-    </p>
+      <!-- Please don't remove this, keep my open source work credited :) -->
+      <p class="theme-by text-muted">
+        Theme by
+        <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+      </p>
 
 
 
-      </div>
     </div>
   </div>
 </footer>

@@ -7,3 +7,5 @@ gem "github-pages", '191', group: :jekyll_plugins
 gem 'jekyll-paginate'
 
 gem 'html-proofer'
+
+gem 'rake'
