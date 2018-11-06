@@ -5,14 +5,8 @@ thumbnail: /img/MarineGEO_logo.png
 editbutton: true
 links:
   - name: PANAMEX&#58; Pan American Experimental Initiative Caging Experiment Protocol
-    path: /assets/panamex/Panamex_CagingProtocol_May2018.pdf
+    path: Panamex_CagingProtocol_May2018.pdf
     icon: save_alt
-  - name: PANAMEX&#58; Additional Protocols Weeks 10 and 12
-    path: /assets/panamex/Panamex_OptionalProtocolsWeeks10and12_2018.pdf
-    icon: save_alt
-  - name: Instructional video&#58; How to set up the 2018-2019 Panamex Experiment
-    path: https://www.youtube.com/watch?v=Vg8T-3pAVDU
-    icon: videocam
 ---
 
 ## Purpose

@@ -8,7 +8,7 @@ links:
   - path: MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
     name: Squidpop Protocol
     icon: save_alt
-  - path: SquidpopFieldsheet_JRMedits.pdf
+  - path: "SquidpopFieldsheet _JRMedits.pdf"
     name: Squidpop Field Datasheet
     icon: save_alt
   - name: Squidpop Data Entry Template
