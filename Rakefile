@@ -17,7 +17,7 @@ test = Rake::TestTask.new do
       :timeframe => '6w'
     },
     :assume_extension => true,
-    :external_only => true,
+    :external_only => false,
   }
   begin
     HTMLProofer.check_directory("./_site", options).run

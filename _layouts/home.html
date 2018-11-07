@@ -35,15 +35,16 @@ layout: base
       {% assign allmodules = site.project-modules | sort: 'title' %}
       {% for group in sorted %}
         <div class="row">
+        {% if group.title != "" %}
         <h2><a href={{site.baseurl}}{{group.url}}>{{group.title}}</a></h2>
-
+        {% endif %}
 
         {% for m in group.modules %}
         {% for module in allmodules %}
         {% if m == module.id %}
 
           <div class="col-md-3 col-sm-4 col-xs-6">
-            <a href="{{site.baseurl}}{{module.url}}/">
+            <a href="{{site.baseurl}}{{module.url}}">
               <div>
                 {% if module.thumbnail %}
                 <div style="background-color: #97C8EB; width: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px; border-radius: 50%;">
