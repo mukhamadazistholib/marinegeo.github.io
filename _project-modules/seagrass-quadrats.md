@@ -16,7 +16,7 @@ links:
 ---
 
 ## Overview
-The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively with with quadrats.
+The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively with quadrats.
 
 ![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-quadrats/2015-09-20_CB_paul_44.JPG)
 
