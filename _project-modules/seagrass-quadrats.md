@@ -3,14 +3,10 @@ layout: project
 title: Seagrass Quadrats
 thumbnail: seagrass-quadrat.png
 editbutton: true
-links:
-  - path: MarineGEO_Seagrass_Quadrats_Protocol.pdf
-    name: Seagrass Quadrats Protocol
-    icon: save_alt
 ---
 
 ## Overview
-Seagrass quadrats are a quick, non-destructive tool for quantifying the abundance and composition of underwater vegation on the benthos.
+Seagrass quadrats are a quick, non-destructive tool for quantifying the abundance and composition of underwater vegetation on the benthos.
 
 ![Seagrass transects, Friday Harbor Labs, WA]({{site.baseurl}}/assets/modules/seagrass-quadrats/seagrass_quadrats_header.png)
 

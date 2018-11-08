@@ -14,9 +14,6 @@ links:
   - name: Squidpop Data Entry Template
     path: MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
     icon: save_alt
-  - name: Squidpop file packet
-    path: Squidpop.zip
-    icon: folder
 ---
 
 ## Overview

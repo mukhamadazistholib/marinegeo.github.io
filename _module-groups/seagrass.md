@@ -16,7 +16,7 @@ Seagrasses are found in shallow salty and brackish waters in many parts of the w
 
 ![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama]({{site.baseurl}}/assets/modules/seagrass/Seagrass_Bocas_del_Toro_Panama.jpeg)
 
-MarineGEO protocols provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal and fish communities that use seagrasses as habitat. 
+MarineGEO protocols provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal and fish communities that use seagrasses as habitat.
 
 The data collected are comparable to those of other major seagrass monitoring programs, Seagrass Watch (McKenzie et al. 2000) and SeagrassNet (Short et al. 2006).
 
@@ -24,9 +24,6 @@ The data collected are comparable to those of other major seagrass monitoring pr
 
 Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Macrophyte percent cover, species composition, and seagrass shoot density (in a portion of the quadrat if shoots are very dense) are recorded within each of five 1 m<sup>2</sup> quadrats located randomly along each transect (N = 15 quadrats total at the site). Three types of samples are then collected (N = 15 each) and returned to the lab for processing: (1) a bag sample of seagrass shoots to measure seagrass leaf length and width, sheath length, and mass of fouling material; and (2) a bag sample of seagrass shoots to characterize the associated mobile epifauna community.
 
-## Data Curation
-
-Use the <a href="/assets/modules/seagrass/MarineGEO_Seagrass_DataEntryTemplate_v0.0.1.xlsx">Seagrass Data Entry Template</a> to transfer data from the field and lab data sheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 ## Selected Literature
 
@@ -39,4 +36,3 @@ McKenzie, L. J., L. Long, R. C. B. marina. 2000. Seagrass-Watch: Community based
 Ruesink, J. L., J. J. Stachowicz, P. L. Reynolds, C. Boström, M. Cusson, J. Douglass, J. Eklöf, A. H. Engelen, M. Hori, K. Hovel, K. Iken, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, E. E. Sotka, M. A. Whalen, and J. E. Duffy. 2017. Form-function relationships in a marine foundation species depend on scale: a shoot to global perspective from a distributed ecological experiment. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.04270">Oikos 127:364–374</a>.
 
 Short, F. T., L. J. McKenzie, R. G. Coles, and V. KP. 2002. SeagrassNet Manual for Scientific Monitoring of Seagrass Habitat. <a href="http://irmaservices.nps.gov/datastore/v4/rest/DownloadFile/459355?accessType=DOWNLOAD">Pages 1–65</a>.
-

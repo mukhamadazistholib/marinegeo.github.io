@@ -21,11 +21,9 @@ Field: X persons x X hours.
 Post-processing: X persons x X hours.
 Data curation:  X persons x X hours.
 
-**Materials:** See checklist in <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">Seagrass Shoots Protocol</a>.
+**Materials:** See checklist
 
 ## Methods
-
-See <a href="/assets/modules/seagrass/MarineGEO_Seagrass_Protocol_V20180821.pdf">Seagrass Shoots Protocol</a>.
 
 ## Data
 
