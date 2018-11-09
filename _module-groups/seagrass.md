@@ -8,7 +8,8 @@ modules:
   - /modules/seagrass-seine
   - /modules/seagrass-sedimentcarbon
   - /modules/squidpops
-  - /modules/seagrass-sediment-carbon
+  - /modules/seagrass-sediment-om
+  - /modules/seagrass-biomass-cores
 editbutton: true
 ---
 
