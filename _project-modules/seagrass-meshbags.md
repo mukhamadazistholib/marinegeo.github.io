@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Mesh Bags
-thumbnail: seagrass-meshbags.png
+thumbnail: seagrass_meshbags_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Seagrass_Meshbags_Protocol_v0.0.1.pdf
@@ -17,6 +17,9 @@ links:
 
 ## Overview
 Seagrass mesh bags are a rapid way to destructively sample organisms associated with the seagrass canopy (e.g., small invertebrates, macroalgae).
+
+![seagrass mesh bag]({{site.baseurl}}/assets/modules/seagrass-meshbags/seagrass_mesh_bags_landing_page.png)
+
 
 ## Measured Parameters
   - Epifaunal composition

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Quadrats
-thumbnail: seagrass-quadrat.png
+thumbnail: seagrass_quadrat_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Seagrass_Quadrats_Protocol_v0.0.1.pdf
@@ -18,7 +18,7 @@ links:
 ## Overview
 The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively with quadrats.
 
-![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-quadrats/2015-09-20_CB_paul_44.JPG)
+![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-quadrats/seagrass_quadrats_landing_page.jpg)
 
 ## Measured Parameters
   - Percent cover of each species (in 5% bins of 0.25 m<sup>2</sup>)

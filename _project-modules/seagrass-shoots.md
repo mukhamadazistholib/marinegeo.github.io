@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Shoots
-thumbnail: seagrass-shoots.png
+thumbnail: seagrass_shoots_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Seagrass_Shoots_Protocol_v0.0.1.pdf
@@ -17,6 +17,8 @@ links:
 
 ## Overview
 Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density and lengths of shoots. This protocol measures these and other characteristics of seagrass shoots, along with the quantity of material growing on (fouling) them.
+
+![seagrass shoots]({{site.baseurl}}/assets/modules/seagrass-shoots/seagrass_shoots_landing_page.jpg)
 
 ## Measured Parameters
   - Blade length (mm)

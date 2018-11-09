@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Seagrass Beach Seine
-thumbnail: seine.png
+thumbnail: seagrass_seine_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Seagrass_Seines_Protocol_v0.0.1.pdf
@@ -19,7 +19,7 @@ links:
 Beach seines quantify the larger mobile organisms associated with seagrass beds.
 
 
-![seagrass seine icon]({{site.baseurl}}/assets/modules/seagrass-seine/seine.png)
+![seagrass beach seine]({{site.baseurl}}/assets/modules/seagrass-seine/seagrass_seine_landing_page.jpg)
 
 ## Measured Parameters
   - Mobile fauna abundance (individuals)
