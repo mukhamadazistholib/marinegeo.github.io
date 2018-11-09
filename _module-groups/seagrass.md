@@ -8,7 +8,7 @@ modules:
   - /modules/seagrass-seine
   - /modules/seagrass-sedimentcarbon
   - /modules/squidpops
-  - /modules/waterquality
+  - /modules/seagrass-sediment-carbon
 editbutton: true
 ---
 
