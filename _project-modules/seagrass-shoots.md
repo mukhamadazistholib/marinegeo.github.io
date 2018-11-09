@@ -16,7 +16,7 @@ links:
 ---
 
 ## Overview
-Individual shoots of seagrass provide data on canopy characteristics and estimates of primary productivity.
+Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density and lengths of shoots. This protocol measures these and other characteristics of seagrass shoots, along with the quantity of material growing on (fouling) them. 
 
 ### Measured Parameters
   - Blade length (mm)
@@ -27,3 +27,7 @@ Individual shoots of seagrass provide data on canopy characteristics and estimat
   - Fouling biomass (mg)
 
 ## Selected Literature
+
+Short,  F.T.,  McKenzie,  L.J.,  Coles,  R.G.,  Vidler,  K.P., Gaeckle,  J.L.  (2006) SeagrassNet   Manual   for   Scientific   Monitoring   of   Seagrass   Habitat,  Worldwide edition. [University of New Hampshire Publication](http://www.seagrassnet.org/sites/default/files/SeagrassNet_Manual_2006_Worldwide.pdf).
+
+McKenzie, L.J., Campbell, S.J. & Roder, C.A. (2003) Seagrass-Watch: Manual for Mapping & Monitoring Seagrass Resources by Community (citizen) volunteers. [2nd Edition](http://www.seagrasswatch.org/Methods/Manuals/SeagrassWatch_monitoring_guidelines_2ndEdition.pdf).
