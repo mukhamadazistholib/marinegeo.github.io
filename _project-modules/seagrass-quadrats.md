@@ -16,7 +16,7 @@ links:
 ---
 
 ## Overview
-Seagrass quadrats are a quick, non-destructive tool for quantifying the abundance and composition of underwater vegetation on the benthos.
+The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively with quadrats.
 
 ![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-quadrats/2015-09-20_CB_paul_44.JPG)
 
