@@ -37,7 +37,7 @@ Duarte, C. M., and Krause-Jensen, D. (2017). Export from seagrass meadows contri
 
 Duffy, J. E., P. L. Reynolds, C. Boström, J. A. Coyer, M. Cusson, S. Donadi, J. G. Douglass, J. S. Eklöf, A. H. Engelen, B. K. Eriksson, S. Fredriksen, L. Gamfeldt, C. Gustafsson, G. Hoarau, M. Hori, K. Hovel, K. Iken, J. S. Lefcheck, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, J. P. Richardson, J. L. Ruesink, E. E. Sotka, J. Thormar, M. A. Whalen, and J. J. Stachowicz. 2015. Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448">Ecology Letters 18:696–705</a>.
 
-Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. University of California Press Available at: http://books.google.com/books?hl=en&lr=&id=dHV0NA3m2AIC&oi=fnd&pg=PA1&dq=world+atlas+of+seagrasses+short&ots=wxBQHQxIJP&sig=U3kliAAUH0Jf4H-yDtfsLZ5PLzw.
+Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. [University of California Press](http://books.google.com/books?hl=en&lr=&id=dHV0NA3m2AIC&oi=fnd&pg=PA1&dq=world+atlas+of+seagrasses+short&ots=wxBQHQxIJP&sig=U3kliAAUH0Jf4H-yDtfsLZ5PLzw).
 
 Hughes, A. R., Williams, S. L., Duarte, C. M., Heck, K. L., and Waycott, M. (2009). Associations of concern: declining seagrasses and threatened dependent species. Frontiers in Ecology and the Environment 7, 242–246.
 
