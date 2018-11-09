@@ -7,6 +7,6 @@ editbutton: true
 
 ## Overview
 
-### Measured Parameters
+## Measured Parameters
 
 ## Selected Literature

@@ -21,7 +21,7 @@ Beach seines quantify the larger mobile organisms associated with seagrass beds.
 
 ![seagrass seine icon]({{site.baseurl}}/assets/modules/seagrass-seine/seine.png)
 
-### Measured Parameters
+## Measured Parameters
   - Mobile fauna abundance (individuals)
   - Mobile fauna length (mm)
 

@@ -16,9 +16,9 @@ links:
 ---
 
 ## Overview
-Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density and lengths of shoots. This protocol measures these and other characteristics of seagrass shoots, along with the quantity of material growing on (fouling) them. 
+Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density and lengths of shoots. This protocol measures these and other characteristics of seagrass shoots, along with the quantity of material growing on (fouling) them.
 
-### Measured Parameters
+## Measured Parameters
   - Blade length (mm)
   - Blade width (mm)
   - Sheath length (mm)
