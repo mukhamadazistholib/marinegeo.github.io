@@ -33,8 +33,9 @@ layout: base
       {% if page.habitat-links %}
       {% assign sorted = site.module-groups | sort: 'title' %}
       {% assign allmodules = site.project-modules | sort: 'title' %}
+      <div class="row" style="display: flex;flex-wrap: wrap;">
       {% for group in sorted %}
-        <div class="row">
+        <div>
         {% if group.title != "" %}
         <h2><a href={{site.baseurl}}{{group.url}}>{{group.title}}</a></h2>
         {% endif %}
@@ -42,18 +43,17 @@ layout: base
         {% for m in group.modules %}
         {% for module in allmodules %}
         {% if m == module.id %}
-
           <div class="col-md-3 col-sm-4 col-xs-6">
             <a href="{{site.baseurl}}{{module.url}}">
               <div>
                 {% if module.thumbnail %}
-                <div style="background-color: #97C8EB; width: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px; border-radius: 50%;">
-                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                <div style="background-color: #97C8EB; border-radius: 50%; width: 75px; display:block; margin:auto;">
+                  <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
                 </div>
                 {% else %}
-                <div>
-                <img src="{{site.baseurl}}{{site.default-thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
-              </div>
+                <div style="display:block; margin:auto;">
+                  <img src="{{site.baseurl}}{{site.default-thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
+                </div>
                 {% endif %}
               </div>
               <div>
@@ -67,7 +67,7 @@ layout: base
     </div>
       {% endfor %}
       {% endif %}
-
+    </div>
     </div>
   </div>
 </div>

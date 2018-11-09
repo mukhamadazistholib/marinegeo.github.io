@@ -14,16 +14,22 @@
   {% endfor %}
 {% endif %}
 
+<div class="contaner">
+<div class="row" style="display: flex;flex-wrap: wrap;">
 {% for module in selection %}
-  <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;">
+  <div class="col-md-3 col-sm-4 col-xs-6">
+  <!-- <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;"> -->
     <a href="{{site.baseurl}}{{module.url}}">
          {% if module.thumbnail %}
-        <div style="background-color: #97C8EB; border-radius: 50%; width: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
-          <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="Module Icon" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+        <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;"> -->
+        <div style="background-color: #97C8EB; border-radius: 50%; width: 150px; display:block; margin:auto;">
+          <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="Module Icon"
+          class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px; width=100%;">
         </div>
         {% else %}
-        <div>
-          <img src="{{site.baseurl}}{{site.default-thumbnail}}"  alt="Default Module Icon" class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;">
+        <div style="display:block; margin:auto;">
+          <img src="{{site.baseurl}}{{site.default-thumbnail}}"  alt="Default Module Icon"
+          class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px; width=100%;">
         </div>
         {% endif %}
       <div>
@@ -32,3 +38,5 @@
     </a>
   </div>
 {% endfor %}
+</div>
+</div>
