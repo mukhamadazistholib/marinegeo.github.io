@@ -16,7 +16,7 @@ links:
 ---
 
 ## Overview
-The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively with quadrats.
+The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively on scales of m to 10s of m by measuring cover and composition of species within replicated quadrats. These measurements can then be used to scale up to the ecosystem level by connecting to measures of seagrass meadow area and extent using aerial drone or satellite imagery.  
 
 ![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-quadrats/seagrass_quadrats_landing_page.jpg)
 
