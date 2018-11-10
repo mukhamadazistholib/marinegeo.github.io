@@ -25,6 +25,6 @@ Canuel, E. A., Spivak, A. C., Waterson, E. J., & Emmett Duffy, J. (2007). Biodiv
 
 Erftemeijer, P. L., & Koch, E. W. (2001). Sediment geology methods for seagrass habitat (pp. 345-367). In: Short, F. T., & Coles, R. G. (Eds.). Global seagrass research methods (Vol. 33). Amsterdam, the Netherlands: Elsevier Science.
 
-Röhr, M. E., Holmer, M., Baum, J. K., Björk, M., Chin, D., Chalifour, L., ... & Duffy, J. E. (2018). Blue Carbon Storage Capacity of Temperate Eelgrass (Zostera marina) Meadows. Global Biogeochemical Cycles.
+Röhr, M. E., Holmer, M., Baum, J. K., Björk, M., Chin, D., Chalifour, L., etc, & Duffy, J. E. (2018). Blue Carbon Storage Capacity of Temperate Eelgrass (Zostera marina) Meadows. Global Biogeochemical Cycles.
 
 Spivak, A. C., Canuel, E. A., Duffy, J. E., & Richardson, J. P. (2007). Top-down and bottom-up controls on sediment organic matter composition in an experimental seagrass ecosystem. Limnology and Oceanography, 52(6), 2595-2607.
