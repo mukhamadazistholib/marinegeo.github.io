@@ -16,7 +16,7 @@ links:
 ---
 
 ## Overview
-Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density and lengths of shoots. This protocol measures these and other characteristics of seagrass shoots, along with the quantity of material growing on (fouling) them.
+Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density, lengths, and growth rates of the shoots. This protocol measures these dimensions, along with length of the seagrass leaf sheath, which can be used as a proxy for leaf growth rate (Gaeckle et al, 2006, Ruesink et al. 2018). The protocol also measures quantity of algae and other material accumulating on (fouling) the shoots. Fouling mass is an important property of seagrass ecosystems because the algae and detritus foulng seagrass leaves provides food for small animals, and influences seagrass growth by reducing light availability to the plant.
 
 ![seagrass shoots]({{site.baseurl}}/assets/modules/seagrass-shoots/seagrass_shoots_landing_page.jpg)
 
@@ -29,6 +29,11 @@ Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an und
   - Fouling biomass (mg)
 
 ## Selected Literature
+
+Gaeckle, J. L., et al. 2006. Sheath length as a monitoring tool for calculating leaf growth in eelgrass (<i>Zostera marina</i> L.). 
+<a href="https://www.sciencedirect.com/science/article/pii/S0304377005002317">Aquatic botany 843:226-232</a>.
+
+Ruesink, J. L., J. J. Stachowicz, P. L. Reynolds, C. Boström, M. Cusson, J. Douglass, J. Eklöf, A. H. Engelen, M. Hori, K. Hovel, K. Iken, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, E. E. Sotka, M. A. Whalen, and J. E. Duffy. 2017. Form-function relationships in a marine foundation species depend on scale: a shoot to global perspective from a distributed ecological experiment. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.04270">Oikos 127:364–374</a>.
 
 Short,  F.T.,  McKenzie,  L.J.,  Coles,  R.G.,  Vidler,  K.P., Gaeckle,  J.L.  (2006) SeagrassNet   Manual   for   Scientific   Monitoring   of   Seagrass   Habitat,  Worldwide edition. [University of New Hampshire Publication](http://www.seagrassnet.org/sites/default/files/SeagrassNet_Manual_2006_Worldwide.pdf).
 
