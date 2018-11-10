@@ -28,7 +28,7 @@ Seagrass habitats support an abundant and diverse community of animals, includin
 
 ## Selected Literature
 
-Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">
+Duffy, J.E., Hughes, A.R., and Moksnes, P.O. (2013). Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">
 Marine community ecology and conservation</a>. Sinauer. Pp.271-297.
 
 Edgar, G. J., & Shaw, C. (1995). The production and trophic ecology of shallow-water fish assemblages in southern Australia I. Species richness, size-structure and production of fishes in Western Port, Victoria. Journal of Experimental Marine Biology and Ecology, 194(1), 53-81.
