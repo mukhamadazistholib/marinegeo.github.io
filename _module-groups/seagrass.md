@@ -47,6 +47,4 @@ McKenzie, L. J., L. Long, R. C. B. marina. 2000. Seagrass-Watch: Community based
 
 Mcleod, E., Chmura, G. L., Bouillon, S., Salm, R., Björk, M., Duarte, C. M., et al. (2011). A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering CO 2. Frontiers in Ecology and the Environment 9, 552–560. doi:10.1890/110004.
 
-Ruesink, J. L., J. J. Stachowicz, P. L. Reynolds, C. Boström, M. Cusson, J. Douglass, J. Eklöf, A. H. Engelen, M. Hori, K. Hovel, K. Iken, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, E. E. Sotka, M. A. Whalen, and J. E. Duffy. 2017. Form-function relationships in a marine foundation species depend on scale: a shoot to global perspective from a distributed ecological experiment. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.04270">Oikos 127:364–374</a>.
-
 Short, F. T., L. J. McKenzie, R. G. Coles, and V. KP. 2002. SeagrassNet Manual for Scientific Monitoring of Seagrass Habitat. <a href="http://irmaservices.nps.gov/datastore/v4/rest/DownloadFile/459355?accessType=DOWNLOAD">Pages 1–65</a>.
