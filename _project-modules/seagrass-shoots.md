@@ -16,7 +16,7 @@ links:
 ---
 
 ## Overview
-Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density, lengths, and growth rates of the shoots. This protocol measures these dimensions, along with length of the seagrass leaf sheath, which can be used as a proxy for leaf growth rate (Gaeckle et al, 2006, Ruesink et al. 2018). The protocol also measures quantity of algae and other material accumulating on (fouling) the shoots. Fouling mass is an important property of seagrass ecosystems because the algae and detritus foulng seagrass leaves provides food for small animals, and influences seagrass growth by reducing light availability to the plant.
+Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an underground rhizome. The habitat structure and productivity of a seagrass meadow are a function of the density, lengths, and growth rates of the shoots. This protocol measures these dimensions, along with length of the seagrass leaf sheath, which can be used as a proxy for leaf growth rate (Gaeckle et al, 2006, Ruesink et al. 2018). The protocol also measures quantity of algae and other material accumulating on (fouling) the shoots. Fouling mass is an important property of seagrass ecosystems because the algae and detritus fouling seagrass leaves influence seagrass growth by reducing light availability to the plant, and also provide food for small animals.
 
 ![seagrass shoots]({{site.baseurl}}/assets/modules/seagrass-shoots/seagrass_shoots_landing_page.jpg)
 
