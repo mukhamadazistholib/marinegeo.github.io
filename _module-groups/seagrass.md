@@ -31,11 +31,10 @@ Seagrass community sampling has two main components: (1) non-destructive measure
 
 Cullen-Unsworth, L. C., Nordlund, L. M., Paddock, J., Baker, S., McKenzie, L. J., and Unsworth, R. K. F. (2014). Seagrass meadows globally as a coupled social-ecological system: Implications for human wellbeing. <a href="https://www.sciencedirect.com/science/article/pii/S0025326X13002919">Marine Pollution Bulletin 83:387–397</a>.
 
-Douglass, J. G., K. E. France, J. Paul Richardson, and J. E. Duffy. 2010. Seasonal and interannual change in a Chesapeake Bay eelgrass community: Insights into biotic and abiotic control of community structure. <a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2010.55.4.1499">Limnology and Oceanography 55:1499–1520</a>.
-
 Duarte, C. M., and Krause-Jensen, D. (2017). Export from seagrass meadows contributes to marine carbon sequestration. Frontiers in Marine Science 4, 13.
 
-Duffy, J. E., P. L. Reynolds, C. Boström, J. A. Coyer, M. Cusson, S. Donadi, J. G. Douglass, J. S. Eklöf, A. H. Engelen, B. K. Eriksson, S. Fredriksen, L. Gamfeldt, C. Gustafsson, G. Hoarau, M. Hori, K. Hovel, K. Iken, J. S. Lefcheck, P.-O. Moksnes, M. Nakaoka, M. I. O'connor, J. L. Olsen, J. P. Richardson, J. L. Ruesink, E. E. Sotka, J. Thormar, M. A. Whalen, and J. J. Stachowicz. 2015. Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448">Ecology Letters 18:696–705</a>.
+Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">
+Marine community ecology and conservation</a>. Sinauer. Pp.271-297.
 
 Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. [University of California Press](http://books.google.com/books?hl=en&lr=&id=dHV0NA3m2AIC&oi=fnd&pg=PA1&dq=world+atlas+of+seagrasses+short&ots=wxBQHQxIJP&sig=U3kliAAUH0Jf4H-yDtfsLZ5PLzw).
 
