@@ -27,7 +27,7 @@ Seagrass meadows provide habitat structure and food, including production by ass
   - Seagrass dry mass (to standardize size of epifauna sample)
 
 ## Selected Literature
-Duffy, J. E., Reynolds, P. L., Boström, C., Coyer, J. A., Cusson, M., Donadi, S., etc, & Fredriksen, S. (2015). Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. Ecology letters, 18(7), 696-705.
+Duffy, J. E., Reynolds, P. L., Boström, C., Coyer, J. A., Cusson, M., Donadi, S., ... & Fredriksen, S. (2015). Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. Ecology letters, 18(7), 696-705.
 
 Edgar, G. J. (1990). The use of the size structure of benthic macrofaunal communities to estimate faunal biomass and secondary production. Journal of Experimental Marine Biology and Ecology, 137(3), 195-214.
 
