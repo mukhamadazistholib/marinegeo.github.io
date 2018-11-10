@@ -8,7 +8,7 @@ links:
     name: Seagrass Seine Protocol
     icon: save_alt
   - path: SeagrassSeinefieldsheet_v0.0.1.pdf
-    name: Seagrass Seine Fieldsheet
+    name: Seagrass Seine Field Data Sheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Seine_DataEntryTemplate_v0.0.1.xlsx
     name: Seagrass Seine Data Entry Template

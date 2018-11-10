@@ -8,7 +8,7 @@ links:
     name: Seagrass Biomass Cores Protocol
     icon: save_alt
   - path: BiomassCoresFieldsheet_v0.0.1.pdf
-    name: Seagrass Biomass Cores Fieldsheet
+    name: Seagrass Biomass Cores Lab Data Sheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Biomass-Cores_DataEntryTemplate_v0.0.1.xlsx
     name: Seagrass Biomass Cores Data Entry Template

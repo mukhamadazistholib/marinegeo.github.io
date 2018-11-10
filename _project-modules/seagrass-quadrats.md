@@ -8,7 +8,7 @@ links:
     name: Seagrass Quadrat Protocol
     icon: save_alt
   - path: seagrass-quadrat-fieldsheet_v0.0.1.pdf
-    name: Seagrass Quadrat Fieldsheet
+    name: Seagrass Quadrat Field Data Sheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Quadrat_DataEntryTemplate_v0.0.1.xlsx
     name: Seagrass Quadrat Data Entry Template

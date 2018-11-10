@@ -8,7 +8,7 @@ links:
     name: Seagrass Mesh Bag Protocol
     icon: save_alt
   - path: MeshBagDatasheet_Sieve_v0.0.1.pdf
-    name: Seagrass Mesh Bag Sieve Lab sheet
+    name: Seagrass Mesh Bag Sieve Lab Data Sheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Epifauna-Sieve-Tower_DataEntryTemplate_v0.0.1.xlsx
     name: Seagrass Mesh Bag Sieve Tower Data Entry Template
