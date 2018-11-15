@@ -26,6 +26,6 @@ Seagrasses exist both above (shoots) and below (rhizomes) the sediment interface
   - Infaunal abundance (individuals)
 
 ## Selected Literature
-Blackburn, N. J., & Orth, R. J. (2013). Seed burial in eelgrass Zostera marina: the role of infauna. Marine Ecology Progress Series, 474, 135-145.
+Blackburn, N. J., & Orth, R. J. (2013). Seed burial in eelgrass Zostera marina: the role of infauna. [Marine Ecology Progress Series, 474, 135-145](https://www.int-res.com/abstracts/meps/v474/p135-145/).
 
-Douglass, J. G., Douglass, J. G., France, K. E., France, K. E., Richardson, J. P., & Duffy, J. E. (2010). Seasonal and interannual change in a Chesapeake Bay eelgrass community: insights into biotic and abiotic control of community structure. Limnology and Oceanography, 55(4), 1499-1520.
+Douglass, J. G., Douglass, J. G., France, K. E., France, K. E., Richardson, J. P., & Duffy, J. E. (2010). Seasonal and interannual change in a Chesapeake Bay eelgrass community: insights into biotic and abiotic control of community structure. [Limnology and Oceanography, 55(4), 1499-1520](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2010.55.4.1499).
