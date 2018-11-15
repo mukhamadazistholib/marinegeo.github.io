@@ -29,9 +29,9 @@ Most seagrasses grow as shoots, i.e., bundles of leaves, that emerge from an und
   - Fouling biomass (mg)
 
 ## Selected Literature
-Gaeckle, J. L., Short, F. T., Ibarra-Obando, S. E., & Meling-Lopez, A. E. (2006). Sheath length as a monitoring tool for calculating leaf growth in eelgrass (Zostera marina L.). Aquatic botany, 84(3), 226-232.
+Gaeckle, J. L., Short, F. T., Ibarra-Obando, S. E., & Meling-Lopez, A. E. (2006). Sheath length as a monitoring tool for calculating leaf growth in eelgrass (Zostera marina L.). [Aquatic botany, 84(3), 226-232](https://www.sciencedirect.com/science/article/pii/S0304377005002317).
 
-Ruesink, J. L., Stachowicz, J. J., Reynolds, P. L., Bostrom, C., Cusson, M., Douglass, J., ... & Iken, K. (2018). Form-function relationships in a marine foundation species depend on scale: a shoot to global perspective from a distributed ecological experiment. Oikos, 127(3), 364-374.
+Ruesink, J. L., Stachowicz, J. J., Reynolds, P. L., Bostrom, C., Cusson, M., Douglass, J., ... & Iken, K. (2018). Form-function relationships in a marine foundation species depend on scale: a shoot to global perspective from a distributed ecological experiment. [Oikos, 127(3), 364-374](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.04270).
 
 Short,  F.T.,  McKenzie,  L.J.,  Coles,  R.G.,  Vidler,  K.P., Gaeckle,  J.L.  (2006) SeagrassNet   Manual   for   Scientific   Monitoring   of   Seagrass   Habitat,  Worldwide edition. [University of New Hampshire Publication](http://www.seagrassnet.org/sites/default/files/SeagrassNet_Manual_2006_Worldwide.pdf).
 
