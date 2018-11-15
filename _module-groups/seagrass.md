@@ -31,19 +31,18 @@ Seagrass community sampling has two main components: (1) non-destructive measure
 
 Cullen-Unsworth, L. C., Nordlund, L. M., Paddock, J., Baker, S., McKenzie, L. J., and Unsworth, R. K. F. (2014). Seagrass meadows globally as a coupled social-ecological system: Implications for human wellbeing. <a href="https://www.sciencedirect.com/science/article/pii/S0025326X13002919">Marine Pollution Bulletin 83:387–397</a>.
 
-Duarte, C. M., and Krause-Jensen, D. (2017). Export from seagrass meadows contributes to marine carbon sequestration. Frontiers in Marine Science 4, 13.
+Duarte, C. M., and Krause-Jensen, D. (2017). Export from seagrass meadows contributes to marine carbon sequestration.<a href="http://pure.au.dk/portal/files/119772675/fmars_04_00013.pdf"> Frontiers in Marine Science 4, 13</a>.
 
-Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">
-Marine community ecology and conservation</a>. Sinauer. Pp.271-297.
+Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">Marine community ecology and conservation. Sinauer. Pp.271-297</a>. 
 
 Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. [University of California Press](http://books.google.com/books?hl=en&lr=&id=dHV0NA3m2AIC&oi=fnd&pg=PA1&dq=world+atlas+of+seagrasses+short&ots=wxBQHQxIJP&sig=U3kliAAUH0Jf4H-yDtfsLZ5PLzw).
 
-Hughes, A. R., Williams, S. L., Duarte, C. M., Heck, K. L., and Waycott, M. (2009). Associations of concern: declining seagrasses and threatened dependent species. Frontiers in Ecology and the Environment 7, 242–246.
+Hughes, A. R., Williams, S. L., Duarte, C. M., Heck, K. L., and Waycott, M. (2009). Associations of concern: declining seagrasses and threatened dependent species. <a href="https://www.disl.org/assets/uploads/publications/2009_hughes_etal_front_ecol_environ_v7.pdf">Frontiers in Ecology and the Environment 7, 242–246</a>.
 
-Marbà, N., Krause-Jensen, D., Alcoverro, T., Birk, S., Pedersen, A., Neto, J. M., et al. (2013). Diversity of European seagrass indicators: patterns within and across regions. Hydrobiologia 704, 265–278.
+Marbà, N., Krause-Jensen, D., Alcoverro, T., Birk, S., Pedersen, A., Neto, J. M., et al. (2013). Diversity of European seagrass indicators: patterns within and across regions. <a href="https://s3.amazonaws.com/academia.edu.documents/39520612/Diversity_of_European_seagrass_indicator20151029-12143-s88yvk.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1542297966&Signature=ZnYviwfjLO%2FdRZ2%2F1TOC7yHz4U4%3D&response-content-disposition=inline%3B%20filename%3DDiversity_of_European_seagrass_indicator.pdf">Hydrobiologia 704, 265–278</a>.
 
-McKenzie, L. J., L. Long, R. C. B. marina. 2000. Seagrass-Watch: Community based monitoring of seagrass resources. <a href="http://www.seagrasswatch.org/Info_centre/Publications/McKenzie_etal_2002_BiolMarMedit.pdf">Biol. Mar. Medit. 7:393–396</a>.
+McKenzie, L. J., L. Long, R. C. B. marina. 2000. Seagrass-Watch: Community based monitoring of seagrass resources. <a href="http://www.seagrasswatch.org/Info_centre/Publications/McKenzie_etal_2002_BiolMarMedit.pdf"> Biol. Mar. Medit. 7:393–396</a>.
 
-Mcleod, E., Chmura, G. L., Bouillon, S., Salm, R., Björk, M., Duarte, C. M., et al. (2011). A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering CO 2. Frontiers in Ecology and the Environment 9, 552–560. doi:10.1890/110004.
+Mcleod, E., Chmura, G. L., Bouillon, S., Salm, R., Björk, M., Duarte, C. M., et al. (2011). A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering CO 2. <a href="https://core.ac.uk/download/pdf/15125354.pdf"> Frontiers in Ecology and the Environment 9, 552–560. doi:10.1890/110004</a>.
 
-Short, F. T., L. J. McKenzie, R. G. Coles, and V. KP. 2002. SeagrassNet Manual for Scientific Monitoring of Seagrass Habitat. <a href="http://irmaservices.nps.gov/datastore/v4/rest/DownloadFile/459355?accessType=DOWNLOAD">Pages 1–65</a>.
+Short, F. T., L. J. McKenzie, R. G. Coles, and V. KP. 2002. <a href="http://irmaservices.nps.gov/datastore/v4/rest/DownloadFile/459355?accessType=DOWNLOAD">SeagrassNet Manual for Scientific Monitoring of Seagrass Habitat. Pages 1–65</a>.
