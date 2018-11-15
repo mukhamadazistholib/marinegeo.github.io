@@ -27,10 +27,10 @@ Seagrass meadows provide habitat structure and food, including production by ass
   - Seagrass dry mass (to standardize size of epifauna sample)
 
 ## Selected Literature
-Duffy, J. E., Reynolds, P. L., Bostrom, C., Coyer, J. A., Cusson, M., Donadi, S., ... & Fredriksen, S. (2015). Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. Ecology letters, 18(7), 696-705.
+Duffy, J. E., Reynolds, P. L., Bostrom, C., Coyer, J. A., Cusson, M., Donadi, S., ... & Fredriksen, S. (2015). Biodiversity mediates top-down control in eelgrass ecosystems: a global comparative-experimental approach. [Ecology letters, 18(7), 696-705](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12448).
 
-Edgar, G. J. (1990). The use of the size structure of benthic macrofaunal communities to estimate faunal biomass and secondary production. Journal of Experimental Marine Biology and Ecology, 137(3), 195-214.
+Edgar, G. J. (1990). The use of the size structure of benthic macrofaunal communities to estimate faunal biomass and secondary production. [Journal of Experimental Marine Biology and Ecology, 137(3), 195-214](https://www.sciencedirect.com/science/article/pii/002209819090185F).
 
-Orth, R. J., & Van Montfrans, J. (1984). Epiphyte-seagrass relationships with an emphasis on the role of micrograzing: a review. Aquatic Botany, 18(1-2), 43-69.
+Orth, R. J., & Van Montfrans, J. (1984). Epiphyte-seagrass relationships with an emphasis on the role of micrograzing: a review. [Aquatic Botany, 18(1-2), 43-69](https://www.sciencedirect.com/science/article/pii/0304377084900809).
 
-Neckles, H. A., Wetzel, R. L., & Orth, R. J. (1993). Relative effects of nutrient enrichment and grazing on epiphyte-macrophyte (Zostera marina L.) dynamics. Oecologia, 93(2), 285-295.
+Neckles, H. A., Wetzel, R. L., & Orth, R. J. (1993). Relative effects of nutrient enrichment and grazing on epiphyte-macrophyte (Zostera marina L.) dynamics. [Oecologia, 93(2), 285-295](https://link.springer.com/article/10.1007/BF00317683).
