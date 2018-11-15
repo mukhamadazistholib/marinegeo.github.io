@@ -30,6 +30,6 @@ The abundance and composition of seagrasses and other underwater vegetation can 
 ## Selected Literature
 McKenzie, L.J., Campbell, S.J. & Roder, C.A. (2003) Seagrass-Watch: Manual for Mapping & Monitoring Seagrass Resources by Community (citizen) volunteers. [2nd Edition](http://www.seagrasswatch.org/Methods/Manuals/SeagrassWatch_monitoring_guidelines_2ndEdition.pdf).
 
-Richardson, J. P., Lefcheck, J. S., & Orth, R. J. (2018). Warming temperatures alter the relative abundance and distribution of two co-occurring foundational seagrasses in Chesapeake Bay, USA. Marine Ecology Progress Series, 599, 65-74.
+Richardson, J. P., Lefcheck, J. S., & Orth, R. J. (2018). Warming temperatures alter the relative abundance and distribution of two co-occurring foundational seagrasses in Chesapeake Bay, USA. [Marine Ecology Progress Series, 599, 65-74](http://www.seagrassnet.org/sites/default/files/SeagrassNet_Manual_2006_Worldwide.pdf).
 
 Short,  F.T.,  McKenzie,  L.J.,  Coles,  R.G.,  Vidler,  K.P., Gaeckle,  J.L.  (2006) SeagrassNet   Manual   for   Scientific   Monitoring   of   Seagrass   Habitat,  Worldwide edition. [University of New Hampshire Publication](http://www.seagrassnet.org/sites/default/files/SeagrassNet_Manual_2006_Worldwide.pdf).
