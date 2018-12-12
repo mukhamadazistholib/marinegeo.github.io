@@ -1,7 +1,6 @@
 .parent {
   overflow: hidden; /* required */
   margin: 25px auto; /* for demo only */
-  border:1px solid grey; /* for demo only */
   position: relative; /* required  for demo*/
 }
 
@@ -9,7 +8,7 @@
   margin: 0;
   padding: 0;
   background: #ff0000;
-  color:white;
+  color: white;
   padding:0.5em 0;
   position: absolute;
   top:0;
