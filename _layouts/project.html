@@ -4,9 +4,35 @@ layout: base
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="/css/ribbon.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 
 {% include header.html type="page" %}
 
+{% if page.version != "released" %}
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Beta Version</h5>
+      </div>
+      <div class="modal-body">
+        This module is under active development. Please report any issues to marinegeo-data@si.edu.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+    $(window).on('load',function(){
+        $('#exampleModal').modal('show');
+    });
+</script>
+{% endif %}
 
 <div class="container" role="main">
 
@@ -22,7 +48,9 @@ layout: base
 
       <div class="pagination-centered parent" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
 
+        {% if page.version != "released" %}
         <h4 class="ribbon">Beta Version</h4>
+        {% endif %}
 
         <h3>Quick Start</h3>
         <div>
@@ -30,7 +58,7 @@ layout: base
         {% for link in page.links %}
         <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
             <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
-            <span><a href="/assets{{page.url}}/{{link.path}}">{{link.name}}</a></span>
+            <span><a href="/assets{{page.url}}/{{link.path}}" download>{{link.name}}</a></span>
             <br/>
         </li>
         {% endfor %}

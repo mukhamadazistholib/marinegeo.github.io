@@ -11,6 +11,7 @@ modules:
   - /modules/seagrass-sediment-om
   - /modules/seagrass-biomass-cores
 editbutton: true
+version: released
 ---
 
 Seagrasses are a group of 72 species of flowering plants that spend their entire lives submerged in seawater. Most seagrasses root in shallow sediment bottoms, where sufficient light penetrates to support growth — generally less than 20 meters depth and in turbid estuaries much shallower. Seagrasses are the foundation of submerged vegetated ecosystems in shallow coastal waters from the equator to high latitudes on all continents except Antarctica. Seagrass meadows are highly productive, provide important habitat for animals, including commercially important fisheries and species of concern, and are important sites of 'blue' carbon storage. Seagrass ecosystems and the services they provide are threatened by a range of interacting human activities, notably coastal development, declining water quality, invasive species, and climate warming. Thus, tracking status and trends in seagass cover and quality is an emerging priority for ocean and coastal management
@@ -33,7 +34,7 @@ Cullen-Unsworth, L. C., Nordlund, L. M., Paddock, J., Baker, S., McKenzie, L. J.
 
 Duarte, C. M., and Krause-Jensen, D. (2017). Export from seagrass meadows contributes to marine carbon sequestration.<a href="http://pure.au.dk/portal/files/119772675/fmars_04_00013.pdf"> Frontiers in Marine Science 4, 13</a>.
 
-Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">Marine community ecology and conservation. Sinauer. Pp.271-297</a>. 
+Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communities. In: Bertness, M.D. et al (editors). <a href="https://www.amazon.com/Marine-Community-Ecology-Conservation-Bertness/dp/1605352284">Marine community ecology and conservation. Sinauer. Pp.271-297</a>.
 
 Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. [University of California Press](http://books.google.com/books?hl=en&lr=&id=dHV0NA3m2AIC&oi=fnd&pg=PA1&dq=world+atlas+of+seagrasses+short&ots=wxBQHQxIJP&sig=U3kliAAUH0Jf4H-yDtfsLZ5PLzw).
 
