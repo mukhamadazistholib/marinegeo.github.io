@@ -40,7 +40,7 @@ Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. [University of
 
 Hughes, A. R., Williams, S. L., Duarte, C. M., Heck, K. L., and Waycott, M. (2009). Associations of concern: declining seagrasses and threatened dependent species. <a href="https://www.disl.org/assets/uploads/publications/2009_hughes_etal_front_ecol_environ_v7.pdf">Frontiers in Ecology and the Environment 7, 242–246</a>.
 
-Marbà, N., Krause-Jensen, D., Alcoverro, T., Birk, S., Pedersen, A., Neto, J. M., et al. (2013). Diversity of European seagrass indicators: patterns within and across regions. <a href="https://s3.amazonaws.com/academia.edu.documents/39520612/Diversity_of_European_seagrass_indicator20151029-12143-s88yvk.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1542297966&Signature=ZnYviwfjLO%2FdRZ2%2F1TOC7yHz4U4%3D&response-content-disposition=inline%3B%20filename%3DDiversity_of_European_seagrass_indicator.pdf">Hydrobiologia 704, 265–278</a>.
+Marbà, N., Krause-Jensen, D., Alcoverro, T., Birk, S., Pedersen, A., Neto, J. M., et al. (2013). Diversity of European seagrass indicators: patterns within and across regions. Hydrobiologia 704, 265–278.
 
 McKenzie, L. J., L. Long, R. C. B. marina. 2000. Seagrass-Watch: Community based monitoring of seagrass resources. <a href="http://www.seagrasswatch.org/Info_centre/Publications/McKenzie_etal_2002_BiolMarMedit.pdf"> Biol. Mar. Medit. 7:393–396</a>.
 
