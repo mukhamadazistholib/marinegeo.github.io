@@ -37,12 +37,14 @@
       </ul>
     </div>
 
-	{% if page.image and (layout.show-avatar or page.show-avatar) %}
+	{% if page.thumbnail and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
-	  <div class="avatar-img-border">
+	  <div class="avatar-img-border" style="background-color: #c6eafb;">
 	    <a href="{{ site.url }}">
-	      <img class="avatar-img" alt="Avatar Logo" src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" />
-		</a>
+	      <!-- <img class="avatar-img" alt="Avatar Logo" src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" /> -->
+        <img src="{{site.baseurl}}/assets{{page.url}}/{{page.thumbnail}}" alt="Module Icon"
+        class="img-responsive">
+    </a>
 	  </div>
 	</div>
 	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
