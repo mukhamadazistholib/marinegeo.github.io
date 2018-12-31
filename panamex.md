@@ -1,7 +1,6 @@
 ---
 layout: project
 title: PanAmEx
-thumbnail: /img/MarineGEO_logo.png
 editbutton: true
 ---
 

@@ -38,7 +38,7 @@ Duffy, J.E., Hughes, A.R., and Moksnes, P.O., 2013. Ecology of seagrass communit
 
 Green, E. P., and Short, F. T. (2003). World atlas of seagrasses. [University of California Press](http://books.google.com/books?hl=en&lr=&id=dHV0NA3m2AIC&oi=fnd&pg=PA1&dq=world+atlas+of+seagrasses+short&ots=wxBQHQxIJP&sig=U3kliAAUH0Jf4H-yDtfsLZ5PLzw).
 
-Hughes, A. R., Williams, S. L., Duarte, C. M., Heck, K. L., and Waycott, M. (2009). Associations of concern: declining seagrasses and threatened dependent species. <a href="https://www.disl.org/assets/uploads/publications/2009_hughes_etal_front_ecol_environ_v7.pdf">Frontiers in Ecology and the Environment 7, 242–246</a>.
+Hughes, A. R., Williams, S. L., Duarte, C. M., Heck, K. L., and Waycott, M. (2009). Associations of concern: declining seagrasses and threatened dependent species. <a href="http://www.disl.org/assets/uploads/publications/2009_hughes_etal_front_ecol_environ_v7.pdf">Frontiers in Ecology and the Environment 7, 242–246</a>.
 
 Marbà, N., Krause-Jensen, D., Alcoverro, T., Birk, S., Pedersen, A., Neto, J. M., et al. (2013). Diversity of European seagrass indicators: patterns within and across regions. Hydrobiologia 704, 265–278.
 
