@@ -4,13 +4,13 @@ title: Seagrass Quadrats
 thumbnail: seagrass_quadrat_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass_Quadrats_Protocol_v0.0.1.pdf
+  - path: MarineGEO_Seagrass_Quadrats_Protocol_v0.1.pdf
     name: Seagrass Quadrat Protocol
     icon: save_alt
-  - path: seagrass-quadrat-fieldsheet_v0.0.1.pdf
+  - path: seagrass-quadrat-fieldsheet_v0.1.pdf
     name: Seagrass Quadrat Field Data Sheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Quadrat_DataEntryTemplate_v0.0.1.xlsx
+  - path: MarineGEO_Seagrass-Quadrat_DataEntryTemplate_v0.1.0.xlsx
     name: Seagrass Quadrat Data Entry Template
     icon: save_alt
 ---
