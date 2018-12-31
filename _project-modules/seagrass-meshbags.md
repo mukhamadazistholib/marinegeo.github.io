@@ -4,13 +4,13 @@ title: Seagrass Mesh Bags
 thumbnail: seagrass_meshbags_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass_Meshbags_Protocol_v0.0.1.pdf
+  - path: MarineGEO_Seagrass_Meshbags_Protocol_v0.1.pdf
     name: Seagrass Mesh Bag Protocol
     icon: save_alt
-  - path: MeshBagDatasheet_Sieve_v0.0.1.pdf
+  - path: MeshBagDatasheet_Sieve_v0.1.pdf
     name: Seagrass Mesh Bag Sieve Lab Data Sheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna-Sieve-Tower_DataEntryTemplate_v0.0.1.xlsx
+  - path: MarineGEO_Seagrass-Epifauna-Sieve-Tower_DataEntryTemplate_v0.1.0.xlsx
     name: Seagrass Mesh Bag Sieve Tower Data Entry Template
     icon: save_alt
 ---

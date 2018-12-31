@@ -4,13 +4,13 @@ title: Seagrass Biomass Cores
 thumbnail: seagrass_biomass_cores_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass_Cores_Protocol_v0.0.1.pdf
+  - path: MarineGEO_Seagrass_Cores_Protocol_v0.1.pdf
     name: Seagrass Biomass Cores Protocol
     icon: save_alt
-  - path: BiomassCoresFieldsheet_v0.0.1.pdf
+  - path: BiomassCoresFieldsheet_v0.1.pdf
     name: Seagrass Biomass Cores Lab Data Sheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Biomass-Cores_DataEntryTemplate_v0.0.1.xlsx
+  - path: MarineGEO_Seagrass-Biomass-Cores_DataEntryTemplate_v0.1.0.xlsx
     name: Seagrass Biomass Cores Data Entry Template
     icon: save_alt
 ---

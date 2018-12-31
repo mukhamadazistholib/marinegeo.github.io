@@ -58,7 +58,7 @@ layout: base
         {% for link in page.links %}
         <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
             <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
-            <span><a href="/assets{{page.url}}/{{link.path}}" download>{{link.name}}</a></span>
+            <span><a href="/assets{{page.url}}/{{link.path}}">{{link.name}}</a></span>
             <br/>
         </li>
         {% endfor %}
