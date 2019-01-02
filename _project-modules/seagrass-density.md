@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Seagrass Quadrats
+title: Seagrass Density
 thumbnail: seagrass_quadrat_icon.png
 editbutton: true
 links:
@@ -13,6 +13,8 @@ links:
   - path: MarineGEO_Seagrass-Quadrat_DataEntryTemplate_v0.1.0.xlsx
     name: Seagrass Quadrat Data Entry Template
     icon: save_alt
+redirect_from:
+  - /modules/seagrass-quadrats/
 ---
 
 ## Overview

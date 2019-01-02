@@ -1,18 +1,20 @@
 ---
 layout: project
-title: Seagrass Beach Seine
+title: Fish Seine
 thumbnail: seagrass_seine_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Seagrass_Seines_Protocol_v0.1.pdf
-    name: Seagrass Seine Protocol
+    name: Seine Protocol
     icon: save_alt
   - path: SeagrassSeinefieldsheet_v0.1.pdf
-    name: Seagrass Seine Field Data Sheet
+    name: Seine Field Data Sheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Seine_DataEntryTemplate_v0.1.0.xlsx
-    name: Seagrass Seine Data Entry Template
+    name: Seine Data Entry Template
     icon: save_alt
+redirect_from:
+  - /modules/seagrass-seine/
 ---
 
 ## Overview
@@ -20,7 +22,7 @@ Seagrass habitats support an abundant and diverse community of animals, includin
 
 (In deeper areas with good visibility, diver visual census provides an alternative to seining (link).)
 
-![seagrass beach seine]({{site.baseurl}}/assets/modules/seagrass-seine/seagrass_seine_landing_page.jpg)
+![seagrass beach seine]({{site.baseurl}}/assets/modules/fishes-seine/seagrass_seine_landing_page.jpg)
 
 ## Measured Parameters
   - Mobile fauna abundance and taxonomic composition (individuals)

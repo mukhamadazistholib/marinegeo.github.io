@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Squidpops
-subtitle: Predation Assay
+subtitle: Assay
 thumbnail: squidpop-fish.png
 editbutton: true
 links:
@@ -14,6 +14,8 @@ links:
   - name: Squidpop Data Entry Template
     path: MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
     icon: save_alt
+redirect_from:
+  - /modules/squidpops/
 ---
 
 ## Overview

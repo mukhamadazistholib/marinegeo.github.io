@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Seagrass Mesh Bags
+title: Seagrass Epifauna
 thumbnail: seagrass_meshbags_icon.png
 editbutton: true
 links:
@@ -13,12 +13,14 @@ links:
   - path: MarineGEO_Seagrass-Epifauna-Sieve-Tower_DataEntryTemplate_v0.1.0.xlsx
     name: Seagrass Mesh Bag Sieve Tower Data Entry Template
     icon: save_alt
+redirect_from:
+  - /modules/seagrass-meshbags/
 ---
 
 ## Overview
 Seagrass meadows provide habitat structure and food, including production by associated algae, that support often dense and productive communities of small invertebrates and fishes. These small animals are key food resources for many fishes, especially juveniles, and seagrass meadows are thus important nursery habitats for harvested fish species in many regions. Mesh grab bags that are lowered over a standard area of seagrass bottom provide a low-cost but destructive way to quantify the small invertebrates (mobile epifauna) associated with seagrasses. There is also significant post-processing requires to measure the abundance, biomass, and species composition of the collected epifauna in the lab. Nevertheless, the presence and diversity of these small invertebrates appear to play a key role in supporting seagrasses by removing fouling epiphytes, especially in temperate zones, and thus sampling them is a critical component of understanding the health and functioning of seagrass ecosystems.
 
-![seagrass mesh bag]({{site.baseurl}}/assets/modules/seagrass-meshbags/seagrass_mesh_bags_landing_page.png)
+![seagrass mesh bag]({{site.baseurl}}/assets/modules/seagrass-epifauna/seagrass_mesh_bags_landing_page.png)
 
 ## Measured Parameters
   - Epifaunal taxonomic composition

@@ -2,14 +2,13 @@
 layout: project
 title: Seagrass Habitats
 modules:
-  - /modules/seagrass-quadrats
+  - /modules/seagrass-density
   - /modules/seagrass-shoots
-  - /modules/seagrass-meshbags
-  - /modules/seagrass-seine
-  - /modules/seagrass-sedimentcarbon
-  - /modules/squidpops
-  - /modules/seagrass-sediment-om
-  - /modules/seagrass-biomass-cores
+  - /modules/seagrass-epifauna
+  - /modules/fishes-seine
+  - /modules/squidpops-assay
+  - /modules/seagrass-organic-matter
+  - /modules/seagrass-biomass
 editbutton: true
 version: released
 ---
