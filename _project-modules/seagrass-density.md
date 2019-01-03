@@ -17,7 +17,7 @@ redirect_from:
 ## Overview
 The abundance and composition of seagrasses and other underwater vegetation can be quantified quickly and non-destructively on scales of m to 10s of m by measuring cover and composition of species within replicated quadrats. These measurements can then be used to scale up to the ecosystem level by connecting to measures of seagrass meadow area and extent using aerial drone or satellite imagery, which often cannot distinguish between different species on the ground. Quadrats also provide the opportunity to observe other local-scale processes that operate within beds, such as the presence of macroinvertebrates and grazing impacts by macroherbivores (e.g., manatees, sea turtles).
 
-![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-quadrats/seagrass_quadrats_landing_page.jpg)
+![Seagrass transects, Carrie Bow Cay, Belize]({{site.baseurl}}/assets/modules/seagrass-density/seagrass_quadrats_landing_page.jpg)
 
 ## Measured Parameters
   - Percent cover of each species (in 5% bins of 0.25 m<sup>2</sup>)
