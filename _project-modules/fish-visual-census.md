@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fishes Visual Census
+title: Fish Visual Census
 thumbnail: scuba-diver.png
 editbutton: true
 links:
