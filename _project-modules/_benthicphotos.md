@@ -25,9 +25,8 @@ The photo subfolder names should contain the date of transect and the location c
 
 All analysis and summary files should be saved under the analysis directory folder. The preferred file format for all files is a flattened csv with an additional metadata file.
 
-<!-- <img src="{{site.baseurl}}/assets/modules/benthicphotos/FileStructure.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/> -->
+<img src="{{site.baseurl}}/assets/modules/benthicphotos/FileStructure.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
 
-<img src="{{site.page}}/FileStructure.png" alt="Benthic photo file structure" style="width:50%; display: block; margin-left: auto; margin-right: auto; border:2px solid #021a40;"/>
 
 ### Photo Names
 
