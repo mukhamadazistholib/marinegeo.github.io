@@ -3,6 +3,10 @@ layout: project
 title: Fishes Visual Census
 thumbnail: scuba-diver.png
 editbutton: true
+links:
+  - path: MarineGEO_Fish-Visual-Census_Protocol_v0.1.0.pdf
+    name: Fish Visual Census Protocol
+    icon: save_alt
 redirect_from:
   - /modules/reef-life-survey/
 ---

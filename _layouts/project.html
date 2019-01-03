@@ -56,11 +56,19 @@ layout: base
         <div>
         <ul>
         {% for link in page.links %}
+        {% if link.path contains "http" %}
+        <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
+            <span><a href="{{link.path}}">{{link.name}}</a></span>
+            <br/>
+        </li>
+        {% else %}
         <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
             <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
             <span><a href="/assets{{page.url}}/{{link.path}}">{{link.name}}</a></span>
             <br/>
         </li>
+        {% endif %}
         {% endfor %}
       </ul>
         </div>

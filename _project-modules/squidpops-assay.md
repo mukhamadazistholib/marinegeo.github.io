@@ -1,18 +1,14 @@
 ---
 layout: project
-title: Squidpops
-subtitle: Assay
+title: Squidpops Assay
 thumbnail: squidpop-fish.png
 editbutton: true
 links:
-  - path: MarineGEO_Squidpop_Protocol_V1.0.0_JRMEdits.pdf
+  - path: MarineGEO_Squidpops-Assay_Protocol_v0.1.0.pdf
     name: Squidpop Protocol
     icon: save_alt
-  - path: "SquidpopFieldsheet _JRMedits.pdf"
+  - path: MarineGEO-Squidpop-Assay-Fieldsheet_v0.1.pdf
     name: Squidpop Field Datasheet
-    icon: save_alt
-  - name: Squidpop Data Entry Template
-    path: MarineGEO_squidpop_data_entry_template_V1.0.0_JRMedits.xlsx
     icon: save_alt
 redirect_from:
   - /modules/squidpops/

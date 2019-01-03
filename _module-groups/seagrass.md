@@ -5,7 +5,7 @@ modules:
   - /modules/seagrass-density
   - /modules/seagrass-shoots
   - /modules/seagrass-epifauna
-  - /modules/fishes-seine
+  - /modules/fish-seines
   - /modules/squidpops-assay
   - /modules/seagrass-organic-matter
   - /modules/seagrass-biomass

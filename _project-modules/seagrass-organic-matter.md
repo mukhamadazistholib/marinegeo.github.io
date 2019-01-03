@@ -4,11 +4,11 @@ title: Seagrass Organic Matter
 thumbnail: seagrass_sediment_om_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass_Sediment_OM_Protocol_v0.0.1.pdf
+  - path: MarineGEO_Sediment-Organic-Matter_Protocol_v0.1.1.pdf
     name: Seagrass Sediment Organic Matter Protocol
     icon: save_alt
-  - path: SG-OMfieldsheet_v0.0.1.pdf
-    name: Seagrass Sediment Organic Matter Lab Data Sheet
+  - path: MarineGEO_Sediment-Organic-Matter_Fieldsheet_v0.1.pdf
+    name: Seagrass Sediment Organic Matter Fieldsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-sediment-om/

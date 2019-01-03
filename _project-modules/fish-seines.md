@@ -5,10 +5,10 @@ thumbnail: fish_seine_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Fish-Seines_Protocol_v0.1.1.pdf
-    name: Seine Protocol
+    name: Fish Seines Protocol
     icon: save_alt
   - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.pdf
-    name: Seine Field Data Sheet
+    name: Fish Seines Field Data Sheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/
