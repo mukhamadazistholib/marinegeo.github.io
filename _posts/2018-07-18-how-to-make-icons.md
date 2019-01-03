@@ -54,4 +54,4 @@ Indexed image with few colors (max 2 or 3) and fill selections (Select by Color 
 
 ## 8. Export image as a .png
 
- ![Final Icon of a diver](/assets/modules/reef-life-survey/scuba-diver.png)
+ ![Final Icon of a diver](/assets/blog/2018-07-18-how-to-make-icons/scuba-diver.png)

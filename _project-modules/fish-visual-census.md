@@ -1,40 +1,17 @@
 ---
 layout: project
-title: Fishes&#58; Diver Visual Survey
+title: Fishes Visual Census
 thumbnail: scuba-diver.png
 editbutton: true
+redirect_from:
+  - /modules/reef-life-survey/
 ---
 
 ## Purpose
 
 Fishes are major players in most marine ecosystems. In clear water (>4 m visibility), MarineGEO uses the protocol of the [Reef Life Survey (RLS)](https://reeflifesurvey.com/) for quantifying the diversity, abundance, and size distributions of fishes, as well as large mobile macroinvertebrates. We also use use a variant of the RLS photoquadrat protocol for quantifying sessile benthic communities. Reef Life Survey applies globally standardized visual census methods developed over 30 years of shallow reef biodiversity research. These methods are applied by all RLS divers around the world -- on coral and rocky reefs -- and thus facilitate direct comparisons among sites surveyed using RLS protocols. Note that RLS currently requires that data collectors using these protocols be trained by approved RLS trainers in order to contribute data to the [RLS database](https://reeflifesurvey.com/reef-life-survey/survey-data/).
 
-![Survey divers]({{site.baseurl}}/assets/modules/reef-life-survey/16846974360_c7640e4beb_o.jpg)
-
-## Goal
-
-  - Obtain standardized, quantitative estimates of fish species composition, abundance, and size distribution
-
-
-## Requirements
-
-**Personnel:** 2 scientific divers trained to Reef Life Survey standards.
-
-**Time:** Preparation: training (~1 week). Field: 2 people x 0.5 days per survey. Data curation: 2 people x 1-2 hours. Note: These estimates will vary considerably depending on level of expertise, travel time to sites, local fish diversity and abundance, etc.
-
-**Frequency:** Variable (at least annually)
-
-**Materials:** scuba gear, 50-m transect tape, standard RLS data sheets on waterproof paper, underwater camera, clipboards, pencils
-
-
-## Methods
-
-Divers record fish and invertebrate species seen along 50-m underwater transects using underwater paper and a pencil. When undertaken by experienced surveyors, these methods capture data for many species frequently missed or ignored by other methods, and are cost and time-effective. In addition to recording fishes, the diverse capture standard photoquadrats of benthos and photographs of fishes that cannot be identified in the field. These methods capture most animals, plants, and algae > 2.5 cm.
-
-
-## Data curation      
-
-MarineGEO is currently adapting a data template based on the [Reef Life Survey standard data entry templates](https://reeflifesurvey.com/reef-life-survey/about-rls/methods/). Submit completed data sheet to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
+![Survey divers]({{site.baseurl}}/assets/modules/fish-visual-census/16846974360_c7640e4beb_o.jpg)
 
 
 ## Selected literature
