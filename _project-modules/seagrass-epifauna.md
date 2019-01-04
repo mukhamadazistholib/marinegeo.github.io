@@ -10,6 +10,9 @@ links:
   - path: MarineGEO_Seagrass-Epifauna_Fieldsheet_v0.1.pdf
     name: Seagrass Epifauna Fieldsheet
     icon: save_alt
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-epifauna/MarineGEO_Seagrass-Epifauna_Data-Entry-Template.xlsx
+    name: Seagrass Epifauna Data Entry Template
+    icon: save_alt
 redirect_from:
   - /modules/seagrass-meshbags/
 ---

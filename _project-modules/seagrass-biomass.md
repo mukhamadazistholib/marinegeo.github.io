@@ -10,6 +10,9 @@ links:
   - path: MarineGEO_Seagrass-Biomass_Fieldsheet_v0.1.pdf
     name: Seagrass Biomass Fieldsheet
     icon: save_alt
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-biomass/MarineGEO_Seagrass-Biomass_Data-Entry-Template.xlsx
+    name: Seagrass Biomass Data Entry Template
+    icon: save_alt
 redirect_from:
   - /modules/seagrass-biomass-cores/
 ---

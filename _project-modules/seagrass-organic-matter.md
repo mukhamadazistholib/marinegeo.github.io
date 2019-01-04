@@ -10,6 +10,9 @@ links:
   - path: MarineGEO_Sediment-Organic-Matter_Fieldsheet_v0.1.pdf
     name: Seagrass Sediment Organic Matter Fieldsheet
     icon: save_alt
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-organic-matter/MarineGEO_Seagrass-Organic-Matter_Data-Entry-Template.xlsx
+    name: Seagrass Sediment Organic Matter Data Entry Template
+    icon: save_alt
 redirect_from:
   - /modules/seagrass-sediment-om/
 ---

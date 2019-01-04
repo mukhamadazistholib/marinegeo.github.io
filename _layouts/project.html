@@ -9,30 +9,6 @@ layout: base
 
 {% include header.html type="page" %}
 
-{% if page.version != "released" %}
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Beta Version</h5>
-      </div>
-      <div class="modal-body">
-        This module is under active development. Please report any issues to marinegeo-data@si.edu.
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script type="text/javascript">
-    $(window).on('load',function(){
-        $('#exampleModal').modal('show');
-    });
-</script>
-{% endif %}
 
 <div class="container" role="main">
 

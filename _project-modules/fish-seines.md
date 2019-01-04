@@ -10,6 +10,9 @@ links:
   - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.pdf
     name: Fish Seines Field Data Sheet
     icon: save_alt
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/fish-seines/MarineGEO_Fish-Seines_Data-Entry-Template.xlsx
+    name: Fish Seines Data Entry template
+    icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/
 ---

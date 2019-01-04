@@ -10,6 +10,9 @@ links:
   - path: MarineGEO-Squidpop-Assay-Fieldsheet_v0.1.pdf
     name: Squidpop Field Datasheet
     icon: save_alt
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/squidpops-assay/MarineGEO_Squidpops-Assay_Data-Entry-Template.xlsx
+    name: Squidpop Data Entry Template
+    icon: save_alt
 redirect_from:
   - /modules/squidpops/
 ---

@@ -10,6 +10,9 @@ links:
   - path: MarineGEO_Seagrass-Density_Fieldsheet_v0.1.1.pdf
     name: Seagrass Density Fieldsheet
     icon: save_alt
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-density/MarineGEO_Seagrass-Density_Data-Entry-Template.xlsx
+    name: Seagrass Density Data Entry Template
+    icon: save_alt
 redirect_from:
   - /modules/seagrass-quadrats/
 ---
