@@ -11,12 +11,16 @@ modules:
   - /modules/seagrass-biomass
 editbutton: true
 version: released
+links:
+  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.1.0.pdf
+    name: Seagrass Habitats Survey Design
+    icon: save_alt
 ---
 
 Seagrasses are a group of 72 species of flowering plants that spend their entire lives submerged in seawater. Most seagrasses root in shallow sediment bottoms, where sufficient light penetrates to support growth — generally less than 20 meters depth and in turbid estuaries much shallower. Seagrasses are the foundation of submerged vegetated ecosystems in shallow coastal waters from the equator to high latitudes on all continents except Antarctica. Seagrass meadows are highly productive, provide important habitat for animals, including commercially important fisheries and species of concern, and are important sites of 'blue' carbon storage. Seagrass ecosystems and the services they provide are threatened by a range of interacting human activities, notably coastal development, declining water quality, invasive species, and climate warming. Thus, tracking status and trends in seagass cover and quality is an emerging priority for ocean and coastal management
 
 
-![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama]({{site.baseurl}}/assets/modules/seagrass/Seagrass_Bocas_del_Toro_Panama.jpeg)
+![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama]({{site.baseurl}}/assets/seagrass/Seagrass_Bocas_del_Toro_Panama.jpeg)
 
 MarineGEO protocols provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including the cover and physical structure of seagrass canopy, fouling load, and community structure of the epifaunal and fish communities that use seagrasses as habitat.
 
