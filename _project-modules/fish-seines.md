@@ -15,6 +15,7 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/
+eov: Fish abundance and distribution
 ---
 
 ## Overview

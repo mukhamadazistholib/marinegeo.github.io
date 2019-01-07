@@ -1,0 +1,115 @@
+{% assign sorted = site.project-modules | sort: 'title' %}
+
+{% if page.modules == "ALL" %}
+  {% assign selection = site.project-modules %}
+{% else %}
+  {% assign cor = "" | split: ',' %}
+  {% for m in page.modules.core %}
+    {% for module in sorted %}
+      {% if m == module.id %}
+        {% assign cor = cor | push: module %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% assign rec = "" | split: ',' %}
+  {% for m in page.modules.recommended %}
+    {% for module in sorted %}
+      {% if m == module.id %}
+        {% assign rec = rec | push: module %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+
+<div class="contaner">
+  <h3>Core Modules</h3>
+
+  <div class="row" style="display: flex;flex-wrap: wrap;">
+    <table class="table" style="text-align:center;">
+      <thead>
+        <tr>
+          <th scope="col">Module</th>
+          <th scope="col">Essential Ocean Variable</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for module in cor %}
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <tr>
+            <td scope="row">
+              <a href="{{site.baseurl}}{{module.url}}">
+               {% if module.thumbnail %}
+              <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 180px; position: relative; left: 50%; top: 50%; margin-left: -75px;"> -->
+              <div style="background-color: #97C8EB; border-radius: 50%; width: 80px; display:block; margin:auto;">
+                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="Module Icon"
+                class="img-responsive" style="height: 80px; position: relative; left: 50%; top: 50%; margin-left: -40px; width=100%;">
+              </div>
+              {% else %}
+              <div style="display:block; margin:auto;">
+                <img src="{{site.baseurl}}{{site.default-thumbnail}}"  alt="Default Module Icon"
+                class="img-responsive" style="height: 80px; position: relative; left: 50%; top: 50%; margin-left: -40px; width=100%;">
+              </div>
+              {% endif %}
+
+              <div>
+                      <h4 style="text-align:center; vertical-align: bottom;">{{module.title}}</h4>
+              </div>
+          </a>
+            </td>
+
+            <td style="text-align:center; vertical-align: center;">{{module.eov}}</td>
+          </tr>
+
+        </div>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="contaner">
+  <h3>Recommended Modules</h3>
+
+  <div class="row" style="display: flex;flex-wrap: wrap;">
+    <table class="table" style="text-align:center;">
+      <thead>
+        <tr>
+          <th scope="col">Module</th>
+          <th scope="col">Essential Ocean Variable</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for module in rec %}
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <tr>
+            <td scope="row">
+              <a href="{{site.baseurl}}{{module.url}}">
+               {% if module.thumbnail %}
+              <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 180px; position: relative; left: 50%; top: 50%; margin-left: -75px;"> -->
+              <div style="background-color: #97C8EB; border-radius: 50%; width: 80px; display:block; margin:auto;">
+                <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="Module Icon"
+                class="img-responsive" style="height: 80px; position: relative; left: 50%; top: 50%; margin-left: -40px; width=100%;">
+              </div>
+              {% else %}
+              <div style="display:block; margin:auto;">
+                <img src="{{site.baseurl}}{{site.default-thumbnail}}"  alt="Default Module Icon"
+                class="img-responsive" style="height: 80px; position: relative; left: 50%; top: 50%; margin-left: -40px; width=100%;">
+              </div>
+              {% endif %}
+
+              <div>
+                      <h4 style="text-align:center; vertical-align: bottom;">{{module.title}}</h4>
+              </div>
+          </a>
+            </td>
+
+            <td style="text-align:center; vertical-align: center;">{{module.eov}}</td>
+          </tr>
+
+        </div>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

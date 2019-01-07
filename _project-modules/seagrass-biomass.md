@@ -15,6 +15,7 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/seagrass-biomass-cores/
+eov: Seagrass cover and composition
 ---
 
 ## Overview
