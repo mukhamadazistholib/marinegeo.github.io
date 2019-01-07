@@ -21,11 +21,10 @@
   {% endfor %}
 {% endif %}
 
-<div class="contaner">
   <h3>Core Modules</h3>
 
   <div class="row" style="display: flex;flex-wrap: wrap;">
-    <table class="table" style="text-align:center;">
+    <table class="table" width="100%">
       <thead>
         <tr>
           <th scope="col">Module</th>
@@ -34,9 +33,8 @@
       </thead>
       <tbody>
         {% for module in cor %}
-        <div class="col-md-12 col-sm-12 col-xs-12">
           <tr>
-            <td scope="row">
+            <td scope="row" width="50%">
               <a href="{{site.baseurl}}{{module.url}}">
                {% if module.thumbnail %}
               <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 180px; position: relative; left: 50%; top: 50%; margin-left: -75px;"> -->
@@ -57,22 +55,19 @@
           </a>
             </td>
 
-            <td style="text-align:center; vertical-align: center;">{{module.eov}}</td>
+            <td height="100px" width="50%" style="text-align: center; vertical-align: center;">{{module.eov}}</td>
           </tr>
 
-        </div>
         {% endfor %}
       </tbody>
     </table>
   </div>
-</div>
 
 
-<div class="contaner">
   <h3>Recommended Modules</h3>
 
   <div class="row" style="display: flex;flex-wrap: wrap;">
-    <table class="table" style="text-align:center;">
+    <table class="table" width="100%">
       <thead>
         <tr>
           <th scope="col">Module</th>
@@ -81,9 +76,8 @@
       </thead>
       <tbody>
         {% for module in rec %}
-        <div class="col-md-12 col-sm-12 col-xs-12">
           <tr>
-            <td scope="row">
+            <td scope="row" width="50%">
               <a href="{{site.baseurl}}{{module.url}}">
                {% if module.thumbnail %}
               <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 180px; position: relative; left: 50%; top: 50%; margin-left: -75px;"> -->
@@ -104,12 +98,10 @@
           </a>
             </td>
 
-            <td style="text-align:center; vertical-align: center;">{{module.eov}}</td>
+            <td height="100px" width="50%" style="text-align: center; vertical-align: center;">{{module.eov}}</td>
           </tr>
 
-        </div>
         {% endfor %}
       </tbody>
     </table>
   </div>
-</div>

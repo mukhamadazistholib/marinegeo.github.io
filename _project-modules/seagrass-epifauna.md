@@ -15,7 +15,6 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/seagrass-meshbags/
-eov: Seagrass cover and composition
 ---
 
 ## Overview

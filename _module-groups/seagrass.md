@@ -1,14 +1,16 @@
 ---
-layout: project
+layout: group
 title: Seagrass Habitats
 modules:
-  - /modules/seagrass-density
-  - /modules/seagrass-shoots
-  - /modules/seagrass-epifauna
-  - /modules/fish-seines
-  - /modules/squidpops-assay
-  - /modules/seagrass-organic-matter
-  - /modules/seagrass-biomass
+  core:
+    - /modules/seagrass-density
+    - /modules/seagrass-shoots
+    - /modules/squidpops-assay
+  recommended:
+    - /modules/fish-seines
+    - /modules/seagrass-organic-matter
+    - /modules/seagrass-biomass
+    - /modules/seagrass-epifauna
 editbutton: true
 version: released
 links:
@@ -16,6 +18,8 @@ links:
     name: Seagrass Habitats Survey Design
     icon: save_alt
 ---
+
+# Background
 
 Seagrasses are a group of 72 species of flowering plants that spend their entire lives submerged in seawater. Most seagrasses root in shallow sediment bottoms, where sufficient light penetrates to support growth — generally less than 20 meters depth and in turbid estuaries much shallower. Seagrasses are the foundation of submerged vegetated ecosystems in shallow coastal waters from the equator to high latitudes on all continents except Antarctica. Seagrass meadows are highly productive, provide important habitat for animals, including commercially important fisheries and species of concern, and are important sites of 'blue' carbon storage. Seagrass ecosystems and the services they provide are threatened by a range of interacting human activities, notably coastal development, declining water quality, invasive species, and climate warming. Thus, tracking status and trends in seagrass cover and quality is an emerging priority for ocean and coastal management
 
