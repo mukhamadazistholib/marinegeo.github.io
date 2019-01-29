@@ -27,8 +27,8 @@ description: Tools and resources for MarineGEO datasets
 navbar-links:
   Home: ""
   Habitats:
-    - All: "modules.html"
-    - Seagrass: "seagrass.html"
+    - All: modules
+    - Seagrass: seagrass
 #    - Reef - Coral: "coral-reefs"
 #    - Reef - Rocky: "rocky-reefs"
 #    - Reef - Oyster: "oyster-reefs"
