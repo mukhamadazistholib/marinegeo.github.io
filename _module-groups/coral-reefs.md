@@ -1,17 +1,12 @@
 ---
-layout: project
-title: Coral Reefs
-thumbnail: coral_reef.png
+layout: group
+title: Coral Reef Habitats
 modules:
   core:
     - /modules/squidpops-assay
   recommended:
     - /modules/herbivory-assay
 editbutton: true
-links:
-  - path:
-    name: Coral Reef Habitats Survey Design
-    icon: save_alt
 ---
 
 # Coral Reefs
