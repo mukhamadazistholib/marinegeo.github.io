@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Coral Reefs
+thumbnail: coral_reef.png
 modules:
   - /modules/waterquality
   - /modules/reef-life-survey

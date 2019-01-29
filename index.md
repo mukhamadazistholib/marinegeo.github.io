@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home2
 title: MarineGEO
 subtitle: Protocols
 use-site-title: true

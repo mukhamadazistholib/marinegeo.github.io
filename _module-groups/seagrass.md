@@ -1,6 +1,7 @@
 ---
 layout: group
 title: Seagrass Habitats
+thumbnail: seagrass.png
 modules:
   core:
     - /modules/seagrass-density
@@ -28,7 +29,6 @@ Seagrasses are a group of >70 species of flowering plants that spend their lives
 
 ## Methods
 
-MarineGEO protocols, listed below, provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including cover and physical structure, fouling, and community composition of epifaunal animals and fishes. The data collected are meant to be inter-comparable with those of other major seagrass monitoring programs, including <a href="http://www.seagrasswatch.org/home_noG.html">Seagrass Watch</a> and <a href="http://www.seagrassnet.org/">SeagrassNet</a>. 
+MarineGEO protocols, listed below, provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including cover and physical structure, fouling, and community composition of epifaunal animals and fishes. The data collected are meant to be inter-comparable with those of other major seagrass monitoring programs, including <a href="http://www.seagrasswatch.org/home_noG.html">Seagrass Watch</a> and <a href="http://www.seagrassnet.org/">SeagrassNet</a>.
 
 Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Detailed protocols are provided in the linked modules below.
-

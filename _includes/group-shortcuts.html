@@ -1,0 +1,37 @@
+{% assign sorted = site.project-modules | sort: 'title' %}
+<h1>Habitats</h1>
+
+<!-- {% for g in site.module-groups %}
+  {% if g.modules == "ALL" %}
+    {% assign selection = selection | push: g %}
+  {% endif %}
+{% endfor %} -->
+{% assign selection = site.module-groups %}
+
+<div class="contaner">
+<div class="row" style="display: flex;flex-wrap: wrap;">
+{% for group in selection %}
+  <div class="col-md-3 col-sm-4 col-xs-6">
+  <!-- <div class="col-md-3 col-sm-4 col-xs-6" style="height: 225px;"> -->
+    <a href="{{site.baseurl}}{{group.url}}">
+         {% if group.thumbnail %}
+        <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px;"> -->
+        <!-- <div style="background-color: #97C8EB; border-radius: 50%; width: 150px; display:block; margin:auto;"> -->
+        <div style="background-color: #97C8EB; width: 150px; display:block; margin:auto;">
+          <img src="{{site.baseurl}}/assets{{group.url}}/{{group.thumbnail}}" alt="Module Icon"
+          class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px; width=100%;">
+        </div>
+        {% else %}
+        <div style="display:block; margin:auto;">
+          <img src="{{site.baseurl}}{{site.default-thumbnail}}"  alt="Default Module Icon"
+          class="img-responsive" style="height: 150px; position: relative; left: 50%; top: 50%; margin-left: -75px; width=100%;">
+        </div>
+        {% endif %}
+      <div>
+        <h4 style="text-align:center; vertical-align: bottom;">{{group.title}}</h4>
+      </div>
+    </a>
+  </div>
+{% endfor %}
+</div>
+</div>

@@ -1,0 +1,69 @@
+---
+layout: base
+---
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="/css/ribbon.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+{% include header.html type="page" %}
+
+
+<div class="container" role="main">
+
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {% if page.editbutton %}
+      <div style="padding-bottom: 30px">
+      <a target="_blank" href="{{site.github.repository_url}}/blob/{{site.branch}}/{{page.path}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me <i class="fa fa-edit"></i></a>
+      </div>
+      {% endif %}
+
+      {% if page.links %}
+
+      <div class="pagination-centered parent" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
+
+        {% if page.version != "released" %}
+        <h4 class="ribbon">Beta Version</h4>
+        {% endif %}
+
+        <h3>Quick Start</h3>
+        <div>
+        <ul>
+        {% for link in page.links %}
+        {% if link.path contains "http" %}
+        <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
+            <span><a href="{{link.path}}">{{link.name}}</a></span>
+            <br/>
+        </li>
+        {% else %}
+        <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
+            <span><a href="/assets{{page.url}}/{{link.path}}">{{link.name}}</a></span>
+            <br/>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+        </div>
+      </div>
+
+      {% else %}
+      {% endif %}
+
+      {{ content }}
+      {% if page.comments %}
+      <div class="disqus-comments">
+        {% include disqus.html %}
+      </div>
+      {% endif %}
+
+      {% if page.habitat-links %}
+        {% include group-shortcuts.html %}
+      {% endif %}
+
+    </div>
+  </div>
+</div>
