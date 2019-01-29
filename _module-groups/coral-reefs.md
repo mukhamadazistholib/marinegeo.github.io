@@ -3,11 +3,15 @@ layout: project
 title: Coral Reefs
 thumbnail: coral_reef.png
 modules:
-  - /modules/waterquality
-  - /modules/reef-life-survey
-  - /modules/squidpops
-  - /modules/benthicphotos
+  core:
+    - /modules/squidpops-assay
+  recommended:
+    - /modules/herbivory-assay
 editbutton: true
+links:
+  - path:
+    name: Coral Reef Habitats Survey Design
+    icon: save_alt
 ---
 
 # Coral Reefs
