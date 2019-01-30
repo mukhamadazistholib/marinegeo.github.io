@@ -19,3 +19,6 @@ Each module contains:
  - a PDF document that includes step-by-step methods
  - a data entry sheet to print off and bring out into the field
  - an excel workbook with built in data validation for data entry and submission
+
+### Attribution
+Many graphics courtesy of the Integration and Application Network, University of Maryland Center for Environmental Science (ian.umces.edu/symbols/).
