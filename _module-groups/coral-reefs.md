@@ -9,6 +9,8 @@ modules:
 editbutton: true
 thumbnail: coral_reef.png
 ---
+{{page.show-avatar}}
+{{layout.show-avatar}}
 
 # Coral Reefs
 

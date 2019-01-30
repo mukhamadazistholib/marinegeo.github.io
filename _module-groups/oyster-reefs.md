@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: group
 title: Oyster Reefs
 thumbnail: oyster.png
 modules:
