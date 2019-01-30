@@ -4,13 +4,13 @@ title: Herbivory Assay
 thumbnail: weedpops-icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Herbivory-Assay_Protocol_v0.1.0.pdf
+  - path: MarineGEO_Herbivory_Assay_Protocol_v0.0.4.docx
     name: Herbivory Assay Protocol
     icon: save_alt
-  - path: MarineGEO-Herbivory-Assay-Assay-Fieldsheet_v0.1.pdf
+  - path: MarineGEO-Herbivory-Assay_Fieldsheet _v0.1.0.pdf
     name: Herbivory Assay Field Datasheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/squidpops-assay/MarineGEO_Squidpops-Assay_Data-Entry-Template.xlsx
+  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/herbivory/Herbivory-Data-Entry-Template.xlsx
     name: Herbivory Assay Data Entry Template
     icon: save_alt
 redirect_from:

@@ -9,15 +9,17 @@ modules:
 editbutton: true
 thumbnail: coral_reef.png
 ---
-{{page.show-avatar}}
-{{layout.show-avatar}}
 
-# Coral Reefs
+# Background
 
-Coral reefs are the most diverse of all marine ecosystems. They teem with life, with perhaps one-quarter of all ocean species depending on reefs for food and shelter. This is a remarkable statistic when you consider that reefs cover just a tiny fraction (less than one percent) of the earth’s surface and less than two percent of the ocean bottom. Because they are so diverse, coral reefs are often called the rainforests of the sea.
+Coral reefs develop in shallow tropical waters around the calcareous structures built by coral animals that harbor photosynthesizing algal cells within their bodies. Corals thrive under conditions of high light, stable warm temperatures, clear water, low nutrient supply, and vigorous grazing that removes competing algae. Coral reefs are often referred to as 'rainforests of the sea', harboring diverse communities of all types of organisms. Coral reefs are also very important to people, providing services in the form of fisheries, shoreline protection, and tourism revenues estimated at 30 - 172 billion U.S. dollars per year. Thriving reefs require a narrow set of environmental conditions that are changing rapidly under human impact, primarily as a result of climate warming, coastal development, and overfishing.
 
-Coral reefs are also very important to people. The value of coral reefs has been estimated at 30 billion U.S. dollars and perhaps as much as 172 billion U.S. dollars each year, providing food, protection of shorelines, jobs based on tourism, and even medicines.  
 
-Unfortunately, people also pose the greatest threat to coral reefs. Overfishing and destructive fishing, pollution, warming, changing ocean chemistry, and invasive species are all taking a huge toll. In some places, reefs have been entirely destroyed, and in many places reefs today are a pale shadow of what they once were.
+![Quantifying benthic cover and herbivory at Carrie Bow Cay, Belize]({{site.baseurl}}/assets/coral-reefs/Benthicquadrat-with-weedpops_201710_Carrie-Bow-Cay_Ross-Whippo.JPG)
 
-For more information, check out the [Smithsonian's Ocean Portal page about coral reefs](https://ocean.si.edu/ocean-life/invertebrates/corals-and-coral-reefs)
+
+# Methods
+
+MarineGEO protocols, listed below, provide a standardized set of measurements for characterizing the changing structure and health of coral reef communities, including coral cover and physical structure, coral demography and disease, and community composition of corals and fishes. The data collected are meant to be inter-comparable with those of other major reef monitoring programs, including the <a href="https://www.icriforum.org/gcrmn">Global Coral Reef Monitoring Network (GCRMN)</a>,  <a href="https://reeflifesurvey.com/">Reef Life Survey</a>, and the <a href="http://www.agrra.org/">Atlantic and Gulf Rapid Reef Assessment (AGRRA)</a>.
+
+Coral reef community sampling has several components: (1) photoquadrat-based measurements of benthic species composition (corals and other sessile organisms) and percent cover; (2) rugosity or structural complexity; and (3) diver visual censuses of fishes. Detailed protocols are provided in the linked modules below.
