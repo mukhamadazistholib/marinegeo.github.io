@@ -7,6 +7,7 @@ modules:
   recommended:
     - /modules/herbivory-assay
 editbutton: true
+thumbnail: coral_reef.png
 ---
 
 # Coral Reefs

@@ -35,8 +35,8 @@ navbar-links:
 #    - Reef - Oyster: "oyster-reefs"
 #    - Mangroves: "mangroves"
 #    - Sediment: "sediment"
-  Experiments:
-    - Panamex: "panamex"
+  Projects:
+    - Panamex: "projects/panamex"
   Resources:
     - Blog: "blog"
     - Standards: "standards"
