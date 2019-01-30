@@ -23,7 +23,7 @@ Coral reefs develop in shallow tropical waters around the calcareous structures 
 
 # Methods
 
-MarineGEO protocols, listed below, provide a standardized set of measurements for characterizing the changing structure and health of coral reef communities, including coeral cover and physical structure, coral demography and disease, and community composition of corals and fishes. The data collected are meant to be inter-comparable with those of other major reef monitoring programs, including the <a href="https://www.icriforum.org/gcrmn">Global Coral Reef Monitoring Network (GCRMN)</a>,  <a href="https://reeflifesurvey.com/">Reef Life Survey</a>, and the <a href="http://www.agrra.org/">Atlantic and Gulf Rapid Reef Assessment (AGRRA)</a>.
+MarineGEO protocols, listed below, provide a standardized set of measurements for characterizing the changing structure and health of coral reef communities, including coral cover and physical structure, coral demography and disease, and community composition of corals and fishes. The data collected are meant to be inter-comparable with those of other major reef monitoring programs, including the <a href="https://www.icriforum.org/gcrmn">Global Coral Reef Monitoring Network (GCRMN)</a>,  <a href="https://reeflifesurvey.com/">Reef Life Survey</a>, and the <a href="http://www.agrra.org/">Atlantic and Gulf Rapid Reef Assessment (AGRRA)</a>.
 
 Coral reef community sampling has several components: (1) photoquadrat-based measurements of benthic species composition (corals and other sessile organisms) and percent cover; (2) rugosity or structural complexity; and (3) diver visual censuses of fishes. Detailed protocols are provided in the linked modules below.
 
