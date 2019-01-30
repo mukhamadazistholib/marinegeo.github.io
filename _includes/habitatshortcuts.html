@@ -1,12 +1,7 @@
 {% assign sorted = site.project-modules | sort: 'title' %}
 <h1>Habitats</h1>
 
-<!-- {% for g in site.module-groups %}
-  {% if g.modules == "ALL" %}
-    {% assign selection = selection | push: g %}
-  {% endif %}
-{% endfor %} -->
-{% assign selection = site.module-groups %}
+{% assign selection = site.module-groups | where_exp: "g", "g.modules != 'ALL'" %}
 
 <div class="contaner">
 <div class="row" style="display: flex;flex-wrap: wrap;">

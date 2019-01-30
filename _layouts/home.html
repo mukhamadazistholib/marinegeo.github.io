@@ -3,71 +3,67 @@ layout: base
 ---
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="/css/ribbon.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 
 {% include header.html type="page" %}
 
-<!-- <style>
-.dot {
-    height: 150px;
-    width: 150px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-}
-</style> -->
 
 <div class="container" role="main">
 
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
       {% if page.editbutton %}
       <div style="padding-bottom: 30px">
       <a target="_blank" href="{{site.github.repository_url}}/blob/{{site.branch}}/{{page.path}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me <i class="fa fa-edit"></i></a>
       </div>
       {% endif %}
 
-      {{ content }}
+      {% if page.links %}
 
+      <div class="pagination-centered parent" style="outline: 2px solid black; padding: 5px 20px 5px 20px">
 
-      {% if page.habitat-links %}
-      {% assign sorted = site.module-groups | sort: 'title' %}
-      {% assign allmodules = site.project-modules | sort: 'title' %}
-      <div class="row" style="display: flex;flex-wrap: wrap;">
-      {% for group in sorted %}
-        <div>
-        {% if group.title != "" %}
-        <h2><a href={{site.baseurl}}{{group.url}}>{{group.title}}</a></h2>
+        {% if page.version != "released" %}
+        <h4 class="ribbon">Beta Version</h4>
         {% endif %}
 
-        {% for m in group.modules %}
-        {% for module in allmodules %}
-        {% if m == module.id %}
-          <div class="col-md-3 col-sm-4 col-xs-6">
-            <a href="{{site.baseurl}}{{module.url}}">
-              <div>
-                {% if module.thumbnail %}
-                <div style="background-color: #97C8EB; border-radius: 50%; width: 75px; display:block; margin:auto;">
-                  <img src="{{site.baseurl}}/assets{{module.url}}/{{module.thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
-                </div>
-                {% else %}
-                <div style="display:block; margin:auto;">
-                  <img src="{{site.baseurl}}{{site.default-thumbnail}}" alt="module shortcut image" class="img-responsive" style="height: 75px; position: relative; left: 50%; top: 50%; margin-left: -37.5px;">
-                </div>
-                {% endif %}
-              </div>
-              <div>
-                <h4 style="text-align:center; vertical-align: bottom;">{{module.title}}</h4>
-              </div>
-            </a>
-          </div>
-          {% endif %}
+        <h3>Quick Start</h3>
+        <div>
+        <ul>
+        {% for link in page.links %}
+        {% if link.path contains "http" %}
+        <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
+            <span><a href="{{link.path}}">{{link.name}}</a></span>
+            <br/>
+        </li>
+        {% else %}
+        <li style="display: inline; list-style-position: outside; margin-left: -1.5em;">
+            <i class="material-icons" style="vertical-align: middle; padding-bottom: 5px;">{{link.icon}}</i>
+            <span><a href="/assets{{page.url}}/{{link.path}}">{{link.name}}</a></span>
+            <br/>
+        </li>
+        {% endif %}
         {% endfor %}
-      {% endfor %}
-    </div>
-      {% endfor %}
+      </ul>
+        </div>
+      </div>
+
+      {% else %}
       {% endif %}
-    </div>
+
+      {{ content }}
+      {% if page.comments %}
+      <div class="disqus-comments">
+        {% include disqus.html %}
+      </div>
+      {% endif %}
+
+      {% if page.habitat-links %}
+        {% include habitatshortcuts.html %}
+      {% endif %}
+
     </div>
   </div>
 </div>
