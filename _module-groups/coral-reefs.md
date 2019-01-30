@@ -3,6 +3,7 @@ layout: group
 title: Coral Reef Habitats
 modules:
   core:
+    - /modules/fish-visual-census
     - /modules/squidpops-assay
   recommended:
     - /modules/herbivory-assay
