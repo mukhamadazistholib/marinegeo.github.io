@@ -25,7 +25,6 @@ Herbivory -- consumption of plant or algal tissue -- is th first step in (bottom
 To get started, use the links above to download the protocol, datasheet, and data entry template files.
 
 ## Measured Parameters
-
 Feeding intensity and selectivity by mobile herbivores (primarily fishes), measured as:
   - Rate of loss of macrophyte (seagrass and macroalgal) baits after 1 hour
   - Rate of loss of macrophyte baits after 24 Hours
@@ -37,14 +36,10 @@ Feeding intensity and selectivity by mobile herbivores (primarily fishes), measu
 Use the data entry template to transfer data from the field datasheets into Excel and then submit data to <a href="mailto:marinegeo-data@si.edu">marinegeo-data@si.edu</a>.
 
 
-## Additional Resources
-
-
-### Tutorial Video
-
-
 ### Selected literature
 
-Rasher, D.B., Hoey, A.S. and Hay, M.E., 2013. Consumer diversity interacts with prey defenses to drive ecosystem function. <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-0389.1">Ecology 94:1347-1358</a>
+Hay, M.E., 1981. Spatial patterns of grazing intensity on a Caribbean barrier reef: herbivory and algal distribution. <a href="https://www.sciencedirect.com/science/article/pii/0304377081900516">Aquatic botany 11:97-109</a>.
+
+Rasher, D.B., Hoey, A.S. and Hay, M.E., 2013. Consumer diversity interacts with prey defenses to drive ecosystem function. <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-0389.1">Ecology 94:1347-1358</a>.
 
 .
