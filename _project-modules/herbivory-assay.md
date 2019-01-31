@@ -19,10 +19,10 @@ redirect_from:
 
 # Background
 
-Herbivory -- consumption of plant or algal tissue -- is th first step in (bottom-up) transfer of primary production up the food chain, and often has important (top-down) effects on the biomass and species composition of benthic communities. This protocol provides a simple, standard method to quantify the relative intensity and selectivity of feeding by herbivores in a manner that is comparable across sites and conditions. Because plant baits are presented suspended above the substratum, the method is most useful in tropical habitats where fishes are the main herbivores.  
-
+Herbivory -- consumption of plant or algal tissue -- is the first step in (bottom-up) transfer of primary production up the food chain, and often has important (top-down) effects on the biomass and species composition of benthic communities. This protocol provides a simple, standard method to quantify the relative intensity and selectivity of feeding by herbivores in a manner comparable across sites and conditions. Because the plant baits are suspended above the substratum, the method is most useful in tropical habitats where fishes are the main herbivores.  
 
 To get started, use the links above to download the protocol, datasheet, and data entry template files.
+
 
 ## Measured Parameters
 Feeding intensity and selectivity by mobile herbivores (primarily fishes), measured as:
