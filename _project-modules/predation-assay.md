@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Predation Assay Assay
+title: Predation Assay
 thumbnail: squidpop-fish.png
 editbutton: true
 links:
