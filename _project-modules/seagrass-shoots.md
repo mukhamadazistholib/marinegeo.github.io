@@ -13,7 +13,7 @@ links:
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-shoots/MarineGEO_Seagrass-Shoots_Data-Entry-Template.xlsx
     name: Seagrass Shoots Data Entry Template
     icon: save_alt
-eov: Seagrass cover and composition
+eov: Leaf characteristics, production
 ---
 
 ## Overview
