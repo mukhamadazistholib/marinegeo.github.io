@@ -19,4 +19,4 @@ Project modules are packages that contain complete instructions for deploying ex
 
 ### Attribution
 
-Photos courtesy of our MarineGEO partners (including Ross Whippo, Scott Ling, Chris Patrick). Graphics courtesy of the Integration and Application Network, University of Maryland Center for Environmental Science (ian.umces.edu/symbols/).
+Photos courtesy of our MarineGEO partners (including Ross Whippo, Scott Ling, Chris Patrick). Graphics courtesy of the Integration and Application Network, University of Maryland Center for Environmental Science (https://ian.umces.edu/symbols/).
