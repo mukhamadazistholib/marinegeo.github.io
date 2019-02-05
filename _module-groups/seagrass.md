@@ -6,10 +6,10 @@ modules:
   core:
     - /modules/seagrass-density
     - /modules/seagrass-shoots
-    - /modules/squidpops-assay
+    - /modules/predation-assay
   recommended:
     - /modules/fish-seines
-    - /modules/seagrass-organic-matter
+    - /modules/sediment-organic-matter
     - /modules/seagrass-biomass
     - /modules/seagrass-epifauna
 editbutton: true

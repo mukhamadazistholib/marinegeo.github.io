@@ -1,17 +1,17 @@
 ---
 layout: project
-title: Squidpops Assay
+title: Predation Assay Assay
 thumbnail: squidpop-fish.png
 editbutton: true
 links:
   - path: MarineGEO_Squidpops-Assay_Protocol_v0.1.0.pdf
-    name: Squidpop Protocol
+    name: Predation Assay Protocol
     icon: save_alt
   - path: MarineGEO-Squidpop-Assay-Fieldsheet_v0.1.pdf
-    name: Squidpop Field Datasheet
+    name: Predation Assay Field Datasheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/squidpops-assay/MarineGEO_Squidpops-Assay_Data-Entry-Template.xlsx
-    name: Squidpop Data Entry Template
+    name: Predation Assay Data Entry Template
     icon: save_alt
 redirect_from:
   - /modules/squidpops/
@@ -19,7 +19,7 @@ redirect_from:
 
 ## Overview
 
-Squidpops provide a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions.
+'Squidpops' provide a simple, quick, standardized assay of fish predation intensity. Fish predation is important in nearly all marine ecosystems as it structures communities and is how production moves up the food web. The goal of this protocol is to establish a simple, standard method to quantify the relative intensity of feeding by generalist predators that is comparable across a wide range of sites and conditions.
 
 To get started, use the links above to download the protocol, datasheet, and data entry template files.
 
@@ -50,11 +50,11 @@ Use the data entry template to transfer data from the field datasheets into Exce
 
 Duffy, J. E., S. L. Ziegler, J. E. Campbell, P. M. Bippus, and J. S. Lefcheck. 2015. Squidpops: A Simple Tool to Crowdsource a Global Map of Marine Predation Intensity. <a href="https://doi.org/10.1371/journal.pone.0142994">PLoS ONE 10:e0142994</a>.
 
-Gauff, R. P. M., S. Bejarano, H. H. Madduppa, B. Subhan, E. M. A. Dugény, Y. A. Perdana, and S. C. A. Ferse. 2018. Influence of predation risk on the sheltering behaviour of the coral-dwelling damselfish, *Pomacentrus moluccensis*. <a href="https://link.springer.com/content/pdf/10.1007%2Fs10641-018-0725-3.pdf">Environmental Biology of Fishes 101:639–651</a>.
+Gauff, R. P. M., S. Bejarano, H. H. Madduppa, B. Subhan, E. M. A. Dugény, Y. A. Perdana, and S. C. A. Ferse. 2018. Influence of predation risk on the sheltering behaviour of the coral-dwelling damselfish, *Pomacentrus moluccensis*. <a href="https://link.springer.com/content/pdf/10.1007%2Fs10641-018-0725-3.pdf">Environmental Biology of Fishes 101:639-651</a>.
 
 Gross, C., C. Donoghue, C. Pruitt, A. C. Trimble, and J. L. Ruesink. 2017. Taxonomic and functional assessment of mesopredator diversity across an estuarine habitat mosaic. <a href="http://doi.wiley.com/10.1002/ecs2.1792">Ecosphere 8:e01792</a>.
 
-Gusmao, J. B., M. R. Lee, I. MacDonald, N. C. Ory, J. Sellanes, Les Watling, and M. Thiel. 2018. No reef-associated gradient in the infaunal communities of Rapa Nui (Easter Island) – Are oceanic waves more important than reef predators? <a href="https://doi.org/10.1016/j.ecss.2018.06.019">Estuarine Coastal and Shelf Science 210:123–131</a>.
+Gusmao, J. B., M. R. Lee, I. MacDonald, N. C. Ory, J. Sellanes, Les Watling, and M. Thiel. 2018. No reef-associated gradient in the infaunal communities of Rapa Nui (Easter Island): Are oceanic waves more important than reef predators? <a href="https://doi.org/10.1016/j.ecss.2018.06.019">Estuarine Coastal and Shelf Science 210:123-131</a>.
 
 Lefcheck, J. S., S. J. Brandl, P. L. Reynolds, A. R. Smyth, and S. T. Meyer. 2016. Extending Rapid Ecosystem Function Assessments to Marine Ecosystems: A Reply to Meyer. <a href="http://dx.doi.org/10.1016/j.tree.2016.02.002">Trends in ecology & evolution 31:251–253</a>.
 

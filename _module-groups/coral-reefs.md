@@ -4,7 +4,7 @@ title: Coral Reef Habitats
 modules:
   core:
     - /modules/visual-census
-    - /modules/squidpops-assay
+    - /modules/predation-assay
   recommended:
     - /modules/herbivory-assay
 editbutton: true
