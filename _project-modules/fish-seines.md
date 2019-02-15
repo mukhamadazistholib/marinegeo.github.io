@@ -4,7 +4,7 @@ title: Fish Seines
 thumbnail: fish_seine_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Fish_Seines_Protocol_v0.1.3
+  - path: MarineGEO_Fish_Seines_Protocol_v0.1.3.pdf
     name: Fish Seines Protocol
     icon: save_alt
   - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.pdf
