@@ -4,10 +4,10 @@ title: Seagrass Density
 thumbnail: seagrass_quadrat_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Density_Protocol_v0.1.1.pdf
+  - path: MarineGEO_Seagrass-Density_Protocol_v0.1.3.pdf
     name: Seagrass Density Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Density_Fieldsheet_v0.1.1.pdf
+  - path: MarineGEO_Seagrass-Density_Fieldsheet_v0.1.2.pdf
     name: Seagrass Density Fieldsheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-density/MarineGEO_Seagrass-Density_Data-Entry-Template.xlsx

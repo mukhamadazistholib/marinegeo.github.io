@@ -4,10 +4,10 @@ title: Sediment Organic Matter
 thumbnail: sediment_om_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Sediment-Organic-Matter_Protocol_v0.1.1.pdf
+  - path: MarineGEO_Sediment-Organic-Matter_Protocol_v0.1.3.pdf
     name: Sediment Organic Matter Protocol
     icon: save_alt
-  - path: MarineGEO_Sediment-Organic-Matter_Fieldsheet_v0.1.pdf
+  - path: MarineGEO_Sediment-Organic-Matter_Fieldsheet_v0.1.1.pdf
     name: Sediment Organic Matter Fieldsheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-organic-matter/MarineGEO_Seagrass-Organic-Matter_Data-Entry-Template.xlsx
@@ -15,6 +15,7 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/seagrass-sediment-om/
+eov: Ecosystem functioning
 ---
 
 ## Overview

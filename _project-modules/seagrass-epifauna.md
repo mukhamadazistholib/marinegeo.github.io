@@ -4,10 +4,10 @@ title: Seagrass Epifauna
 thumbnail: seagrass_meshbags_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Epifauna_Protocol_v0.1.1.pdf
+  - path: MarineGEO_Seagrass-Epifauna_Protocol_v0.1.3.pdf
     name: Seagrass Epifauna Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna_Fieldsheet_v0.1.pdf
+  - path: MarineGEO_Seagrass-Epifauna_ComboFieldsheet_v0.1.1.pdf
     name: Seagrass Epifauna Fieldsheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-epifauna/MarineGEO_Seagrass-Epifauna_Data-Entry-Template.xlsx

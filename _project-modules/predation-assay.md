@@ -4,10 +4,10 @@ title: Predation Assay
 thumbnail: squidpops_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Squidpops-Assay_Protocol_v0.1.0.pdf
+  - path: MarineGEO_Predation-Assay_Protocol_v0.1.3.pdf
     name: Predation Assay Protocol
     icon: save_alt
-  - path: MarineGEO-Squidpop-Assay-Fieldsheet_v0.1.pdf
+  - path: MarineGEO_Predation-Assay_Fieldsheet_v0.1.0.pdf
     name: Predation Assay Field Datasheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/squidpops-assay/MarineGEO_Squidpops-Assay_Data-Entry-Template.xlsx
@@ -15,6 +15,8 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/squidpops/
+eov: Ecosystem functioning
+
 ---
 
 ## Overview

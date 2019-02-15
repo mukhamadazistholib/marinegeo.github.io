@@ -4,12 +4,12 @@ title: Visual Census
 thumbnail: scuba-diver.png
 editbutton: true
 links:
-  - path: MarineGEO_Visual-Census_Protocol_v0.1.0.pdf
+  - path: MarineGEO_Visual-Census_Protocol_v0.1.3.pdf
     name: Visual Census Protocol
     icon: save_alt
 redirect_from:
   - /modules/reef-life-survey/
-eov: Fish abundance and distribution, benthic cover
+eov: Fish abundance and distribution
 ---
 
 ## Purpose

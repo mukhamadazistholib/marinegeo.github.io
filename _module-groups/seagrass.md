@@ -9,12 +9,13 @@ modules:
     - /modules/predation-assay
   recommended:
     - /modules/fish-seines
+    - /modules/visual-census
     - /modules/sediment-organic-matter
     - /modules/seagrass-biomass
     - /modules/seagrass-epifauna
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.1.1.pdf
+  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.1.3.pdf
     name: Seagrass Habitats Survey Design
     icon: save_alt
 ---

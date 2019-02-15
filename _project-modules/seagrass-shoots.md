@@ -4,16 +4,16 @@ title: Seagrass Shoots
 thumbnail: seagrass_shoots_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Shoots_Protocol_v0.1.1.pdf
+  - path: MarineGEO_Seagrass-Shoots_Protocol_v0.1.3.pdf
     name: Seagrass Shoots Protocol
     icon: save_alt
-  - path: MarineGEO-Seagrass-Shoots_Fieldsheet_v0.1.1.pdf
+  - path: MarineGEO-Seagrass-Shoots_Fieldsheet_v0.1.2.pdf
     name: Seagrass Shoots Fieldsheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-shoots/MarineGEO_Seagrass-Shoots_Data-Entry-Template.xlsx
     name: Seagrass Shoots Data Entry Template
     icon: save_alt
-eov: Leaf characteristics, production
+eov: Primary production; ecosystem functioning
 ---
 
 ## Overview
