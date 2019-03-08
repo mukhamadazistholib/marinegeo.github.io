@@ -11,7 +11,7 @@ links:
     name: Sediment Organic Matter Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Organic-Matter_Spreadsheet_v0.2.1.xlsx
-    name: Sediment Organic Matter Data Entry Template
+    name: Sediment Organic Matter Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-sediment-om/

@@ -11,7 +11,7 @@ links:
     name: Seagrass Density Field Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Density_Spreadsheet_v0.2.1.xlsx
-    name: Seagrass Density Data Entry Template
+    name: Seagrass Density Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-quadrats/

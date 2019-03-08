@@ -11,7 +11,7 @@ links:
     name: Fish Seines Field Datasheet
     icon: save_alt
   - path: MarineGEO_Fish-Seines_Spreadsheet_v0.2.1.xlsx
-    name: Fish Seines Data Entry template
+    name: Fish Seines Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/

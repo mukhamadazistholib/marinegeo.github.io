@@ -11,7 +11,7 @@ links:
     name: Herbivory Assay Field Datasheet
     icon: save_alt
   - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/herbivory/Herbivory-Data-Entry-Template.xlsx
-    name: Herbivory Assay Data Entry Template
+    name: Herbivory Assay Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/squidpops/

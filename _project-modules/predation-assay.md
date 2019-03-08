@@ -11,7 +11,7 @@ links:
     name: Predation Assay Field Datasheet
     icon: save_alt
   - path: MarineGEO_Predation-Assay_Spreadsheet_v0.2.1.xlsx
-    name: Predation Assay Data Entry Template
+    name: Predation Assay Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/squidpops/

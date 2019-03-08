@@ -11,7 +11,7 @@ links:
     name: Seagrass Biomass Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Biomass_Spreadsheet_v0.2.1.xlsx
-    name: Seagrass Biomass Data Entry Template
+    name: Seagrass Biomass Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-biomass-cores/

@@ -11,7 +11,7 @@ links:
     name: Seagrass Epifauna Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.2.1.xlsx
-    name: Seagrass Epifauna Data Entry Template
+    name: Seagrass Epifauna Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-meshbags/
