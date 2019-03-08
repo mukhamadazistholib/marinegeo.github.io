@@ -8,14 +8,14 @@ links:
     name: Seagrass Biomass Cores Protocol
     icon: save_alt
   - path: MarineGEO_Seagrass-Biomass_Fieldsheet_v0.1.1.pdf
-    name: Seagrass Biomass Fieldsheet
+    name: Seagrass Biomass Lab Datasheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-biomass/MarineGEO_Seagrass-Biomass_Data-Entry-Template.xlsx
+  - path: MarineGEO_Seagrass-Biomass_Spreadsheet_v0.2.1.xlsx
     name: Seagrass Biomass Data Entry Template
     icon: save_alt
 redirect_from:
   - /modules/seagrass-biomass-cores/
-eov: Seagrass cover and composition
+eov: Ecosystem structure; ecosystem function
 ---
 
 ## Overview

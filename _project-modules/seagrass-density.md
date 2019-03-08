@@ -8,14 +8,14 @@ links:
     name: Seagrass Density Protocol
     icon: save_alt
   - path: MarineGEO_Seagrass-Density_Fieldsheet_v0.1.2.pdf
-    name: Seagrass Density Fieldsheet
+    name: Seagrass Density Field Datasheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-density/MarineGEO_Seagrass-Density_Data-Entry-Template.xlsx
+  - path: MarineGEO_Seagrass-Density_Spreadsheet_v0.2.1.xlsx
     name: Seagrass Density Data Entry Template
     icon: save_alt
 redirect_from:
   - /modules/seagrass-quadrats/
-eov: Seagrass cover and composition
+eov: Community composition; ecosystem structure
 ---
 
 ## Overview

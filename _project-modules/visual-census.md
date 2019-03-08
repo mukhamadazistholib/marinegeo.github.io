@@ -9,7 +9,7 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/reef-life-survey/
-eov: Fish abundance and distribution
+eov: Species populations; species traits; community composition
 ---
 
 ## Purpose

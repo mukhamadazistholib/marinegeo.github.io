@@ -10,12 +10,12 @@ links:
   - path: MarineGEO_Predation-Assay_Fieldsheet_v0.1.0.pdf
     name: Predation Assay Field Datasheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/squidpops-assay/MarineGEO_Squidpops-Assay_Data-Entry-Template.xlsx
+  - path: MarineGEO_Predation-Assay_Spreadsheet_v0.2.1.xlsx
     name: Predation Assay Data Entry Template
     icon: save_alt
 redirect_from:
   - /modules/squidpops/
-eov: Ecosystem functioning
+eov: Ecosystem function
 
 ---
 

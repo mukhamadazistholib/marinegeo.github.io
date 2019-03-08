@@ -8,14 +8,14 @@ links:
     name: Fish Seines Protocol
     icon: save_alt
   - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.pdf
-    name: Fish Seines Field Data Sheet
+    name: Fish Seines Field Datasheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/fish-seines/MarineGEO_Fish-Seines_Data-Entry-Template.xlsx
+  - path: MarineGEO_Fish-Seines_Spreadsheet_v0.2.1.xlsx
     name: Fish Seines Data Entry template
     icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/
-eov: Fish abundance and distribution
+eov: Species populations; species trits; community composition
 ---
 
 ## Overview

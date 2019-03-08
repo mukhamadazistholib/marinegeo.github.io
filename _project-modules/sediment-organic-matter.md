@@ -10,12 +10,12 @@ links:
   - path: MarineGEO_Sediment-Organic-Matter_Fieldsheet_v0.1.1.pdf
     name: Sediment Organic Matter Fieldsheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-organic-matter/MarineGEO_Seagrass-Organic-Matter_Data-Entry-Template.xlsx
+  - path: MarineGEO_Seagrass-Organic-Matter_Spreadsheet_v0.2.1.xlsx
     name: Sediment Organic Matter Data Entry Template
     icon: save_alt
 redirect_from:
   - /modules/seagrass-sediment-om/
-eov: Ecosystem functioning
+eov: Ecosystem structure
 ---
 
 ## Overview

@@ -1,21 +1,21 @@
 ---
 layout: project
 title: Seagrass Epifauna
-thumbnail: seagrass_meshbags_icon.png
+thumbnail: seagrass_epifauna_icon.png
 editbutton: true
 links:
   - path: MarineGEO_Seagrass-Epifauna_Protocol_v0.1.3.pdf
     name: Seagrass Epifauna Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna_ComboFieldsheet_v0.1.1.pdf
-    name: Seagrass Epifauna Fieldsheet
+  - path: MarineGEO_Seagrass-Epifauna_Fieldsheet_v0.1.1.pdf
+    name: Seagrass Epifauna Lab datasheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-epifauna/MarineGEO_Seagrass-Epifauna_Data-Entry-Template.xlsx
+  - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.2.1.xlsx
     name: Seagrass Epifauna Data Entry Template
     icon: save_alt
 redirect_from:
   - /modules/seagrass-meshbags/
-eov: Secondary production
+eov: Species populations; community composition; Ecosystem structure; ecosystem function
 ---
 
 ## Overview

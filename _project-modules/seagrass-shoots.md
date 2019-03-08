@@ -10,10 +10,10 @@ links:
   - path: MarineGEO-Seagrass-Shoots_Fieldsheet_v0.1.2.pdf
     name: Seagrass Shoots Fieldsheet
     icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/seagrass-shoots/MarineGEO_Seagrass-Shoots_Data-Entry-Template.xlsx
+  - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.2.1.xlsx
     name: Seagrass Shoots Data Entry Template
     icon: save_alt
-eov: Primary production; ecosystem functioning
+eov: Ecosystem structure; ecosystem function
 ---
 
 ## Overview
