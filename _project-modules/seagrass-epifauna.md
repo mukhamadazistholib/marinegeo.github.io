@@ -8,7 +8,7 @@ links:
     name: Seagrass Epifauna Protocol
     icon: save_alt
   - path: MarineGEO_Seagrass-Epifauna_Fieldsheet_v0.1.1.pdf
-    name: Seagrass Epifauna Lab datasheet
+    name: Seagrass Epifauna Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.2.1.xlsx
     name: Seagrass Epifauna Data Entry Template

@@ -8,7 +8,7 @@ links:
     name: Seagrass Shoots Protocol
     icon: save_alt
   - path: MarineGEO-Seagrass-Shoots_Fieldsheet_v0.1.2.pdf
-    name: Seagrass Shoots Fieldsheet
+    name: Seagrass Shoots Lab datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.2.1.xlsx
     name: Seagrass Shoots Data Entry Template
