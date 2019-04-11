@@ -9,6 +9,7 @@ modules:
     - /modules/predation-assay
   recommended:
     - /modules/fish-seines
+    - /modules/fish-trawls
     - /modules/visual-census
     - /modules/sediment-organic-matter
     - /modules/seagrass-biomass
