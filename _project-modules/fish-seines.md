@@ -4,22 +4,26 @@ title: Fish Seines
 thumbnail: fish_seine_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Fish_Seines_Protocol_v0.1.3.pdf
+  - path: MarineGEO_Fish_Seines_Protocol_v0.1.4.pdf
     name: Fish Seines Protocol
     icon: save_alt
-  - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.pdf
+  - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.2.pdf
     name: Fish Seines Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Fish-Seines_Spreadsheet_v0.2.1.xlsx
+  - path: MarineGEO_Fish-Seines_Spreadsheet_v0.2.2.xlsx
     name: Fish Seines Data Spreadsheet
     icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/
-eov: Species populations; species trits; community composition
+eov: Species populations; species traits; community composition
 ---
 
 ## Overview
-Seagrass habitats support an abundant and diverse community of animals, including [small invertebrate epifauna](https://marinegeo.github.io/modules/seagrass-meshbags), larger macroinvertebrates and fishes, and in some regions sea turtles and marine mammals (manatees and dugongs). Larger animals can play important roles in altering habitat structure, community structure, and ecosystem processes in seagrass beds, and are key in transporting production from seagrass meadows into other habitats. Furthermore, seagrass meadows serve as a key 'nursery' habitats for juveniles of many fish species and can thus support coastal fisheries. Sampling large, mobile organisms in seagrass beds is challenging because of wide variation among regions in depth, water clarity, and physical setting of seagrass meadows. This protocol focuses on shallow, accessible subtidal seagrass meadows, where beach seines provide a rapid, standardized and efficient way to sample smaller fishes. Sieve sampling can be non-destructive when done carefully and efficiently, as animals are quickly returned to the water. Thus, seines provide a simple and useful tool for sampling fishes and mobile macroinvertebrates in seagrass meadows. In deeper areas with good visibility, [diver visual census](visual-census) provides an alternative to seining.
+Subtidal habitats support an abundant and diverse community of animals, including [small invertebrate epifauna](https://marinegeo.github.io/modules/seagrass-meshbags), larger macroinvertebrates and fishes, and in some regions sea turtles and marine mammals (manatees and dugongs). Larger animals can play important roles in altering habitat structure, community structure, and ecosystem processes, and are key in transporting production from submersed habitats into other habitats. Furthermore, structured habitats like seagrasses serve as a key 'nursery' habitats for juveniles of many fish species and can thus support coastal fisheries.
+
+Sampling large, mobile organisms in submersed habitats is challenging because of wide variation among regions in depth, water clarity, and physical setting. This protocol focuses on shallow, accessible subtidal or intertidal habitats like seagrass meadows and oyster reefs, where beach seines can provide a rapid, standardized and efficient way to sample smaller fishes. Seine sampling can be non-destructive when done carefully and efficiently, as animals are quickly returned to the water. Thus, seines provide a simple and useful tool for sampling fishes and mobile macroinvertebrates in a variety of habitat types.
+
+In deeper areas with good visibility, [diver visual census](visual-census) provides an alternative to seining.
 
 ![seagrass beach seine]({{site.baseurl}}/assets/modules/fish-seines/fish_seine_landing_page.jpg)
 
