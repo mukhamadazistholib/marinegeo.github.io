@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: group
 title: Seagrass Food Webs
 editbutton: true
 links:
