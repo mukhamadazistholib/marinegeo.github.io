@@ -1,10 +1,10 @@
 ---
 layout: project
-title: 2019 Seagrass Food Webs
+title: Seagrass Food Webs
 editbutton: true
 links:
-  -path: MarineGEO_2019_Seagrass_Food_Webs
-   name: Seagrass Food Webs
+  -path: /assets/seagrass-food-webs/MarineGEO_2019_Seagrass_Food_Webs.pdf
+   name: Seagrass Food Webs Overview
    icon: save_alt
 ---
 
