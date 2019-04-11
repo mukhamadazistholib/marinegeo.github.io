@@ -37,6 +37,7 @@ navbar-links:
 #    - Sediment: "sediment"
   Projects:
     - Panamex: "projects/panamex"
+    - Seagrass Food Webs (2019): "projects/seagrass-food-webs"
   Resources:
     - Blog: "blog"
     - Standards: "standards"
