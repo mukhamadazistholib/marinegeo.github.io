@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2019 Seagrass Food Webs Project - Call for Partners
+title: 2019 Seagrass Food Webs Project
 editbutton: true
 links:
   - path: MarineGEO_2019_Seagrass_Food_Webs_Proposal.pdf
@@ -44,6 +44,6 @@ MarineGEO further commits to preparing the first manuscript for peer-reviewed pu
 
 ## Methods
 
-See [*Seagrass Food Webs Proposal*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass_Food_Webs.pdf) for more information on the approach and hypotheses.
+See [*Seagrass Food Webs Proposal*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass_Food_Webs_Proposal.pdf) for more information on the approach and hypotheses.
 
 See [*Seagrass Food Webs Methods*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.1.pdf) above for more information on methods and required infrastructure.
