@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2019 Seagrass Food Webs Project: Call for Partners
+title: 2019 Seagrass Food Webs Project - Call for Partners
 editbutton: true
 links:
   - path: MarineGEO_2019_Seagrass_Food_Webs_Proposal.pdf
