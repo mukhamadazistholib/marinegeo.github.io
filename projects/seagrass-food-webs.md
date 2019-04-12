@@ -3,8 +3,11 @@ layout: project
 title: Seagrass Food Webs
 editbutton: true
 links:
-  - path: MarineGEO_2019_Seagrass_Food_Webs.pdf
+  - path: MarineGEO_2019_Seagrass_Food_Webs_Proposal.pdf
     name: Seagrass Food Webs Proposal
+    icon: save_alt
+  - path: MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.1.pdf
+    name: Seagrass Food Webs Methods
     icon: save_alt
 ---
 
@@ -26,4 +29,4 @@ See *Seagrass Food Webs Methods* above for more information on methods and requi
 
 ## How to Join
 
-Email [Jon Lefcheck](mailto:lefcheckj@si.edu) with the subject line "MarineGEO Seagrass Food Webs" to indicate your participation, and to begin the onboarding process.
+Email [Jon Lefcheck](mailto:lefcheckj@si.edu?subject=MarineGEO%20Seagrass%20Food%20Webs) with the subject line "MarineGEO Seagrass Food Webs" to indicate your participation, and to begin the onboarding process.
