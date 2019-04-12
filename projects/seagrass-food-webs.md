@@ -25,7 +25,7 @@ Smithsonian MarineGEO commits to provide: coordination in the form of participan
 
 See [*Seagrass Food Webs Proposal*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass_Food_Webs.pdf) for more information on the approach and hypotheses.
 
-See *Seagrass Food Webs Methods* above for more information on methods and required infrastructure.
+See [*Seagrass Food Webs Methods*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.1.pdf) above for more information on methods and required infrastructure.
 
 ## How to Join
 
