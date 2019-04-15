@@ -19,7 +19,7 @@ Seagrasses are essential coastal habitats that support diverse and productive fo
 
 We propose a collaborative survey coordinated by the [Smithsonian Institution’s MarineGEO program](https://marinegeo.si.edu/) as its 2019 Annual Research Campaign, and leveraging standardized approaches to characterize the rich flora and fauna of seagrass beds around the world. We will use these data to construct simple food webs, apply a novel framework to estimate energy fluxes among trophic levels, and associate these with hypothesized abiotic and biotic drivers, especially biodiversity.
 
-The proposed work will lead to one or more peer-reviewed manuscripts (including all participants as co-authors, to be submitted within one year of fieldwork) that will strongly enhance and generalize our understanding of seagrass ecosystem dynamics.
+The proposed work will lead to one or more peer-reviewed manuscripts (including all participants as co-authors, to be submitted within one year of completion of all fieldwork) that will strongly enhance and generalize our understanding of seagrass ecosystem dynamics.
 
 ## How to Join
 
