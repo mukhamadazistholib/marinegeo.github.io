@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Water-Quality_Fieldsheet_v0.1.0.pdf
     name: Water Quality Fieldsheet
     icon: save_alt
-  - path: MarineGEO_Water-Quality_Spreadsheet_v0.1.0.pdf
+  - path: MarineGEO_Water-Quality_Spreadsheet_v0.1.0.xlsx
     name: Water Quality Data Spreadsheet
     icon: save_alt
 eov:
