@@ -13,7 +13,7 @@ links:
   - path: MarineGEO_Water-Quality_Spreadsheet_v0.1.0.xlsx
     name: Water Quality Data Spreadsheet
     icon: save_alt
-eov:
+eov: Environment
 ---
 
 ## Overview
