@@ -19,6 +19,8 @@ eov: Ecosystem structure; ecosystem function
 ## Overview
 Macroalgae, both drift and attached, can have negative interactions with seagrass by competing for light and nutrients, and by shading the seafloor. It is also an indicator of nutrient status and coastal eutrophication. This protocol provides estimates of macroalgal biomass per unit area.
 
+![seagrass mesh bag]({{site.baseurl}}/assets/modules/seagrass-macroalgae/seagrass_macroalgae_landing_page.png)
+
 ### Measured Parameters
   - Macroalgal wet weight (mg)
   - Macroalgal dry weight (mg)
