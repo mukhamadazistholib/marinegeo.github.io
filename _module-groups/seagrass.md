@@ -7,6 +7,7 @@ modules:
     - /modules/seagrass-density
     - /modules/seagrass-shoots
     - /modules/predation-assay
+    - /modules/waterquality
   recommended:
     - /modules/fish-seines
     - /modules/fish-trawls
@@ -16,7 +17,7 @@ modules:
     - /modules/seagrass-epifauna
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.1.3.pdf
+  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.1.4.pdf
     name: Seagrass Habitats Survey Design
     icon: save_alt
 ---
