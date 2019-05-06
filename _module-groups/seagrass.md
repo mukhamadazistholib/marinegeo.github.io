@@ -5,6 +5,7 @@ thumbnail: seagrass.png
 modules:
   core:
     - /modules/seagrass-density
+    - /modules/seagrass-macroalgae
     - /modules/seagrass-shoots
     - /modules/predation-assay
     - /modules/water-quality
