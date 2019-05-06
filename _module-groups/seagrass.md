@@ -7,7 +7,7 @@ modules:
     - /modules/seagrass-density
     - /modules/seagrass-shoots
     - /modules/predation-assay
-    - /modules/waterquality
+    - /modules/water-quality
   recommended:
     - /modules/fish-seines
     - /modules/fish-trawls
