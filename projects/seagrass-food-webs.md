@@ -3,10 +3,10 @@ layout: project
 title: 2019 Seagrass Food Webs
 editbutton: true
 links:
-  - path: MarineGEO_2019_Seagrass_Food_Webs_Proposal.pdf
+  - path: MarineGEO_2019_Seagrass_Food_Webs_Proposal_v0.0.2.pdf
     name: Seagrass Food Webs Proposal
     icon: save_alt
-  - path: MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.1.pdf
+  - path: MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.2.pdf
     name: Seagrass Food Webs Methods
     icon: save_alt
 ---
@@ -44,6 +44,6 @@ MarineGEO further commits to preparing the first manuscript for peer-reviewed pu
 
 ## Methods
 
-See [*Seagrass Food Webs Proposal*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass_Food_Webs_Proposal.pdf) for more information on the approach and hypotheses.
+See [*Seagrass Food Webs Proposal*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass_Food_Webs_Proposal_v0.0.2.pdf) for more information on the approach and hypotheses.
 
-See [*Seagrass Food Webs Methods*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.1.pdf) above for more information on methods and required infrastructure.
+See [*Seagrass Food Webs Methods*](https://marinegeo.github.io/assets/projects/seagrass-food-webs//MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.2.pdf) above for more information on methods and required infrastructure.
