@@ -7,7 +7,7 @@ links:
   - path: MarineGEO_Fish_Seines_Protocol_v0.1.4.pdf
     name: Fish Seines Protocol
     icon: save_alt
-eov: Species populations; species traits; community composition
+eov:
 ---
 
 ## Overview
