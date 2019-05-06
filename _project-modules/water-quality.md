@@ -4,8 +4,8 @@ title: Water Quality
 thumbnail: sonde.png
 editbutton: true
 links:
-  - path: MarineGEO_Fish_Seines_Protocol_v0.1.4.pdf
-    name: Fish Seines Protocol
+  - path: MarineGEO_Water-Quality_Protocol_v0.1.0.pdf
+    name: Water Quality Protocol
     icon: save_alt
 eov:
 ---
