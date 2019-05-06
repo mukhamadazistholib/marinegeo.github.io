@@ -3,7 +3,7 @@ layout: project
 title: 2019 Seagrass Food Webs
 editbutton: true
 links:
-  - path: MarineGEO_2019_Seagrass_Food_Webs_Proposal_v0.0.2.pdf
+  - path: MarineGEO_2019_Seagrass-Food-Webs_Proposal_v0.0.2.pdf
     name: Seagrass Food Webs Proposal
     icon: save_alt
   - path: MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.2.pdf
