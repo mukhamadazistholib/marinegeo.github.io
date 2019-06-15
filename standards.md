@@ -4,56 +4,43 @@ title: Standards
 subtitle: MarineGEO Data Standards and Guidelines
 editbutton: true
 ---
-Suggestions and guidelines for standardizing MarineGEO data into tidy datasets. These guidelines serve as a reference for best practices across the MarineGEO program.
+Suggestions and guidelines for standardizing data in preparation for submission to MarineGEO. 
 
 Because of the wide variety of data types collected by MarineGEO partners, these guidelines might not necessarily fit all specific use cases. Please use these guidelines when possible to contribute to achieving standardization across the network.
 
-**Questions? please contact the MarineGEO Data Manager at <marinegeo-data@si.edu>**
+**Questions? please contact the MarineGEO Data Manager at <marinegeo@si.edu>**
 
 ## Data Structure
 
-Flat long files are ideal. Each observation should be an independent row.
+Please maintain the file structure in the MarineGEO spreadsheet templates. Each spreadsheet file will include protocol metadata and sample metadata pages, a sheet for each type of sample data, and a glossary. Each observation should be an independent row.
 
 ## Format
 
-Files should be saved as simple flat files such as comma separated values (.csv) or tab separated values (.tsv).
+Files should be saved as an Microsoft Excel Open XML spreadsheet file (.xlsx).
 
 ## File names
 
 Files should have a common naming convention. Please avoid using spaces, special characters, or symbols in the file name. A good name should be descriptive and should include relevant information about the contents of the file.
 
-A good file name should include the date `YYYY-MM-DD`, [location abbreviation](#site-abbreviations), project type, and version.
+A good file name should include the date `YYYY-MM-DD`, [location abbreviation](#site-abbreviations), protocol name, and version.
 
-`{YYYY-MM-DD}_{LocationCode}_{ProjectType}_{version}.{ext}`
+`{YYYY-MM-DD}_{location_code}_{protocol-name}_{version}.{ext}`
 
-Example : `2018-01-22_CB_SquidPops_v1.2.csv`
+Example : `2018-01-22_CB_seagrass-density_v1.2.csv`
 
 Photos and videos that are part of a sequence (ie photos taken along a transect) should be named sequentially.
 
 ## Field names
 
-Field names should be simple short and descriptive. Avoid spaces, special characters, or symbols in the field name. Use under_scores or <a href="https://en.wikipedia.org/wiki/Camel_case">Camel Case</a> instead of having spaces in the field name.
-
-
-Good:
- - temp_f
- - depthMeters
- - FishLength
- - decimalDegrees
-
-Bad:
- - ~~depth meters below surface~~
- - ~~area_m^2~~
- - ~~DO (mg/L)~~
-
+Field names should not be altered from the template spreadsheet file. Field names are designed to be short and descriptive and use <a href="https://en.wikipedia.org/wiki/Snake_case">snake case</a> (example_field_name). You can click the field name to view a more detailed description. 
 
 ## Consistent fields
 
 Each column or field of the dataset should only contain a single data type. Common data types include numbers, text and dates. Depending on what numeric value is being recorded fields might need to be restricted to whole numbers (ie there should never be a fish abundance of 2.7 fish).
 
-Units should never be stored with the data. Instead, include the unit in the field name or describe the measurement unit in the metadata. Also, it should go without saying that the units should not change in a single column. Be consistent.
+Units should never be stored with the data. Instead, units are stored in the field name or are described in the metadata glossary. Units should not change in a single column. Be consistent. In the MarineGEO template spreadsheets, the unit abbreviation is used in the field name (m instead of meters), and you can check the full unit name in the glossary. 
 
-| ~~BadUnits~~ | BetterUnits_meters |
+| ~~BadUnits~~ | better_units_m |
 | --- | ------ |
 | ~~one meter~~ | 1 |
 | ~~2.5 m~~  | 2.5 |
@@ -69,11 +56,14 @@ Please use SI units.
 
 | Field         | Description           |
 | ------------- | ------------- |
-| Title      | Brief unique name to use as a title for the data set. Should include location, data type collected and dates |
-| Abstract     | The short abstract should cover what, why, when, where, and how for your dataset       |
-| Creator | Full name of dataset creator     |
-| CreatorContact | Email address for dataset creator   |
-| AdditionalPeople | Names of everyone participating in fieldwork |
+| protocol_name      | Name of the protocol used |
+| abstract     | The short abstract should cover what, why, when, where, and how for your dataset       |
+| contact_person | Name of the person to be contacted     |
+| contact_email_address | Email address for the contact person   |
+| data_entry_person | Name(s) of data entry person(s) |
+| data_entry_date | Date of final data entry |
+| other_people | Names of everyone participating in fieldwork |
+| protocol_version | Version of the MarineGEO protocol referenced to collect these data |
 
 
 ## Dates
@@ -102,8 +92,7 @@ Fields that have a controlled vocabulary should have an additional table with de
 | vector | .shp | ESRI shapefiles |
 | vector | .geojson | GeoJSON spec |
 | raster | .tif | geotiffs |
-| tabular | .csv | comma separated values |
-| tabular | .tsv | tab separated values |
+| tabular | .xlsx | Microsoft excel spreadsheet file |
 | text | .txt | plain text format-free file |
 | text | .md | Markdown used for read me and instructions |
 
@@ -112,6 +101,7 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 MarineGEO uses a short unique code for each site. This code is assigned by MarineGEO in consultation with the lead of the partner site. The naming pattern is the 3 letter country code (ISO 3166-1 alpha-3) followed by three letters describing the site's geographic region. For sites within the United States, it is recommended to use the state's two letter abbreviation in the code part describing the geographic region.
 
+**If you need help obtaining a site code, contact MarineGEO at <marinegeo@si.edu>**
 
 | Site | Code |
 | ---- | ---- |
