@@ -4,13 +4,13 @@ title: Seagrass Shoots
 thumbnail: seagrass_shoots_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Shoots_Protocol_v0.1.3.pdf
+  - path: MarineGEO_Seagrass-Shoots_Protocol_v0.3.0.pdf
     name: Seagrass Shoots Protocol
     icon: save_alt
   - path: MarineGEO-Seagrass-Shoots_Fieldsheet_v0.1.2.pdf
     name: Seagrass Shoots Lab datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.2.1.xlsx
+  - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.3.0.xlsx
     name: Seagrass Shoots Data Spreadsheet
     icon: save_alt
 eov: Ecosystem structure; ecosystem function

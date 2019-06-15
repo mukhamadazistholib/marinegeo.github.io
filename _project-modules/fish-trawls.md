@@ -4,13 +4,13 @@ title: Fish Trawls
 thumbnail: fish_trawls_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Fish_Trawls_Protocol_v0.1.3.pdf
+  - path: MarineGEO_Fish_Trawls_Protocol_v0.3.0.pdf
     name: Fish Trawls Protocol
     icon: save_alt
   - path: MarineGEO_Fish-Trawls_Fieldsheet_v0.1.3.pdf
     name: Fish Trawls Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Fish-Trawls_Spreadsheet_v0.2.1.xlsx
+  - path: MarineGEO_Fish-Trawls_Spreadsheet_v0.3.0.xlsx
     name: Fish Trawls Data Spreadsheet
     icon: save_alt
 redirect_from:

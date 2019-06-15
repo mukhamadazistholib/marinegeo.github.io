@@ -6,11 +6,14 @@ links:
   - path: MarineGEO_2019_Seagrass-Food-Webs_Proposal_v0.0.2.pdf
     name: Seagrass Food Webs Proposal
     icon: save_alt
-  - path: MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.2.pdf
+  - path: MarineGEO_2019_Seagrass-Food-Webs_Protocol_v0.0.3.pdf
     name: Seagrass Food Webs Methods
     icon: save_alt
   - path: MarineGEO_Data_Policy_Authorship_Agreement_v0.0.2.pdf
     name: Seagrass Food Webs Data Policy and Authorship Agreement
+    icon: save_alt
+  - path: MarineGEO_Seagrass-Food-Webs_Materials.zip
+    name: Seagrass Food Webs All Materials (.ZIP file)
     icon: save_alt
 ---
 

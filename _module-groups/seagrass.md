@@ -18,7 +18,7 @@ modules:
     - /modules/seagrass-epifauna
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.1.4.pdf
+  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.3.0.pdf
     name: Seagrass Habitats Survey Design
     icon: save_alt
 ---

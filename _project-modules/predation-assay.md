@@ -4,13 +4,13 @@ title: Predation Assay
 thumbnail: squidpops_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Predation-Assay_Protocol_v0.1.3.pdf
+  - path: MarineGEO_Predation-Assay_Protocol_v0.3.0.pdf
     name: Predation Assay Protocol
     icon: save_alt
   - path: MarineGEO_Predation-Assay_Fieldsheet_v0.1.0.pdf
     name: Predation Assay Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Predation-Assay_Spreadsheet_v0.2.1.xlsx
+  - path: MarineGEO_Predation-Assay_Spreadsheet_v0.3.0.xlsx
     name: Predation Assay Data Spreadsheet
     icon: save_alt
 redirect_from:
