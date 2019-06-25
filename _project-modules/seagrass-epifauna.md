@@ -7,7 +7,7 @@ links:
   - path: MarineGEO_Seagrass-Epifauna_Protocol_v0.3.0.pdf
     name: Seagrass Epifauna Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna_Fieldsheet_v0.1.1.pdf
+  - path: MarineGEO_Seagrass-Epifauna_Datasheet_v0.3.0.pdf
     name: Seagrass Epifauna Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.3.0.xlsx
