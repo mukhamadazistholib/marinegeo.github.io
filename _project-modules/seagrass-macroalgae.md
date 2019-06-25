@@ -7,7 +7,7 @@ links:
   - path: MarineGEO_Seagrass-Macroalgae_Protocol_v0.3.0.pdf
     name: Seagrass Macroalgae Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Macroalgae_Fieldsheet_v0.1.0.pdf
+  - path: MarineGEO_Seagrass-Macroalgae_Datasheet_v0.3.0.pdf
     name: Seagrass Macroalgae Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Macroalgae_Spreadsheet_v0.3.0.xlsx

@@ -7,7 +7,7 @@ links:
   - path: MarineGEO_Fish_Seines_Protocol_v0.3.0.pdf
     name: Fish Seines Protocol
     icon: save_alt
-  - path: MarineGEO_Fish-Seines_Fieldsheet_v0.1.2.pdf
+  - path: MarineGEO_Fish-Seines_Datasheet_v0.3.0.pdf
     name: Fish Seines Field Datasheet
     icon: save_alt
   - path: MarineGEO_Fish-Seines_Spreadsheet_v0.3.0.xlsx
