@@ -7,7 +7,7 @@ links:
   - path: MarineGEO_Seagrass-Density_Protocol_v0.3.0.pdf
     name: Seagrass Density Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Density_Fieldsheet_v0.1.2.pdf
+  - path: MarineGEO_Seagrass-Density_Datasheet_v0.3.0.pdf
     name: Seagrass Density Field Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Density_Spreadsheet_v0.3.0.xlsx

@@ -7,7 +7,7 @@ links:
   - path: MarineGEO_Sediment-Organic-Matter_Protocol_v0.3.0.pdf
     name: Sediment Organic Matter Protocol
     icon: save_alt
-  - path: MarineGEO_Sediment-Organic-Matter_Fieldsheet_v0.1.1.pdf
+  - path: MarineGEO_Sediment-Organic-Matter_Datasheet_v0.3.0.pdf
     name: Sediment Organic Matter Lab Datasheet
     icon: save_alt
   - path: MarineGEO_Seagrass-Organic-Matter_Spreadsheet_v0.3.0.xlsx
