@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Seagrass-Density_Datasheet_v0.3.0.pdf
     name: Seagrass Density Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Density_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Seagrass-Density_Spreadsheet_v0.4.0.xlsx
     name: Seagrass Density Data Spreadsheet
     icon: save_alt
 redirect_from:

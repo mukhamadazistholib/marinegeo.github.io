@@ -10,7 +10,7 @@ links:
   - path: MarineGEO-Seagrass-Shoots_Datasheet_v0.3.0.pdf
     name: Seagrass Shoots Lab datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.4.0.xlsx
     name: Seagrass Shoots Data Spreadsheet
     icon: save_alt
 eov: Ecosystem structure; ecosystem function

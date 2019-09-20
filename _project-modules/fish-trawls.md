@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Fish-Trawls_Fieldsheet_v0.1.3.pdf
     name: Fish Trawls Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Fish-Trawls_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Fish-Trawls_Spreadsheet_v0.4.0.xlsx
     name: Fish Trawls Data Spreadsheet
     icon: save_alt
 redirect_from:

@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Seagrass-Epifauna_Datasheet_v0.3.0.pdf
     name: Seagrass Epifauna Lab Datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.4.0.xlsx
     name: Seagrass Epifauna Data Spreadsheet
     icon: save_alt
 redirect_from:

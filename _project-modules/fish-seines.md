@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Fish-Seines_Datasheet_v0.3.0.pdf
     name: Fish Seines Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Fish-Seines_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Fish-Seines_Spreadsheet_v0.4.0.xlsx
     name: Fish Seines Data Spreadsheet
     icon: save_alt
 redirect_from:

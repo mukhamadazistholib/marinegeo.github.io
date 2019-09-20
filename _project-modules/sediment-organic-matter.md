@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Sediment-Organic-Matter_Datasheet_v0.3.0.pdf
     name: Sediment Organic Matter Lab Datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Organic-Matter_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Seagrass-Organic-Matter_Spreadsheet_v0.4.0.xlsx
     name: Sediment Organic Matter Data Spreadsheet
     icon: save_alt
 redirect_from:

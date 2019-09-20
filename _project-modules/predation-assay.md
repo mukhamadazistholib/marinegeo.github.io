@@ -10,7 +10,7 @@ links:
   - path: MarineGEO_Predation-Assay_Fieldsheet_v0.1.0.pdf
     name: Predation Assay Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Predation-Assay_Spreadsheet_v0.3.0.xlsx
+  - path: MarineGEO_Predation-Assay_Spreadsheet_v0.4.0.xlsx
     name: Predation Assay Data Spreadsheet
     icon: save_alt
 redirect_from:
