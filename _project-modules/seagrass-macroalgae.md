@@ -13,7 +13,7 @@ links:
   - path: MarineGEO_Seagrass-Macroalgae_Spreadsheet_v0.4.0.xlsx
     name: Seagrass Macroalgae Data Spreadsheet
     icon: save_alt
-eov: Ecosystem structure; ecosystem function
+eov: Seagrass extent and composition: Macroalgal and epiphytic algal biomass
 ---
 
 ## Overview

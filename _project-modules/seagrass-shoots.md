@@ -13,7 +13,7 @@ links:
   - path: MarineGEO_Seagrass-Shoots_Spreadsheet_v0.4.0.xlsx
     name: Seagrass Shoots Data Spreadsheet
     icon: save_alt
-eov: Ecosystem structure; ecosystem function
+eov: Seagrass extent and composition: Seagrass shoot density; Seagrass Canopy height
 ---
 
 ## Overview

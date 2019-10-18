@@ -15,7 +15,7 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/seagrass-quadrats/
-eov: Community composition; ecosystem structure
+eov: Seagrass extent and composition: Seagrass percent cover
 ---
 
 ## Overview
