@@ -15,7 +15,7 @@ links:
     icon: save_alt
 redirect_from:
   - /modules/squidpops/
-eov: 
+eov: Ecosystem function
 
 ---
 
