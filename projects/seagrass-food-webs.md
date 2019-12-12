@@ -19,6 +19,10 @@ links:
 
 ![Zostera marina]({{site.baseurl}}/assets/projects/seagrass-food-webs/seagrass_food_webs_landing_page.jpg)
 
+## Data Submission
+
+Please visit our [Data Submission Portal](https://marinegeo.shinyapps.io/data_portal/) to upload your completed data spreadsheets.
+
 ## Overview
 
 Seagrasses are essential coastal habitats that support diverse and productive food webs. However, identifying factors that structure seagrass food webs and drive the flow of energy within them remain a key frontier in a rapidly changing world.
