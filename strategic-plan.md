@@ -20,7 +20,7 @@ links:
     icon: save_alt
 ---
 
-## We are pleased to present MarineGEO’s Strategic Plan for 2020-2024
+**We are pleased to present MarineGEO’s Strategic Plan for 2020-2024**
 
 *Taking the pulse of coastal ocean life—together.*
 
