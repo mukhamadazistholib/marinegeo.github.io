@@ -22,10 +22,10 @@ links:
 
 **We are pleased to present MarineGEO’s Strategic Plan for 2020-2024**
 
-*Taking the pulse of coastal ocean life—together.*
+*Taking the pulse of coastal ocean life—together*.
 
 The Marine Global Earth Observatory (MarineGEO) is a network of scientists led by the Smithsonian Institution and collaborating around the world to understand how coastal marine ecosystems work and how to maintain them in a rapidly changing future.
 
 MarineGEO was conceived over a decade ago and launched in 2013 with a generous gift from Michael and Suzanne Tennenbaum that established the Tennenbaum Marine Observatories Network (TMON) as its nucleus. Our first strategic planning journey has been driven by our community’s dedication, creativity, and initiative. And it has clarified and strengthened our shared goal: ***MarineGEO will be a global leader in the science of coastal marine life and ecosystems, using the power of long-term, collaborative research and a common toolkit***. MarineGEO uniquely balances the world-class track record and brand of the Smithsonian Institution with the collective innovation and energy of our global partner network. The plan we present here builds on almost a decade of work to establish MarineGEO as a producer of first-rate science focused on societal needs. Let’s get to work!
 
-![surgeonfish]({{site.baseurl}}/assets/strategic-plan/surgeonfish.png)
+![surgeonfish]({{site.baseurl}}/assets/strategic-plan/MarineGEO_divers.jpg)
