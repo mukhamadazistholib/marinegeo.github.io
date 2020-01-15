@@ -3,7 +3,7 @@ layout: project2
 title: Strategic Plan
 subtitle: MarineGEO Strategic Plan 2020-2024
 links:
-  - path: {{site.baseurl}}/strategic/MarineGEO Strategic Plan_v.1.2_20200114.pdf
+  - path: MarineGEO Strategic Plan_v.1.2_20200114.pdf
     name: Strategic Plan
     icon: save_alt
 ---
