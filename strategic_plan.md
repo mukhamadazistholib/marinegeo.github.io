@@ -6,16 +6,20 @@ links:
   - path: MarineGEO Strategic Plan_v.1.2_20200114.pdf
     name: Strategic Plan
     icon: save_alt
+  - path: MarineGEO Science Framework v1.0 20200115.pdf
+    name: Science Framework
+    icon: save_alt
+  - path: MarineGEO Partnership Framework v1.0 20200115.pdf
+    name: Partnership Framework
+    icon: save_alt
+  - path: MarineGEO ExCmte v1.0_200110.pdf
+    name: Executive Committee Charter
+    icon: save_alt
+  - path: MarineGEO Data Policy Authorship Agreement v1.0 20200115.pdf
+    name: Data Policy
+    icon: save_alt
 ---
 
----
+[img]()
 
-[Strategic Plan]({{site.baseurl}}/strategic/MarineGEO Strategic Plan_v.1.2_20200114.pdf)
-
-[Science Framework]({{site.baseurl}}/strategic/MarineGEO Science Framework v1.0 20200115.pdf)
-
-[Partnership Framework]({{site.baseurl}}/strategic/MarineGEO Partnership Framework v1.0 20200115.pdf)
-
-[Executive Committee Charter]({{site.baseurl}}/strategic/MarineGEO ExCmte v1.0_200110.pdf)
-
-[Data Policy]({{site.baseurl}}/strategic/MarineGEO Data Policy Authorship Agreement v1.0 20200115.pdf)
+## Text
