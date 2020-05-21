@@ -26,6 +26,7 @@ description: Tools and resources for MarineGEO datasets
 # List of links in the navigation bar
 navbar-links:
   Home: ""
+  Data Submission: "data-submission"
   Habitats:
     - All: "modules.html"
     - Seagrass: "seagrass.html"
