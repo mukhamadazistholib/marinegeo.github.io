@@ -4,13 +4,13 @@ title: Seagrass Epifauna
 thumbnail: seagrass_epifauna_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Epifauna_Protocol_v0.3.0.pdf
+  - path: marinegeo_protocol_seagrass_epifauna.pdf
     name: Seagrass Epifauna Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna_Datasheet_v0.3.0.pdf
+  - path: marinegeo_datasheet_seagrass_epifauna.pdf
     name: Seagrass Epifauna Lab Datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Epifauna_Spreadsheet_v0.4.0.xlsx
+  - path: marinegeo_spreadsheet_seagrass_epifauna.xlsx
     name: Seagrass Epifauna Data Spreadsheet
     icon: save_alt
 redirect_from:

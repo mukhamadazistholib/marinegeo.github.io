@@ -4,13 +4,13 @@ title: Seagrass Macroalgae
 thumbnail: seagrass_macroalgae_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Macroalgae_Protocol_v0.3.0.pdf
+  - path: marinegeo_protocol_seagrass_macroalgae.pdf
     name: Seagrass Macroalgae Protocol
     icon: save_alt
-  - path: MarineGEO_Seagrass-Macroalgae_Datasheet_v0.3.0.pdf
+  - path: marinegeo_datasheet_seagrass_macroalgae.pdf
     name: Seagrass Macroalgae Lab Datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Macroalgae_Spreadsheet_v0.4.0.xlsx
+  - path: marinegeo_spreadsheet_seagrass_macroalgae.xlsx
     name: Seagrass Macroalgae Data Spreadsheet
     icon: save_alt
 eov: Ecosystem structure; ecosystem function

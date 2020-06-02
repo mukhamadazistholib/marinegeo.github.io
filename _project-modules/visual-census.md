@@ -4,13 +4,13 @@ title: Visual Census
 thumbnail: scuba-diver.png
 editbutton: true
 links:
-  - path: MarineGEO_Visual-Census_Protocol_v0.3.0.pdf
+  - path: marinegeo_protocol_visual_census.pdf
     name: Visual Census Protocol
     icon: save_alt
-  - path: MarineGEO_Visual-Census_Fieldsheet_v0.3.0.pdf
+  - path: marinegeo_datasheet_visual_census.pdf
     name: Visual Census Field Datasheet
     icon: save_alt
-  - path: MarineGEO_Visual-Census_Spreadsheet_v0.4.0.xlsx
+  - path: marinegeo_spreadsheet_visual_census.xlsx
     name: Visual Census Data Spreadsheet
     icon: save_alt
 redirect_from:

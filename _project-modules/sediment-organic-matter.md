@@ -4,13 +4,13 @@ title: Sediment Organic Matter
 thumbnail: sediment_om_icon.png
 editbutton: true
 links:
-  - path: MarineGEO_Sediment-Organic-Matter_Protocol_v0.3.0.pdf
+  - path: marinegeo_protocol_sediment_organic_matter.pdf
     name: Sediment Organic Matter Protocol
     icon: save_alt
-  - path: MarineGEO_Sediment-Organic-Matter_Datasheet_v0.3.0.pdf
+  - path: marinegeo_datasheet_sediment_organic_matter.pdf
     name: Sediment Organic Matter Lab Datasheet
     icon: save_alt
-  - path: MarineGEO_Seagrass-Organic-Matter_Spreadsheet_v0.4.0.xlsx
+  - path: marinegeo_spreadsheet_sediment_organic_matter.xlsx
     name: Sediment Organic Matter Data Spreadsheet
     icon: save_alt
 redirect_from:
