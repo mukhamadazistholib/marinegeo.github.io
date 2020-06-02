@@ -10,7 +10,7 @@ links:
   - path: marinegeo_datasheet_seagrass_biomass.pdf
     name: Seagrass Biomass Lab Datasheet
     icon: save_alt
-  - path: marinegeo_spreadsheet_seagras_biomass.xlsx
+  - path: marinegeo_spreadsheet_seagrass_biomass.xlsx
     name: Seagrass Biomass Data Spreadsheet
     icon: save_alt
 redirect_from:
