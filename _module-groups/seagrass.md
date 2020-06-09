@@ -5,7 +5,6 @@ thumbnail: seagrass.png
 modules:
   core:
     - /modules/seagrass-density
-    - /modules/seagrass-macroalgae
     - /modules/seagrass-shoots
     - /modules/predation-assay
     - /modules/water-quality
@@ -16,6 +15,7 @@ modules:
     - /modules/sediment-organic-matter
     - /modules/seagrass-biomass
     - /modules/seagrass-epifauna
+    - /modules/seagrass-macroalgae
 editbutton: true
 links:
   - path: MarineGEO_Seagrass-Habitats_Protocol_v0.3.0.pdf
