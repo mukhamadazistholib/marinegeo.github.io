@@ -4,13 +4,13 @@ title: Water Quality
 thumbnail: sonde.png
 editbutton: true
 links:
-  - path: marinegeo_protocol_water_quality.pdf
+  - path: marinegeo_protocol_environmental_monitoring.pdf
     name: Water Quality Protocol
     icon: save_alt
-  - path: marinegeo_datasheet_water_quality.pdf
+  - path: marinegeo_datasheet_environmental_monitoring.pdf
     name: Water Quality Datasheet
     icon: save_alt
-  - path: marinegeo_spreadsheet_water_quality.xlsx
+  - path: marinegeo_spreadsheet_environmental_monitoring.xlsx
     name: Water Quality Data Spreadsheet
     icon: save_alt
 eov: Environment
