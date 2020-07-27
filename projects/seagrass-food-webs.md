@@ -19,6 +19,10 @@ links:
 
 ![Zostera marina]({{site.baseurl}}/assets/projects/seagrass-food-webs/seagrass_food_webs_landing_page.jpg)
 
+## Preliminary Results
+
+We are happy to provide some initial results from our ongoing survey [here](http://htmlpreview.github.io/?https://marinegeo.github.io/assets/projects/seagrass-food-webs/Seagrass-Survey-Results.html). Check back regularly as data continue to be submitted!
+
 ## Data Submission
 
 Please visit our [Data Submission Portal](https://marinegeo.shinyapps.io/data_portal/) to upload your completed data spreadsheets.
