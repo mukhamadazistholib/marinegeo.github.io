@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.3)
+    activesupport (6.0.3.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -275,7 +275,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  activesupport (= 6.0.3)
+  activesupport (= 6.0.3.3)
   github-pages
   html-proofer
   jekyll-paginate
