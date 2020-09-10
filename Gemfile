@@ -10,4 +10,5 @@ gem 'html-proofer'
 
 gem 'rake'
 
-gem 'activesupport', '4.1.11'
+gem 'activesupport', '6.0.3' 
+gem 'json', '2.3.0'
