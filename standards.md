@@ -105,7 +105,7 @@ MarineGEO uses a short unique code for each site. This code is assigned by Marin
 
 | Site | Code |
 | ---- | ---- |
-| Carrie Bow Cay, Belize | BEL-CBC |
+| Carrie Bow Cay, Belize | BLZ-CBC |
 | Calvert Island, British Columbia, Canada  | CAN-BCC |
 | Chesapeake Bay, Edgewater, Maryland, USA | USA-MDA |
 | Indian River Lagoon, Fort Pierce, Florida, USA | USA-IRL |
