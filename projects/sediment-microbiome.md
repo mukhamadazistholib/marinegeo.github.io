@@ -8,13 +8,9 @@ links:
     icon: save_alt
 ---
 
-## Data Submission
-
-Please visit our [Data Submission Portal](https://marinegeo.shinyapps.io/data_portal/) to upload your completed data spreadsheets.
-
 ## Overview
 
-## How to Join
+## Data Submission
 
 ## Expectations
 
@@ -32,5 +28,3 @@ Each partner commits to:
 - contributing to data interpretation and manuscript preparation.
 
 MarineGEO further commits to preparing the first manuscript for peer-reviewed publication, with all co-authors, within one year of completion of fieldwork, and to making all data publicly available to participants by March of next year.
-
-## Methods
