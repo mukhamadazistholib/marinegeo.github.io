@@ -17,7 +17,7 @@ Protocols are packages that contain complete instructions for deploying experime
  - a data entry sheet to print off and bring out into the field
  - an excel workbook to use for data submission
 
-### Protocol Development and Review
+### Protocol Development and Revision
 
 MarineGEO follows a standard workflow for protocol development, testing, and revision. The entire workflow is detailed in the [MarineGEO Protocol Development and Revision Process](downloads/Workflow-for-Developing-or-Revising-MarineGEO-Protocols-9-1-2020.pdf) document. 
 
