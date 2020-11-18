@@ -6,6 +6,9 @@ links:
   - path: MarineGEO_Data_Policy_Authorship_Agreement_v1.0.pdf
     name: MarineGEO Data Policy and Authorship Agreement
     icon: save_alt
+  - path: 2020_Network_Project_Permit Application.docx
+    name: 2020 Network Project Permit Application
+    icon: save_alt
 ---
 
 ## The Good, the Bad, & the Ugly: Carbon storage, eutrophication effects, and emergent health risks in the global marine sediment microbiome
