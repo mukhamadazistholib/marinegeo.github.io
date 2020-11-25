@@ -5,5 +5,3 @@ editbutton: true
 ---
   
 ### Overview
-
-Hello

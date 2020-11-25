@@ -12,7 +12,7 @@ links:
 ---
 
 ### Overview
-SED-BIOME is the 2020 MarineGEO Network Project. Project downloads are located in the above box. View a video about conducting the project [here](https://marinegeo.github.io/sed-biome/video). 
+SED-BIOME is the 2020 MarineGEO Network Project. Project downloads are located in the above box. View a video about conducting the project [here](https://marinegeo.github.io/projects/sed-biome/video). 
 
 ### Contact Us
 
