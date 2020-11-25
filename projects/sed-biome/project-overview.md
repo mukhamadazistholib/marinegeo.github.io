@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2020 Network Project
+title: SED-BIOME
 editbutton: true
 links:
   - path: MarineGEO_Data_Policy_Authorship_Agreement_v1.0.pdf
@@ -11,9 +11,8 @@ links:
     icon: save_alt
 ---
 
-## The Good, the Bad, & the Ugly: Carbon storage, eutrophication effects, and emergent health risks in the global marine sediment microbiome
-
 ### Overview
+SED-BIOME is the 2020 MarineGEO Network Project. Project downloads are located in the above box. View a video about conducting the project [here](https://marinegeo.github.io/sed-biome/video). 
 
 ### Contact Us
 
