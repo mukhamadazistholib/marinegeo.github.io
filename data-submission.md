@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Standards
-subtitle: MarineGEO Data Submission
+title: Data Submission
 editbutton: true
 ---
 
