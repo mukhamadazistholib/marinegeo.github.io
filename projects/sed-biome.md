@@ -3,6 +3,9 @@ layout: project
 title: SED-BIOME
 editbutton: true
 links:
+  - path: sed-biome-protocol-v1.pdf
+    name: SED-BIOME Protocol
+    icon: save_alt
   - path: MarineGEO_Data_Policy_Authorship_Agreement_v1.0.pdf
     name: MarineGEO Data Policy and Authorship Agreement
     icon: save_alt
