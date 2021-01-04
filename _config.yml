@@ -37,6 +37,7 @@ navbar-links:
 #    - Mangroves: "mangroves"
 #    - Sediment: "sediment"
   Projects:
+    - Education: "projects/education"
     - Panamex: "projects/panamex"
     - Seagrass Food Webs (2019): "projects/seagrass-food-webs"
     - SED-BIOME (2020): "projects/sed-biome"
