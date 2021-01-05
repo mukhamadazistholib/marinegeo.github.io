@@ -2,6 +2,10 @@
 layout: project
 title: Education Modules
 editbutton: true
+links:
+  - path: marinegeo-squidpop-education-module.zip
+    name: Squidpop Education Module
+    icon: save_alt
 ---
   
 The Education and Outreach working group's goal is to engage the world in coastal research. We have focused on two areas that leverage what we do best: using MarineGEO methods to teach coastal ecosystem science and logging member activities to inspire public education and outreach. The following teaching modules combine MarineGEO methods, papers, and experience to provide materials for field course instructors. Each module covers one MarineGEO method, such as squidpop predation assays or transects and quadrats in seagrass. Collectively, the modules could be put together to teach, conduct, and submit annual habitat monitoring survey data to MarineGEO. But each module is designed to be independent and a flexible foundation to be adapted for use in any course, whether collecting MarineGEO data or not. Each module provides key resources for anyone teaching field methods at the undergrad or graduate level. We hope these modules will facilitate field ecology education across our network and advertise the great science being done by MarineGEO partners.    
