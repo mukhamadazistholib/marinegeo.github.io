@@ -3,7 +3,7 @@ layout: project
 title: SED-BIOME Protocol
 editbutton: true
 links:
-  - path: sed-biome-protocol-v1.pdf
+  - path: sed-biome-protocol.pdf
     name: SED-BIOME Protocol
     icon: save_alt
   - path: example-calibration-check.pdf
