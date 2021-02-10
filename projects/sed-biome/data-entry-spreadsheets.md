@@ -45,9 +45,48 @@ links:
   - path: SED-BIOME_site-14_Brazil.xlsx
     name: Site 14 Brazil
     icon: save_alt
+  - path: SED-BIOME_site-15_Philippines.xlsx
+    name: Site 15 Philippines
+    icon: save_alt
+  - path: SED-BIOME_site-16_Tanzania.xlsx
+    name: Site 16 Tanzania
+    icon: save_alt
+  - path: SED-BIOME_site-17_Kenya.xlsx
+    name: Site 17 Kenya
+    icon: save_alt
   - path: SED-BIOME_site-18_Brazil.xlsx
     name: Site 18 Brazil
     icon: save_alt
+  - path: SED-BIOME_site-20_India.xlsx
+    name: Site 20 India 
+    icon: save_alt
+  - path: SED-BIOME_site-21_Philippines.xlsx
+    name: Site 21 Philippines 
+    icon: save_alt
+  - path: SED-BIOME_site-22_Singapore.xlsx
+    name: Site 22 Singapore 
+    icon: save_alt
+  - path: SED-BIOME_site-23_Panama.xlsx
+    name: Site 23 Panama 
+    icon: save_alt
+  - path: SED-BIOME_site-24_Canada.xlsx
+    name: Site 24 Canada 
+    icon: save_alt
+  - path: SED-BIOME_site-25_Sweden.xlsx
+    name: Site 25 Sweden 
+    icon: save_alt
+  - path: SED-BIOME_site-26_USA.xlsx
+    name: Site 26 USA 
+    icon: save_alt
+  - path: SED-BIOME_site-27_USA.xlsx
+    name: Site 27 USA 
+    icon: save_alt
+  - path: SED-BIOME_site-28_USA.xlsx
+    name: Site 28 USA 
+    icon: save_alt
+  - path: SED-BIOME_site-29_USA.xlsx
+    name: Site 29 USA 
+    icon: save_alt
 ---
   
-Data entry spreadsheets are unique to each location. Select the link with your unique site number and location to download your spreadsheet. Your site number is in the kit you received or can be found in your data entry spreadsheet.
+Data entry spreadsheets are unique to each location. Select the link with your unique site number and location to download your spreadsheet. Your site number is in the kit you received. If you're unsure or cannot find it, email  Dr. Guibert Isis (iguibert@hku.hk) or MarineGEO (marinegeo@si.edu).
