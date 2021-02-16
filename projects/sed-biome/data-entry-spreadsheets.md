@@ -81,8 +81,8 @@ links:
   - path: SED-BIOME_site-27_USA.xlsx
     name: Site 27 USA 
     icon: save_alt
-  - path: SED-BIOME_site-28_USA.xlsx
-    name: Site 28 USA 
+  - path: SED-BIOME_site-28_Belize.xlsx
+    name: Site 28 Belize 
     icon: save_alt
   - path: SED-BIOME_site-29_USA.xlsx
     name: Site 29 USA 
