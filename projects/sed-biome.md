@@ -41,10 +41,10 @@ doesn't already exist, rather than renaming or creating columns.
 
 4. Mail sediment and porewater samples to:  
 Dr. Guibert Isis  
-The SWIRE Institute of Marine Science  
+Swire Institute of Marine Science  
 6N-01, Kadoorie Biological Sciences Building  
 The University of Hong Kong  
-Poakfulam road,  
+Pokfulam road,  
 999077 Hong Kong  
 
 5. Contact Dr. Isis Guibert if you have any questions (iguibert@hku.hk)
