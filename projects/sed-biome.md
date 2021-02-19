@@ -6,6 +6,9 @@ links:
   - path: sed-biome-protocol.pdf
     name: SED-BIOME Protocol
     icon: save_alt
+  - path: sed-biome_network_project_2020_proposal.pdf
+    name: SED-BIOME Proposal
+    icon: save_alt
   - path: example-calibration-check.pdf
     name: Example Calibration Check for Data Loggers
     icon: save_alt
