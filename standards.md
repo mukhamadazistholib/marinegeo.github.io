@@ -8,7 +8,7 @@ Suggestions and guidelines for standardizing data in preparation for submission 
 
 Because of the wide variety of data types collected by MarineGEO partners, these guidelines might not necessarily fit all specific use cases. Please use these guidelines when possible to contribute to achieving standardization across the network.
 
-**Questions? please contact the MarineGEO Data Manager at <marinegeo@si.edu>**
+**Questions? please contact the MarineGEO Data Manager at <marinegeo-data@si.edu>**
 
 ## Data Structure
 
@@ -101,7 +101,7 @@ Fields that have a controlled vocabulary should have an additional table with de
 
 MarineGEO uses a short unique code for each site. This code is assigned by MarineGEO in consultation with the lead of the partner site. The naming pattern is the 3 letter country code (ISO 3166-1 alpha-3) followed by three letters describing the site's geographic region. For sites within the United States, it is recommended to use the state's two letter abbreviation in the code part describing the geographic region.
 
-**If you need help obtaining a site code, contact MarineGEO at <marinegeo@si.edu>**
+**If you need help obtaining a site code, contact MarineGEO at <marinegeo-data@si.edu>**
 
 | Site | Code |
 | ---- | ---- |

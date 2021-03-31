@@ -89,4 +89,4 @@ links:
     icon: save_alt
 ---
   
-Data entry spreadsheets are unique to each location. Select the link with your unique site number and location to download your spreadsheet. Your site number is in the kit you received. If you're unsure or cannot find it, email  Dr. Guibert Isis (iguibert@hku.hk) or MarineGEO (marinegeo@si.edu).
+Data entry spreadsheets are unique to each location. Select the link with your unique site number and location to download your spreadsheet. Your site number is in the kit you received. If you're unsure or cannot find it, email  Dr. Guibert Isis (iguibert@hku.hk) or MarineGEO (marinegeo-data@si.edu).

@@ -10,6 +10,6 @@ This application allows you to submit data and metadata to the MarineGEO databas
 
 Once data is submitted you will receive a report providing feedback on the quality control of your submission. Use the report to make any necessary updates and resubmit the data. 
 
-**Questions? please contact the MarineGEO Data Manager at <marinegeo@si.edu>**
+**Questions? please contact the MarineGEO Data Manager at <marinegeo-data@si.edu>**
 
 

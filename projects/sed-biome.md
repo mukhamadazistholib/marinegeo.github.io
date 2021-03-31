@@ -25,7 +25,7 @@ SED-BIOME is the 2020 MarineGEO Network Project. Project downloads are located i
 
 ### Contact Us
 
-If you have any questions or concerns about the 2020 Network Project, contact Dr. Guibert Isis (iguibert@hku.hk) and MarineGEO (marinegeo@si.edu). 
+If you have any questions or concerns about the 2020 Network Project, contact Dr. Guibert Isis (iguibert@hku.hk) and MarineGEO (marinegeo-data@si.edu). 
 
 ### Data Submission
 
