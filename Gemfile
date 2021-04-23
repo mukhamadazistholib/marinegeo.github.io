@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
 
-# enable tzinfo-data for local build
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+# Remove gem 'tzinfo-data' to push, add to test locally 
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
