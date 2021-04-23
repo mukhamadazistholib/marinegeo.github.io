@@ -31,6 +31,7 @@ navbar-links:
     - All: "modules.html"
     - Seagrass: "seagrass.html"
     - Coral Reefs: "coral-reefs.html"
+    - Fouling Community: "fouling-community.html"
 #    - Reef - Coral: "coral-reefs"
 #    - Reef - Rocky: "rocky-reefs"
 #    - Reef - Oyster: "oyster-reefs"
