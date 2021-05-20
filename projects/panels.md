@@ -4,7 +4,6 @@ title: PANELS
 editbutton: true
 ---
 
-## PANELS Experiment  
 ## Photogrammetry And Next-gen sequencing for EcologicaL Systems  
 
 ### Background  
@@ -17,6 +16,10 @@ To accompany the introduction of the new Fouling Community Development protocol,
 1. What is the relationship between diversity (obtained from photographs or eDNA) and structural complexity? Are more biodiverse communities more complex, and how does this relationship change across latitudinal gradients in species richness?  
 2. Does complexity beget biodiversity, or does biodiversity drive complexity? The direction of causality can be thoroughly assessed by relating measurements of diversity and complexity after 30, 60 and 90 days as the panels develop.  
 3. How does observed biodiversity on the panels align with that recovered from the eDNA sequencing? Is eDNA a viable method for characterizing diversity of these tiles into the future?  
+
+### Contact Us  
+
+Please contact Dean Janiak (janiakd@si.edu) or Jon Lefcheck (lefcheckj@si.edu) for protocol questions including questions on species identifications.  
 
 ### Expectations
 

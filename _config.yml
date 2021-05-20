@@ -42,6 +42,8 @@ navbar-links:
     - Panamex: "projects/panamex"
     - Seagrass Food Webs (2019): "projects/seagrass-food-webs"
     - SED-BIOME (2020): "projects/sed-biome"
+    - PANELS: "projects/panels"
+    
   Resources:
     - Blog: "blog"
     - Standards: "standards"
