@@ -2,6 +2,10 @@
 layout: project
 title: PANELS
 editbutton: true
+links:
+  - path: panels_data_entry_spreadsheet_marinegeo.xlsx
+    name: PANELS Data Entry Spreadsheet
+    icon: save_alt
 ---
 
 ## Photogrammetry And Next-gen sequencing for EcologicaL Systems  
