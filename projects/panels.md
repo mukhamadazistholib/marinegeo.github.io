@@ -11,7 +11,7 @@ links:
     icon: save_alt
   - path: panels_datasheets_marinegeo.pdf
     name: PANELS Data Sheets
-    icon: save_alot
+    icon: save_alt
 ---
 
 ## Photogrammetry And Next-gen sequencing for EcologicaL Systems  
