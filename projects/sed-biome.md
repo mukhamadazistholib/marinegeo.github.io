@@ -18,6 +18,15 @@ links:
   - path: 2020_Network_Project_Permit Application.docx
     name: 2020 Network Project Permit Application
     icon: save_alt
+  - path: Detailed-list.xlsx
+    name: Detailed packing list for shipping samples
+    icon: save_alt
+  - path: Invoice_partner.xlsx
+    name: Partner invoice for shipping samples
+    icon: save_alt
+  - path: RNALater-SDS.pdf
+    name: RNALater Safety Data Sheet
+    icon: save_alt
 ---
 
 ### Overview
