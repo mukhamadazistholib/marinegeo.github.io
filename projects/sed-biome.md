@@ -55,8 +55,8 @@ require you to submit the scanned forms.
 5.	Add blue gel packs to keep the package cold  
 6.	Pack the box tight with minimal air and sealed properly limiting heat transfer  
 
-#### Prepare required documents:  
-1.	Fill out the invoice (invoice_partner) and the detailed list (Detailed_list). The field to fill out are highlighted in yellow  
+#### Prepare required documents:
+1.	Fill out the invoice ("Partner invoice for shipping samples") and the detailed list ("Detailed packing list for shipping samples"). The field to fill out are highlighted in yellow  
 2.	Print the two excel files and the RNALater safety sheet  
 3.	Add the three documents to the package  
 
