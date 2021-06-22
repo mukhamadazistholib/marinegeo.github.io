@@ -36,27 +36,44 @@ SED-BIOME is the 2020 MarineGEO Network Project. Project downloads are located i
 
 If you have any questions or concerns about the 2020 Network Project, contact Dr. Guibert Isis (iguibert@hku.hk) and MarineGEO (marinegeo-data@si.edu). 
 
-### Data Submission
+### Online Data Submission
 
 1. Scan the completed field data sheets and save both paper and electronic versions locally. We do not
 require you to submit the scanned forms.
 
-2. Enter data into the provided data entry template. Each template is an Excel spreadsheet. Please
-provide as much protocol and sample metadata as possible, such as the protocol version and contact
-information. Use the "notes" columns to provide additional information or context if a relevant column
-doesn't already exist, rather than renaming or creating columns.
+2. Provide as much protocol and sample metadata as possible, such as the protocol version and contact information. Use the “notes” columns to provide additional information or context if a relevant column doesn’t already exist, rather than renaming or creating columns.  
 
 3. Use our [online submission portal](https://marinegeo.github.io/data-submission) to upload Excel spreadsheets.
 
-4. Mail sediment and porewater samples to:  
-Dr. Guibert Isis  
-Swire Institute of Marine Science  
-6N-01, Kadoorie Biological Sciences Building  
-The University of Hong Kong  
-Pokfulam road,  
-999077 Hong Kong  
+### Sediment and Porewater Sampling Shipping  
 
-5. Contact Dr. Isis Guibert if you have any questions (iguibert@hku.hk)
+#### Prepare the package:
+1.	Make sure that the porewater samples (as well as the RNAlater tubes) are well sealed to avoid any gas exchange or leakage. We recommend using electrical tape on the top of the parafilm  
+2.	Freeze the samples at the lowest temperature possible: -80C is recommended  
+3.	When preparing the package, put an absorbent layer at the bottom of the package to avoid any issue with condensation  
+4.	Put the porewater samples surrounded by the frozen sediment samples so the porewater samples can stay cold longer  
+5.	Add blue gel packs to keep the package cold  
+6.	Pack the box tight with minimal air and sealed properly limiting heat transfer  
+
+#### Prepare required documents:  
+1.	Fill out the invoice (invoice_partner) and the detailed list (Detailed_list). The field to fill out are highlighted in yellow  
+2.	Print the two excel files and the RNALater safety sheet  
+3.	Add the three documents to the package  
+
+#### Ship the package:
+1.	Mail sediment and porewater samples on dry ice as soon as possible to:   
+Dr. David M. Baker and Guibert Isis  
+Swire Institute of Marine Science   
+6S-19, Kadoorie Biological Sciences Building   
+The University of Hong Kong   
+Pokfulam road,   
+999077 Hong Kong  
++85263134035   
++85267751690   
+iguibert@hku.hk   
+dmbaker@hku.hk  
+
+2.	Share the tracking number with Dr. Isis Guibert: iguibert@hku.hk  
 
 ### Expectations
 
