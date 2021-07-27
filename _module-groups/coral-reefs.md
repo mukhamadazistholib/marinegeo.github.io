@@ -1,15 +1,21 @@
 ---
 layout: group
 title: Coral Reef Habitats
-modules:
-  core:
-    - /modules/visual-census
-    - /modules/predation-assay
-  recommended:
-    - /modules/herbivory-assay
 editbutton: true
 thumbnail: coral_reef.png
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link | Required or Optional |
+| ------------- | ------------- | ------------- |
+| Sampling Event and Environmental Monitoring  | https://doi.org/10.25573/serc.14555511  | Required |
+| Coral Protocols | https://doi.org/10.25573/serc.14714175  | Required |
+| Benthic Photoquadrats | https://doi.org/10.25573/serc.14717823 | Required |
+| Predation Assay | https://doi.org/10.25573/serc.14717802  | Required |
+| Ulva Assay | https://doi.org/10.25573/serc.14717808 | Required |
+| Diver Visual Survey | https://doi.org/10.25573/serc.14717796  | Required |
 
 # Background
 

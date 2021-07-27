@@ -7,10 +7,10 @@ editbutton: true
 # Downloads
 Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
 
-| Protocol  | Link | Required? |
+| Protocol  | Link | Required or Optional |
 | ------------- | ------------- | ------------- |
-| Sampling Event and Environmental Monitoring  | https://doi.org/10.25573/serc.14555511  | Mandatory |
-| Fouling Community  | https://doi.org/10.25573/serc.14510649  | Mandatory |
+| Sampling Event and Environmental Monitoring  | https://doi.org/10.25573/serc.14555511  | Required |
+| Fouling Community  | https://doi.org/10.25573/serc.14510649  | Required |
 
 # Introduction  
 
