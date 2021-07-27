@@ -32,9 +32,9 @@ navbar-links:
     - Seagrass: "seagrass.html"
     - Coral Reefs: "coral-reefs.html"
     - Fouling Community: "fouling-community.html"
-#    - Reef - Coral: "coral-reefs"
 #    - Reef - Rocky: "rocky-reefs"
-#    - Reef - Oyster: "oyster-reefs"
+    - Oyster Reefs: "oyster-reefs"
+    - Salt Marsh: "salt-marshes.html"
 #    - Mangroves: "mangroves"
 #    - Sediment: "sediment"
   Projects:
