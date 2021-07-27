@@ -2,11 +2,15 @@
 layout: group
 title: Fouling Community
 editbutton: true
-links:
-  - path: fouling-community-protocol-marinegeo.pdf
-    name: Fouling Community Protocol
-    icon: save_alt
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link | Required? |
+| ------------- | ------------- | ------------- |
+| Sampling Event and Environmental Monitoring  | https://doi.org/10.25573/serc.14555511  | Mandatory |
+| Fouling Community  | https://doi.org/10.25573/serc.14510649  | Mandatory |
 
 # Introduction  
 
