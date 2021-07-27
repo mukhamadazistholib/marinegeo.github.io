@@ -3,18 +3,15 @@ layout: project
 title: Water Quality
 thumbnail: sonde.png
 editbutton: true
-links:
-  - path: marinegeo_protocol_environmental_monitoring.pdf
-    name: Water Quality Protocol
-    icon: save_alt
-  - path: marinegeo_datasheet_environmental_monitoring.pdf
-    name: Water Quality Datasheet
-    icon: save_alt
-  - path: marinegeo_spreadsheet_environmental_monitoring.xlsx
-    name: Water Quality Data Spreadsheet
-    icon: save_alt
 eov: Environment
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link |
+| ------------- | ------------- |
+| Sampling Event and Environmental Monitoring  | https://doi.org/10.25573/serc.14555511 |
 
 ## Overview
 

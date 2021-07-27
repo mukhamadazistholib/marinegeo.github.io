@@ -3,20 +3,17 @@ layout: project
 title: Visual Census
 thumbnail: scuba-diver.png
 editbutton: true
-links:
-  - path: marinegeo_protocol_visual_census.pdf
-    name: Visual Census Protocol
-    icon: save_alt
-  - path: marinegeo_datasheet_visual_census.pdf
-    name: Visual Census Field Datasheet
-    icon: save_alt
-  - path: marinegeo_spreadsheet_visual_census.xlsx
-    name: Visual Census Data Spreadsheet
-    icon: save_alt
 redirect_from:
   - /modules/reef-life-survey/
 eov: Species populations; species traits; community composition
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link |
+| ------------- | ------------- |
+| Diver Visual Survey  | https://doi.org/10.25573/serc.14717796 |
 
 ## Purpose
 

@@ -1,22 +1,19 @@
 ---
 layout: project
-title: Fish Seines
+title: Beach Seines
 thumbnail: fish_seine_icon.png
 editbutton: true
-links:
-  - path: marinegeo_protocol_beach_seines.pdf
-    name: Fish Seines Protocol
-    icon: save_alt
-  - path: marinegeo_datasheet_beach_seines.pdf
-    name: Fish Seines Field Datasheet
-    icon: save_alt
-  - path: marinegeo_spreadsheet_beach_seines.xlsx
-    name: Fish Seines Data Spreadsheet
-    icon: save_alt
 redirect_from:
   - /modules/seagrass-seine/
 eov: Species populations; species traits; community composition
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link |
+| ------------- | ------------- |
+| Beach Seines  | https://doi.org/10.25573/serc.14925105 |
 
 ## Overview
 Subtidal habitats support an abundant and diverse community of animals, including [small invertebrate epifauna](https://marinegeo.github.io/modules/seagrass-meshbags), larger macroinvertebrates and fishes, and in some regions sea turtles and marine mammals (manatees and dugongs). Larger animals can play important roles in altering habitat structure, community structure, and ecosystem processes, and are key in transporting production from submersed habitats into other habitats. Furthermore, structured habitats like seagrasses serve as a key 'nursery' habitats for juveniles of many fish species and can thus support coastal fisheries.

@@ -3,21 +3,18 @@ layout: project
 title: Predation Assay
 thumbnail: squidpops_icon.png
 editbutton: true
-links:
-  - path: marinegeo_protocol_predation_assay.pdf
-    name: Predation Assay Protocol
-    icon: save_alt
-  - path: marinegeo_datasheet_predation_assay.pdf
-    name: Predation Assay Field Datasheet
-    icon: save_alt
-  - path: marinegeo_spreadsheet_predation_assay.xlsx
-    name: Predation Assay Data Spreadsheet
-    icon: save_alt
 redirect_from:
   - /modules/squidpops/
 eov: Ecosystem function
 
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link |
+| ------------- | ------------- |
+| Predation Assay  | https://doi.org/10.25573/serc.14717802 |
 
 ## Overview
 

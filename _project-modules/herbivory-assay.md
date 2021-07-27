@@ -3,20 +3,14 @@ layout: project
 title: Herbivory Assay
 thumbnail: weedpops-icon.png
 editbutton: true
-links:
-  - path: MarineGEO_Herbivory_Assay_Protocol_v0.1.0.pdf
-    name: Herbivory Assay Protocol
-    icon: save_alt
-  - path: MarineGEO-Herbivory-Assay_Fieldsheet _v0.1.0.pdf
-    name: Herbivory Assay Field Datasheet
-    icon: save_alt
-  - path: https://github.com/MarineGEO/MarineGEO-template-workbooks/raw/master/herbivory/Herbivory-Data-Entry-Template.xlsx
-    name: Herbivory Assay Data Spreadsheet
-    icon: save_alt
 redirect_from:
   - /modules/squidpops/
 eov: Ecosystem functioning
 ---
+
+| Protocol  | Link | 
+| ------------- | ------------- | 
+| Ulva Assay  | https://doi.org/10.25573/serc.14717808 |
 
 # Background
 

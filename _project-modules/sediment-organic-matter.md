@@ -3,20 +3,17 @@ layout: project
 title: Sediment Organic Matter
 thumbnail: sediment_om_icon.png
 editbutton: true
-links:
-  - path: marinegeo_protocol_sediment_organic_matter.pdf
-    name: Sediment Organic Matter Protocol
-    icon: save_alt
-  - path: marinegeo_datasheet_sediment_organic_matter.pdf
-    name: Sediment Organic Matter Lab Datasheet
-    icon: save_alt
-  - path: marinegeo_spreadsheet_sediment_organic_matter.xlsx
-    name: Sediment Organic Matter Data Spreadsheet
-    icon: save_alt
 redirect_from:
   - /modules/seagrass-sediment-om/
 eov: Ecosystem structure
 ---
+
+# Downloads
+Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+
+| Protocol  | Link |
+| ------------- | ------------- |
+| Sediment Organic Matter  | https://doi.org/10.25573/serc.14925111 |
 
 ## Overview
 Seagrasses have evolved to live in extremely anoxic sediments, a result of the degradation of high concentrations of organic matter. The delivery of organic materials to the benthos is also known to be influenced by properties of the seagrass foodweb, such as epifaunal diversity and the presence of predators. Sediment characteristics are therefore linked to both the seagrasses themselves and the community they support. Sediment organic matter can be quantified using simple 'loss-on-ignition': the amount of organic material that is burned away at extremely high temperatures relative to more robust inorganic particles. This technique entails minimal effort in the field, and requires only a drying oven and combustion furnace in the lab.
