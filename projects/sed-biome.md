@@ -63,17 +63,17 @@ Note: Due to a long shipping time (probably a week) and difficulties to ship wit
 
 #### Ship the package:
 1.	Mail sediment and porewater samples as soon as possible to:   
-Dr. David M. Baker and Guibert Isis
-Swire Institute of Marine Science 
-6S-19, Kadoorie Biological Sciences Building 
-The University of Hong Kong 
-Pokfulam road, 
-999077 Hong Kong
-+85263134035 
-+85267751690 
-iguibert@hku.hk 
-dmbaker@hku.hk
-qle@legendre.cn
+Dr. David M. Baker and Guibert Isis  
+Swire Institute of Marine Science   
+6S-19, Kadoorie Biological Sciences Building   
+The University of Hong Kong   
+Pokfulam road,   
+999077 Hong Kong  
++85263134035   
++85267751690  
+iguibert@hku.hk   
+dmbaker@hku.hk  
+qle@legendre.cn  
 
 2.	Share the tracking number, filled invoice and size of the package with Dr. Isis Guibert: iguibert@hku.hk and Quynh Ngan LE qle@legendre.cn 
   
