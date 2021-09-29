@@ -47,13 +47,14 @@ require you to submit the scanned forms.
 
 ### Sediment and Porewater Sampling Shipping  
 
+#### BEFORE shipping:
+Please send an email to Dr. Isis Guibert: iguibert@hku.hk  to inform her that you are ready to ship and wait for her reply.  
+
 #### Prepare the package:
-1.	Make sure that the porewater samples (as well as the RNAlater tubes) are well sealed to avoid any gas exchange or leakage. We recommend using electrical tape on the top of the parafilm  
-2.	Freeze the samples at the lowest temperature possible: -80C is recommended  
-3.	When preparing the package, put an absorbent layer at the bottom of the package to avoid any issue with condensation  
-4.	Put the porewater samples surrounded by the frozen sediment samples so the porewater samples can stay cold longer  
-5.	Add blue gel packs to keep the package cold  
-6.	Pack the box tight with minimal air and sealed properly limiting heat transfer  
+1. Make sure that all the samples are well sealed to avoid any gas exchange or leakage. Please, use electrical tape over the parafilm.  
+2. Place each tube in a whirlpack or a clean ziplock and place them in a box (or two). Note: The Whirlpack or ziplock will avoid having cross-contamination if the tubes leak or break. Please make sure to close them well.  
+3.  Make sure that the samples are upright and pack the box tightly with minimal air and sealed properly to limit heat transfer. We recommend using a Styrofoam box.   
+Note: Due to a long shipping time (probably a week) and difficulties to ship with dry ice, please ship the samples frozen without gel pack or dry ice. We recommend packing in a small box that fits the content as the shipping cost increases with the size of the package.  
 
 #### Prepare required documents:
 1.	Fill out the invoice ("Partner invoice for shipping samples") and the detailed list ("Detailed packing list for shipping samples"). The field to fill out are highlighted in yellow  
@@ -61,20 +62,21 @@ require you to submit the scanned forms.
 3.	Add the three documents to the package  
 
 #### Ship the package:
-1.	Mail sediment and porewater samples on dry ice as soon as possible to:   
-Dr. David M. Baker and Guibert Isis  
-Swire Institute of Marine Science   
-6S-19, Kadoorie Biological Sciences Building   
-The University of Hong Kong   
-Pokfulam road,   
-999077 Hong Kong  
-+85263134035   
-+85267751690   
-iguibert@hku.hk   
-dmbaker@hku.hk  
+1.	Mail sediment and porewater samples as soon as possible to:   
+Dr. David M. Baker and Guibert Isis
+Swire Institute of Marine Science 
+6S-19, Kadoorie Biological Sciences Building 
+The University of Hong Kong 
+Pokfulam road, 
+999077 Hong Kong
++85263134035 
++85267751690 
+iguibert@hku.hk 
+dmbaker@hku.hk
+qle@legendre.cn
 
-2.	Share the tracking number with Dr. Isis Guibert: iguibert@hku.hk  
-
+2.	Share the tracking number, filled invoice and size of the package with Dr. Isis Guibert: iguibert@hku.hk and Quynh Ngan LE qle@legendre.cn 
+  
 ### Expectations
 
 Smithsonian MarineGEO commits to provide:
