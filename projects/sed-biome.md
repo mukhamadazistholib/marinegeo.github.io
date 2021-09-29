@@ -54,6 +54,7 @@ Please send an email to Dr. Isis Guibert: iguibert@hku.hk  to inform her that yo
 1. Make sure that all the samples are well sealed to avoid any gas exchange or leakage. Please, use electrical tape over the parafilm.  
 2. Place each tube in a whirlpack or a clean ziplock and place them in a box (or two). Note: The Whirlpack or ziplock will avoid having cross-contamination if the tubes leak or break. Please make sure to close them well.  
 3.  Make sure that the samples are upright and pack the box tightly with minimal air and sealed properly to limit heat transfer. We recommend using a Styrofoam box.   
+
 Note: Due to a long shipping time (probably a week) and difficulties to ship with dry ice, please ship the samples frozen without gel pack or dry ice. We recommend packing in a small box that fits the content as the shipping cost increases with the size of the package.  
 
 #### Prepare required documents:
