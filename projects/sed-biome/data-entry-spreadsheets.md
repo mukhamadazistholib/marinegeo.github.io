@@ -123,8 +123,8 @@ links:
   - path: SED-BIOME_site-40_Norway.xlsx
     name: Site 40 Norway 
     icon: save_alt
-  - path: SED-BIOME_site-41_Israel.xlsx
-    name: Site 41 Israel 
+  - path: SED-BIOME_site-41_Peru.xlsx
+    name: Site 41 Peru 
     icon: save_alt
   - path: SED-BIOME_site-42_Korea.xlsx
     name: Site 42 Korea 
@@ -138,11 +138,8 @@ links:
   - path: SED-BIOME_site-45_Italy.xlsx
     name: Site 45 Italy 
     icon: save_alt
-  - path: SED-BIOME_site-46_Panama.xlsx
+  - path: SED-BIOME_site-47_Panama.xlsx
     name: Site 46 Panama 
-    icon: save_alt
-  - path: SED-BIOME_site-47_Saudi Arabia.xlsx
-    name: Site 47 Saudi Arabia 
     icon: save_alt
   - path: SED-BIOME_site-48_USA.xlsx
     name: Site 48 USA 
