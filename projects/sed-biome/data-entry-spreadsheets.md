@@ -139,7 +139,7 @@ links:
     name: Site 45 Italy 
     icon: save_alt
   - path: SED-BIOME_site-47_Panama.xlsx
-    name: Site 46 Panama 
+    name: Site 47 Panama 
     icon: save_alt
   - path: SED-BIOME_site-48_USA.xlsx
     name: Site 48 USA 
