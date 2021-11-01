@@ -65,7 +65,6 @@ Note: Due to a long shipping time (probably a week) and difficulties to ship wit
 #### Ship the package:
 1.	Mail sediment and porewater samples as soon as possible to:   
 Dr. David M. Baker and Guibert Isis  
-Swire Institute of Marine Science   
 6S-19, Kadoorie Biological Sciences Building   
 The University of Hong Kong   
 Pokfulam road,   
