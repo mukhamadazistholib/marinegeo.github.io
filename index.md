@@ -4,7 +4,6 @@ title: MarineGEO
 subtitle: Protocols
 use-site-title: true
 editbutton: true
-habitat-links: true
 ---
 [MarineGEO](https://marinegeo.si.edu/) is a global network of partners focused on understanding how coastal marine ecosystems work—and how to keep them working.
 
