@@ -9,8 +9,6 @@ editbutton: true
 
 We focus on biodiversity as the heart of healthy, productive ecosystems and coastal regions, where marine life and people are concentrated and interact most. MarineGEO marshals the Smithsonian’s leadership in discovery and convening power to advance frontiers in knowledge and provide it to policymakers to support innovative management and protection of our oceans.
 
-## Protocols
-
 Protocols are packages that contain complete instructions for deploying experiments, data entry templates and field sheets. Each protocol contains:
  - a PDF document that includes step-by-step methods
  - a data entry sheet to print off and bring out into the field
@@ -30,18 +28,18 @@ Download zip files of all protocol materials at the following links:
 
 ## Cross-Habitat Protocols  
 
-To view and download protocols that are used across multiple habitats, either download the zip files at the above links or visit each individual figshare protocol resource, linked below.  
+To view and download protocols that are used across multiple habitats, either download the zip files at the above links or visit each individual figshare protocol resource, linked below. Note that these protocols are included in the zip files above, if relevant for sampling that community or habitat.  
 
 | Protocol  | DOI |
 | ------------- | ------------- |
-| Sampling Event Protocol | https://doi.org/10.25573/serc.14555511 |
-| Environmental Monitoring | - |
-| Diver Visual Survey | https://doi.org/10.25573/serc.14717796 |
-| Beach Seines | https://doi.org/10.25573/serc.14925111 |
-| Predation Assay | https://doi.org/10.25573/serc.14717802 |
-| Ulva Assay | https://doi.org/10.25573/serc.14717808 |
-| Sediment Organic Matter | https://doi.org/10.25573/serc.14925111 |
-| Benthic Photoquadrats | https://doi.org/10.25573/serc.14717823 |
+| [Sampling Event Protocol](https://doi.org/10.25573/serc.14555511) | https://doi.org/10.25573/serc.14555511 |
+| [Environmental Monitoring]() | - |
+| [Diver Visual Survey](https://doi.org/10.25573/serc.14717796) | https://doi.org/10.25573/serc.14717796 |
+| [Beach Seines](https://doi.org/10.25573/serc.14925111) | https://doi.org/10.25573/serc.14925111 |
+| [Predation Assay](https://doi.org/10.25573/serc.14717802) | https://doi.org/10.25573/serc.14717802 |
+| [Ulva Assay](https://doi.org/10.25573/serc.14717808) | https://doi.org/10.25573/serc.14717808 |
+| [Sediment Organic Matter](https://doi.org/10.25573/serc.14925111) | https://doi.org/10.25573/serc.14925111 |
+| [Benthic Photoquadrats](https://doi.org/10.25573/serc.14717823) | https://doi.org/10.25573/serc.14717823 |
 
 ### Protocol Development and Revision
 
