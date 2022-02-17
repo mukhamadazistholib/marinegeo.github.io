@@ -22,11 +22,11 @@ Download zip files of all protocol materials at the following links:
 
 | Protocol  | Link |
 | ------------- | ------------- |
-| [Coral Reef Habitat] (https://marinegeo.github.io/coral-reefs.html) | https://marinegeo.github.io/coral-reefs.html |
-| [Fouling Community] (https://marinegeo.github.io/fouling-community.html) | https://marinegeo.github.io/fouling-community.html |
-| [Oyster Reef Habitat] (https://marinegeo.github.io/oyster-reefs)| https://marinegeo.github.io/oyster-reefs |
-| [Seagrass Habitat] (https://marinegeo.github.io/seagrass.html)| https://marinegeo.github.io/seagrass.html |
-| [Salt Marsh Habitat] (https://marinegeo.github.io/salt-marshes.html)| https://marinegeo.github.io/salt-marshes.html |
+| [Coral Reef Habitat](https://marinegeo.github.io/coral-reefs.html) | https://marinegeo.github.io/coral-reefs.html |
+| [Fouling Community](https://marinegeo.github.io/fouling-community.html) | https://marinegeo.github.io/fouling-community.html |
+| [Oyster Reef Habitat](https://marinegeo.github.io/oyster-reefs)| https://marinegeo.github.io/oyster-reefs |
+| [Seagrass Habitat](https://marinegeo.github.io/seagrass.html)| https://marinegeo.github.io/seagrass.html |
+| [Salt Marsh Habitat](https://marinegeo.github.io/salt-marshes.html)| https://marinegeo.github.io/salt-marshes.html |
 
 ## Cross-Habitat Protocols  
 
