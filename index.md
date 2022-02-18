@@ -18,13 +18,13 @@ Protocols are packages that contain complete instructions for deploying experime
 
 Download zip files of all protocol materials at the following links:  
 
-| Protocol  | Link |
+| Protocol  | Download Link |
 | ------------- | ------------- |
-| [Coral Reef Habitat](https://marinegeo.github.io/coral-reefs.html) | https://marinegeo.github.io/coral-reefs.html |
-| [Fouling Community](https://marinegeo.github.io/fouling-community.html) | https://marinegeo.github.io/fouling-community.html |
-| [Oyster Reef Habitat](https://marinegeo.github.io/oyster-reefs)| https://marinegeo.github.io/oyster-reefs |
-| [Seagrass Habitat](https://marinegeo.github.io/seagrass.html)| https://marinegeo.github.io/seagrass.html |
-| [Salt Marsh Habitat](https://marinegeo.github.io/salt-marshes.html)| https://marinegeo.github.io/salt-marshes.html |
+| [Coral Reef Habitat](https://marinegeo.github.io/coral-reefs.html) | [Download all materials](https://marinegeo.github.io/assets/coral-reefs/Coral Reef Habitats.zip) |
+| [Fouling Community](https://marinegeo.github.io/fouling-community.html) | [Download all materials](https://marinegeo.github.io/assets/fouling-community/Fouling Community.zip) |
+| [Oyster Reef Habitat](https://marinegeo.github.io/oyster-reefs)| [Download all materials](https://marinegeo.github.io/assets/oyster-reefs/Oyster Reef Habitats.zip) |
+| [Seagrass Habitat](https://marinegeo.github.io/seagrass.html)| [Download all materials](https://marinegeo.github.io/assets/seagrass/Seagrass Habitats.zip) |
+| [Salt Marsh Habitat](https://marinegeo.github.io/salt-marshes.html)| [Download all materials](https://marinegeo.github.io/assets/salt-marsh/Salt Marsh Habitats.zip) |
 
 ## Cross-Habitat Protocols  
 
