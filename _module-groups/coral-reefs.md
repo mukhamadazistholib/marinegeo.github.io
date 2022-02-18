@@ -3,10 +3,14 @@ layout: group
 title: Coral Reef Habitats
 editbutton: true
 thumbnail: coral_reef.png
+links:
+  - path: https://marinegeo.github.io/assets/coral-reefs/Coral Reef Habitats.zip
+    name: All Coral Reefs Habitat Protocol Materials (ZIP file)
+    icon: save_alt
 ---
 
-# Downloads
-Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+# Requirements
+All protocol documents, field- and laboratory sheets, and data entry spreadsheets are also available from figshare:
 
 | Protocol  | Link | Required or Optional |
 | ------------- | ------------- | ------------- |

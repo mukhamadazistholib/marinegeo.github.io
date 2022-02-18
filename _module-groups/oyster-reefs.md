@@ -3,10 +3,14 @@ layout: group
 title: Oyster Reefs
 thumbnail: oyster.png
 editbutton: true
+links:
+  - path: https://marinegeo.github.io/assets/oyster-reefs/Oyster Reef Habitats.zip
+    name: All Oyster Reef Habitat Protocol Materials (ZIP file)
+    icon: save_alt
 ---
 
-# Downloads
-Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+# Requirements
+All protocol documents, field- and laboratory sheets, and data entry spreadsheets are also available from figshare:
 
 | Protocol  | Link | Required or Optional |
 | ------------- | ------------- | ------------- |

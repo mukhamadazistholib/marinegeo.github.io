@@ -2,24 +2,10 @@
 layout: group
 title: Seagrass Habitats
 thumbnail: seagrass.png
-modules:
-  core:
-    - /modules/seagrass-density
-    - /modules/seagrass-shoots
-    - /modules/predation-assay
-    - /modules/water-quality
-  recommended:
-    - /modules/fish-seines
-    - /modules/fish-trawls
-    - /modules/visual-census
-    - /modules/sediment-organic-matter
-    - /modules/seagrass-biomass
-    - /modules/seagrass-epifauna
-    - /modules/seagrass-macroalgae
 editbutton: true
 links:
-  - path: MarineGEO_Seagrass-Habitats_Protocol_v0.3.0.pdf
-    name: Seagrass Habitats Survey Design
+  - path: https://marinegeo.github.io/assets/seagrass/Seagrass Habitats.zip
+    name: All Seagrass Habitat Protocol Materials (ZIP file)
     icon: save_alt
 ---
 
@@ -29,10 +15,3 @@ Seagrasses are a group of >70 species of flowering plants that spend their lives
 
 
 ![Turtlegrass, *Thalassia testudinum*, Bocas del Toro, Panama]({{site.baseurl}}/assets/seagrass/Seagrass_Bocas_del_Toro_Panama.jpeg)
-
-
-## Methods
-
-MarineGEO protocols, listed below, provide a standardized set of measurements for characterizing the changing structure and health of seagrass communities, including cover and physical structure, fouling, and community composition of epifaunal animals and fishes. The data collected are meant to be inter-comparable with those of other major seagrass monitoring programs, including <a href="http://www.seagrasswatch.org/home_noG.html">Seagrass Watch</a> and <a href="http://www.seagrassnet.org/">SeagrassNet</a>.
-
-Seagrass community sampling has two main components: (1) non-destructive measurements of plant species composition (seagrass and macroalgae), percent cover, and shoot density; and (2) collection and processing of samples for seagrass structure, fouling load, and associated epifauna. The assessment is structured around three replicate 50-m transects, permanently marked where possible, at each site. Detailed protocols are provided in the linked modules below.

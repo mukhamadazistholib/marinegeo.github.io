@@ -2,10 +2,14 @@
 layout: group
 title: Fouling Community
 editbutton: true
+links:
+  - path: https://marinegeo.github.io/assets/fouling-community/Fouling Community.zip
+    name: All Fouling Community Protocol Materials (ZIP file)
+    icon: save_alt
 ---
 
-# Downloads
-Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+# Requirements
+All protocol documents, field- and laboratory sheets, and data entry spreadsheets are also available from figshare:
 
 | Protocol  | Link | Required or Optional |
 | ------------- | ------------- | ------------- |

@@ -2,10 +2,14 @@
 layout: group
 title: Salt Marsh Habitats
 editbutton: true
+links:
+  - path: https://marinegeo.github.io/assets/salt-marsh/Salt Marsh Habitats.zip
+    name: All Salt Marsh Habitat Protocol Materials (ZIP file)
+    icon: save_alt
 ---
 
-# Downloads
-Download the protocol documents, field- and laboratory sheets, and data entry spreadsheets from figshare:
+# Requirements
+All protocol documents, field- and laboratory sheets, and data entry spreadsheets are also available from figshare:
 
 | Protocol  | Link | Required or Optional |
 | ------------- | ------------- | ------------- |
