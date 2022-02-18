@@ -33,7 +33,7 @@ To view and download protocols that are used across multiple habitats, either do
 | Protocol  | DOI |
 | ------------- | ------------- |
 | [Sampling Event Protocol](https://doi.org/10.25573/serc.14555511) | https://doi.org/10.25573/serc.14555511 |
-| [Environmental Monitoring]() | - |
+| [Temperature Loggers](https://doi.org/10.25573/serc.19153766) | https://doi.org/10.25573/serc.19153766 |
 | [Diver Visual Survey](https://doi.org/10.25573/serc.14717796) | https://doi.org/10.25573/serc.14717796 |
 | [Beach Seines](https://doi.org/10.25573/serc.14925111) | https://doi.org/10.25573/serc.14925111 |
 | [Predation Assay](https://doi.org/10.25573/serc.14717802) | https://doi.org/10.25573/serc.14717802 |
