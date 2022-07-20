@@ -38,6 +38,7 @@ navbar-links:
 #    - Mangroves: "mangroves"
 #    - Sediment: "sediment"
   Projects:
+    - BEACON (2022): "projects/beacon"
     - Education: "projects/education"
     - Panamex: "projects/panamex"
     - Seagrass Food Webs (2019): "projects/seagrass-food-webs"
