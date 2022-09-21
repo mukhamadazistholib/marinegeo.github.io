@@ -1,7 +1,7 @@
 ---
 layout: project
 title: BEACON Survey
-editbutton: true
+editbutton: false
 ---
 
 ![BEACON]({{site.baseurl}}/assets/projects/beacon/beacon_image.jpg)
